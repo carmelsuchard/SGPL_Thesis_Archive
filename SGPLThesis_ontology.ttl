@@ -1,107 +1,102 @@
-@prefix : <http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesisOntology> .
+@prefix : <https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@base <http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesisOntology> .
-
-<http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesisOntology> rdf:type owl:Ontology ;
-                                                                         owl:imports <http://purl.org/dc/terms/> ,
-                                                                                     <http://purl.org/ontology/bibo/> ,
-                                                                                     <https://schema.org/version/latest/schemaorg-current-http.rdf> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 #################################################################
 #    Datatypes
 #################################################################
 
-###  http://www.w3.org/2001/XMLSchema#gYearMonth
-xsd:gYearMonth rdf:type rdfs:Datatype .
+###  http://www.w3.org/2001/XMLSchema#gYear
+xsd:gYear rdf:type rdfs:Datatype .
 
 
 #################################################################
 #    Object Properties
 #################################################################
 
-
-###  http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesisOntology#hasSpatialReference
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#hasSpatialReference
 :hasSpatialReference rdf:type owl:ObjectProperty ;
-                     rdfs:domain <http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesis> ;
-                     rdfs:range <http://www.semanticweb.org/carme/ontologies/2025/9/SpatialReference> .
+                     rdfs:domain :SGPLThesis ;
+                     rdfs:range :SpatialReference .
 
 
-###  http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesisOntology#hasSubjectReference
-:hasSubjectReference rdf:type owl:ObjectProperty ;
-                     rdfs:subPropertyOf owl:topObjectProperty ;
-                     rdfs:domain <http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesis> ;
-                     rdfs:range <http://www.semanticweb.org/carme/ontologies/2025/9/SubjectReference> .
-
-
-###  http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesisOntology#refersToPlace
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#refersToPlace
 :refersToPlace rdf:type owl:ObjectProperty ;
-               rdfs:domain <http://www.semanticweb.org/carme/ontologies/2025/9/SpatialReference> ;
-               rdfs:range <http://schema.org/Place> .
+               rdfs:domain :SpatialReference ;
+               rdfs:range schema:Place .
 
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#hasSubjectReference
+:hasSubjectReference rdf:type owl:ObjectProperty ;
+                     rdfs:domain :SGPLThesis ;
+                     rdfs:range :SubjectReference .
+
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#refersToConcept
+:refersToConcept rdf:type owl:ObjectProperty ;
+               rdfs:domain :SubjectReference ;
+               rdfs:range skos:Concept .
 
 #################################################################
 #    Data properties
 #################################################################
 
 ###  http://purl.org/dc/terms/issued
-<http://purl.org/dc/terms/issued> rdfs:domain <http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesis> .
-
+dcterms:issued rdfs:domain :SGPLThesis .
 
 ###  http://purl.org/dc/terms/title
-<http://purl.org/dc/terms/title> rdfs:domain <http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesis> .
+dcterms:title rdfs:domain :SGPLThesis .
 
+###  http://purl.org/dc/terms/creator
+dcterms:creator rdfs:domain :SGPLThesis ;
+                rdfs:range xsd:string .
 
-###  http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesisOntology#SpatialText
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SpatialText
 :SpatialText rdf:type owl:DatatypeProperty ;
-             rdfs:domain <http://www.semanticweb.org/carme/ontologies/2025/9/SpatialReference> ;
+             rdfs:domain :SpatialReference ;
              rdfs:range xsd:string .
 
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#textContext
+:textContext rdf:type owl:DatatypeProperty .
 
-###  http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesisOntology#textContext
-:textContext rdf:type owl:DatatypeProperty ;
-             rdfs:domain <http://www.semanticweb.org/carme/ontologies/2025/9/SpatialReference> ;
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SubjectText
+:SubjectText rdf:type owl:DatatypeProperty ;
+             rdfs:domain :SubjectReference ;
              rdfs:range xsd:string .
-
 
 #################################################################
 #    Classes
 #################################################################
 
-###  http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesis
-<http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesis> rdf:type owl:Class ;
-                                                                rdfs:subClassOf <http://purl.org/ontology/bibo/Thesis> ,
-                                                                                [ rdf:type owl:Restriction ;
-                                                                                  owl:onProperty <http://purl.org/dc/terms/issued> ;
-                                                                                  owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
-                                                                                  owl:onDataRange xsd:gYear
-                                                                                ] .
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SGPLThesis
+:SGPLThesis rdf:type owl:Class ;
+            rdfs:subClassOf bibo:Thesis ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty <http://purl.org/dc/terms/issued> ;
+                              owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                              owl:onDataRange xsd:gYear
+                            ] .
+
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SpatialReference
+:SpatialReference rdf:type owl:Class .
 
 
-###  http://www.semanticweb.org/carme/ontologies/2025/9/SGPLThesisOntologyTopic
-:Topic rdf:type owl:Class ;
-       rdfs:subClassOf <http://www.semanticweb.org/carme/ontologies/2025/9/SubjectReference> .
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SpatialReferenceFocus
+:SpatialReferenceFocus rdf:type owl:Class ;
+                      rdfs:subClassOf :SpatialReference .
 
 
-###  http://www.semanticweb.org/carme/ontologies/2025/9/SpatialReference
-<http://www.semanticweb.org/carme/ontologies/2025/9/SpatialReference> rdf:type owl:Class .
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SpatialReferenceMention
+:SpatialReferenceMention rdf:type owl:Class ;
+                        rdfs:subClassOf :SpatialReference .
 
-
-###  http://www.semanticweb.org/carme/ontologies/2025/9/SpatialReferenceFocus
-<http://www.semanticweb.org/carme/ontologies/2025/9/SpatialReferenceFocus> rdf:type owl:Class ;
-                                                                           rdfs:subClassOf <http://www.semanticweb.org/carme/ontologies/2025/9/SpatialReference> .
-
-
-###  http://www.semanticweb.org/carme/ontologies/2025/9/SpatialReferenceMention
-<http://www.semanticweb.org/carme/ontologies/2025/9/SpatialReferenceMention> rdf:type owl:Class ;
-                                                                             rdfs:subClassOf <http://www.semanticweb.org/carme/ontologies/2025/9/SpatialReference> .
-
-
-###  http://www.semanticweb.org/carme/ontologies/2025/9/SubjectReference
-<http://www.semanticweb.org/carme/ontologies/2025/9/SubjectReference> rdf:type owl:Class .
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SubjectReference
+:SubjectReference rdf:type owl:Class .
 
 
 ###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
