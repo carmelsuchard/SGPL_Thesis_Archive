@@ -1,0 +1,2425 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sgpl: <https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+sgpl:Thesis100 a sgpl:SGPLThesis ;
+    dcterms:creator "H. Prins" ;
+    dcterms:issued 1981 ;
+    dcterms:title "ACCEPTATIE VAN EEN RELATIE",
+        "Een analyse van de toepassingsmogelijkheden van de Relatienota in het relatienotagebied Oirschot-Best" ;
+    sgpl:thesisID 100 .
+
+sgpl:Thesis101 a sgpl:SGPLThesis ;
+    dcterms:creator "R. Roosjen",
+        "R. Snel" ;
+    dcterms:issued 1981 ;
+    dcterms:title "Immigratie, oprichting en verplaatsing van kantoren in de gemeente Utrecht, 1975-1980 resultaten van een enquete",
+        "Kantoren in Midden - Utrecht" ;
+    sgpl:thesisID 101 .
+
+sgpl:Thesis102 a sgpl:SGPLThesis ;
+    dcterms:creator "Coja Jansen",
+        "Marlies Vulto" ;
+    dcterms:issued 1981 ;
+    dcterms:title "De belemmeringen vanuit de woonomgeving bij het ondernemen van aktiviteiten buitenshuis door vrouwen met jonge kinderen die in een nieuwbouwwijk wonen",
+        "Met een case-study in Maarssenbroek",
+        "VROUWEN IN EEN NIEUWBOUWWIJK: VASTGEBOUWD?" ;
+    sgpl:thesisID 102 .
+
+sgpl:Thesis103 a sgpl:SGPLThesis ;
+    dcterms:creator "KEES WERKHOVEN" ;
+    dcterms:issued 1980 ;
+    dcterms:title "RUIMTELIJKE ORDENING en SOCIAAL-EKONOMIES BELEID" ;
+    sgpl:thesisID 103 .
+
+sgpl:Thesis104 a sgpl:SGPLThesis ;
+    dcterms:creator "André Versloot",
+        "Dick W. Akkies" ;
+    dcterms:issued 1982 ;
+    dcterms:title "een onderzoek naar de struktuurveranderingen in de werkgelegenheid en de invloed van het gemeentelijk beleid op het bedrijfsleven",
+        "werkgelegenheid en beleid in de gemeente zeist" ;
+    sgpl:thesisID 104 .
+
+sgpl:Thesis105 a sgpl:SGPLThesis ;
+    dcterms:creator "Fedde Poort",
+        "Fer de Bruin",
+        "Hans de Leeuw",
+        "Jan Minderhoud" ;
+    dcterms:issued 1982 ;
+    dcterms:title "STEDELIJK BEHEER IN THEORETISCH PERSPECTIEF" ;
+    sgpl:thesisID 105 .
+
+sgpl:Thesis106 a sgpl:SGPLThesis ;
+    dcterms:creator "A.L.P. Buitelaar" ;
+    dcterms:issued 1988 ;
+    dcterms:title "Een onderzoek naar de publieke organisatie in de Middeleeuwse parochie Breukelen, mede bezien tegen het licht van de historische geografie.",
+        "MACHT EN ZEGGENSCHAP IN HET MIDDELEEUWSE BREUKELEN" ;
+    sgpl:thesisID 106 .
+
+sgpl:Thesis107 a sgpl:SGPLThesis ;
+    dcterms:creator "Guus van Westen",
+        "Ron Hansen" ;
+    dcterms:issued 1982 ;
+    dcterms:title "Een studie naar handelsactiviteiten in een kleine Malinese stad",
+        "Handel en Wandel in Djenne" ;
+    sgpl:thesisID 107 .
+
+sgpl:Thesis108 a sgpl:SGPLThesis ;
+    dcterms:creator "Luc van Huijgevoort",
+        "Yvonne Hazelaar" ;
+    dcterms:issued 1982 ;
+    dcterms:title "een inventarisatie en evaluatie van de overloop van de werkgelegenheid naar nieuwegein en hoorn",
+        "werk naar de groeikernen" ;
+    sgpl:thesisID 108 .
+
+sgpl:Thesis109 a sgpl:SGPLThesis ;
+    dcterms:creator "Fedde Poort",
+        "Hans de Leeuw" ;
+    dcterms:issued 1982 ;
+    dcterms:title "in Eindhoven.",
+        "stedelijk beheer" ;
+    sgpl:thesisID 109 .
+
+sgpl:Thesis110 a sgpl:SGPLThesis ;
+    dcterms:creator "Eric Lensink",
+        "Hans van Paddenburgh" ;
+    dcterms:issued 1982 ;
+    dcterms:title "blijf op de kleintjes letten",
+        "een verslag van een onderzoek naar de variatie in en waardering van regionale verschillen in prijzen van kruidenierswaren" ;
+    sgpl:thesisID 110 .
+
+sgpl:Thesis111 a sgpl:SGPLThesis ;
+    dcterms:creator "Pia Lindner" ;
+    dcterms:title "De vrouw in Djenné, Mali",
+        "Een sociaal-economische en demografische analyse" ;
+    sgpl:thesisID 111 .
+
+sgpl:Thesis113 a sgpl:SGPLThesis ;
+    dcterms:creator "Geert Renting" ;
+    dcterms:issued 1982 ;
+    dcterms:title "De weg van Rotterdam naar zee",
+        "een historisch-kartografische studie" ;
+    sgpl:thesisID 113 .
+
+sgpl:Thesis114 a sgpl:SGPLThesis ;
+    dcterms:creator "G.G. van Beinum" ;
+    dcterms:issued 1983 ;
+    dcterms:title "Een beleidsgerichte beoordelingsmethoden van woonomstandigheden",
+        "Huisvestingsomstandigheden op het Keniaanse platteland en het huisvestingsbeleid van de overheid" ;
+    sgpl:thesisID 114 .
+
+sgpl:Thesis115 a sgpl:SGPLThesis ;
+    dcterms:creator "Fedde Poort",
+        "Fer de Bruin",
+        "Hans de Leeuw",
+        "Jan Minderhoud" ;
+    dcterms:issued 1983 ;
+    dcterms:title "stedelijk beheer: een theorie-praktijk-confrontatie" ;
+    sgpl:thesisID 115 .
+
+sgpl:Thesis117 a sgpl:SGPLThesis ;
+    dcterms:creator "Ben van de Burgwal" ;
+    dcterms:issued 1983 ;
+    dcterms:title "Een onderzoek naar de invloed van de tweede woningen op het wonen in een landelijk gebied en het daarbij betrokken beleid",
+        "TWEEDE WONINGEN IN ZUIDWEST-FRIESLAND" ;
+    sgpl:thesisID 117 .
+
+sgpl:Thesis118 a sgpl:SGPLThesis ;
+    dcterms:creator "Marian van Eekelen" ;
+    dcterms:issued 1983 ;
+    dcterms:title "AGRARISCHE HERVORMING IN ZUID-PORTUGAL",
+        "Landbouwcoöperaties en -collectieven in Zuid-Portugal na de Anjerrevolutie in 1974" ;
+    sgpl:thesisID 118 .
+
+sgpl:Thesis119 a sgpl:SGPLThesis ;
+    dcterms:creator "K.E. van der Wielen",
+        "P.J.W.M. Mulders" ;
+    dcterms:issued 1983 ;
+    dcterms:title "Een historisch-geografisch onderzoek naar de ruimtelijke structuur van rurale nederzettingen in West-Suffolk, Engeland",
+        "Typologie en genese van rurale nederzettingen in West-Suffolk" ;
+    sgpl:thesisID 119 .
+
+sgpl:Thesis120 a sgpl:SGPLThesis ;
+    dcterms:creator "Marion van der Plas",
+        "Renske van Vliet" ;
+    dcterms:issued 1983 ;
+    dcterms:title "OVER VERBETERING EN BELEID",
+        "een analyse van de verbetering van vooroorlogse woningwetkomplexen door toegelaten instellingen in Amsterdam" ;
+    sgpl:thesisID 120 .
+
+sgpl:Thesis121 a sgpl:SGPLThesis ;
+    dcterms:creator "Hijmen Valkenburg",
+        "Jos Rikers" ;
+    dcterms:issued 1983 ;
+    dcterms:title "BEWONERSBELANGEN EN RECREANTENBELANGEN : EEN RUIMTELIJK CONFLICT ?",
+        "Een onderzoek naar de houding van de bewoners ten aanzien van een watersportfunctie van hun dorp, in twee dorpen (Hemelum en Heeg) in het Friese Merengebied." ;
+    sgpl:thesisID 121 .
+
+sgpl:Thesis122 a sgpl:SGPLThesis ;
+    dcterms:creator "Moniek Schr&#246;der" ;
+    dcterms:issued 1983 ;
+    dcterms:title "Swedish corporations Corporate strategy and Locational choice",
+        "ZWEEDSE INDUSTRIËLE ONDERNEMINGEN: Ondernemingsstrategie en Lokatiekeuze" ;
+    sgpl:thesisID 122 .
+
+sgpl:Thesis123 a sgpl:SGPLThesis ;
+    dcterms:creator "F.J. van Woudenberg" ;
+    dcterms:issued 1983 ;
+    dcterms:title "Een historisch geografisch onderzoek naar het ontstaan en de ontwikkeling van de stedelijke nederzettingen Tholen en Sint Maartensdijk",
+        "VAN TOL TOT THOLEN" ;
+    sgpl:thesisID 123 .
+
+sgpl:Thesis124 a sgpl:SGPLThesis ;
+    dcterms:creator "CONSTANCE BOOGERS",
+        "FRANK V. DUGTEREN" ;
+    dcterms:issued 1984 ;
+    dcterms:title "EEN ONDERZOEK NAAR WOONLASTEN EN DOORSTROMING IN : NIEUWEGEIN",
+        "WOONLASTEN IN NIEUWBOUW" ;
+    sgpl:thesisID 124 .
+
+sgpl:Thesis125 a sgpl:SGPLThesis ;
+    dcterms:creator "TJALLE VAN DER BURG" ;
+    dcterms:issued 1984 ;
+    dcterms:title "OVER DE OORZAKEN VAN ONDERONTWIKKELING" ;
+    sgpl:thesisID 125 .
+
+sgpl:Thesis126 a sgpl:SGPLThesis ;
+    dcterms:creator "Elly Klooster",
+        "Heleen van Camp" ;
+    dcterms:issued 1984 ;
+    dcterms:title "MULTICRITERIA-EVALUATIE",
+        "VAN BOUWLOCATIES IN HET STADSGEWEST UTRECHT" ;
+    sgpl:thesisID 126 .
+
+sgpl:Thesis127 a sgpl:SGPLThesis ;
+    dcterms:creator "A. G. M. VAN ELZAKKER" ;
+    dcterms:title "REGIONALE VERSCHILLEN IN MEDISCHE CONSUMPTIE",
+        "een sociaal-geografische studie" ;
+    sgpl:thesisID 127 .
+
+sgpl:Thesis128 a sgpl:SGPLThesis ;
+    dcterms:creator "Jenny Fix",
+        "René Verhoeff" ;
+    dcterms:issued 1984 ;
+    dcterms:title "Regionale ontwikkeling",
+        "door Zelfbestuur",
+        "een onderzoek naar de naoorlogse regionale ontwikkeling van Servië (Joegoslavië) deel 1" ;
+    sgpl:thesisID 128 .
+
+sgpl:Thesis129 a sgpl:SGPLThesis ;
+    dcterms:creator "Jan Willem de Koning",
+        "Michiel Olij" ;
+    dcterms:issued 1985 ;
+    dcterms:title "ECONOMISCHE POTENTIES EN PRODUKTIESTRUCTUUR",
+        "een sterkte/zwakte onderzoek van de metaalindustrie in Nederland, alsmede de regio's Utrecht, Limburg en Oost-Nederland" ;
+    sgpl:thesisID 129 .
+
+sgpl:Thesis130 a sgpl:SGPLThesis ;
+    dcterms:creator "Henk Luitjes",
+        "Ingrid Schrauwen" ;
+    dcterms:issued 1984 ;
+    dcterms:title "BOERDERIJVERPLAATSING EN LEEFBAARHEID",
+        "Enkele effecten van boerderijverplaatsing in de ruilverkaveling Lek en Linge op een aantal leefbaarheidsdimensies.",
+        "TUSSEN LEK EN LINGE" ;
+    sgpl:thesisID 130 .
+
+sgpl:Thesis131 a sgpl:SGPLThesis ;
+    dcterms:creator "Erni Olde Loohuis-Morssinkhof",
+        "Marijke Kloosterman" ;
+    dcterms:issued 1984 ;
+    dcterms:title "EEN ECONOMISCH-GEOGRAFISCHE CASE-STUDIE IN DE GEMEENTEN DOORN, LOOSDRECHT EN RHENEN.",
+        "TOERISME/RECREATIE en WERKGELEGENHEIDsaspecten" ;
+    sgpl:thesisID 131 .
+
+sgpl:Thesis132 a sgpl:SGPLThesis ;
+    dcterms:creator "L.J. Paul" ;
+    dcterms:issued 1984 ;
+    dcterms:title "HET I.M.F. EN AFRIKA",
+        "HET VOORBEELD MALI" ;
+    sgpl:thesisID 132 .
+
+sgpl:Thesis133 a sgpl:SGPLThesis ;
+    dcterms:creator "J. van Plateringen" ;
+    dcterms:issued 1984 ;
+    dcterms:title "Afstandsgedrag en consumentenonderzoek" ;
+    sgpl:thesisID 133 .
+
+sgpl:Thesis134 a sgpl:SGPLThesis ;
+    dcterms:creator "G. Renting" ;
+    dcterms:issued 1985 ;
+    dcterms:title "'MARS- EN WESTERSTROOM'; EEN RUILVERKAVELING OP HET DRENTS PLATEAU, historisch-geografisch benaderd" ;
+    sgpl:thesisID 134 .
+
+sgpl:Thesis135 a sgpl:SGPLThesis ;
+    dcterms:creator "E.A.P. Kaats",
+        "H.J.A. Veelenturf" ;
+    dcterms:issued 1986 ;
+    dcterms:title "DE AANTREKKINGSKRACHT VAN MIDDELGROTE STEDEN: EEN KWESTIE VAN LEEFBAARHEID?" ;
+    sgpl:thesisID 135 .
+
+sgpl:Thesis136 a sgpl:SGPLThesis ;
+    dcterms:creator "Bram Verhoef",
+        "Theo Thuis" ;
+    dcterms:issued 1984 ;
+    dcterms:title "DOORSTROMING OP DE BEDRIJFSPANDENMARKT",
+        "Een onderzoek naar de veranderingen in bezetting van bedrijfspanden in een achttal buurten in Utrecht voor de periode 1977-1982" ;
+    sgpl:thesisID 136 .
+
+sgpl:Thesis137 a sgpl:SGPLThesis ;
+    dcterms:creator "H.J. van den Driessche",
+        "J. Hollestelle" ;
+    dcterms:issued 1985 ;
+    dcterms:title "Een sociaal-geografisch onderzoek naar de huisvestingssituatie van zelfstandig wonende ouderen in Utrecht" ;
+    sgpl:thesisID 137 .
+
+sgpl:Thesis138 a sgpl:SGPLThesis ;
+    dcterms:creator "Willy Dwarkasing" ;
+    dcterms:issued 1985 ;
+    dcterms:title "DE SHELL-RAFFINADERIJ OP CURACAO; HAAR SOCIAAL-ECONOMISCHE EFFECTEN" ;
+    sgpl:thesisID 138 .
+
+sgpl:Thesis139 a sgpl:SGPLThesis ;
+    dcterms:creator "A.J.L. van Es",
+        "H.G.J. Rigter" ;
+    dcterms:issued 1985 ;
+    dcterms:title "CIBOR",
+        "Opzet van een informatiebestand ten behoeve van de openluchtrecreatie : een verkenning." ;
+    sgpl:thesisID 139 .
+
+sgpl:Thesis140 a sgpl:SGPLThesis ;
+    dcterms:creator "G.J. Topper",
+        "L. Franso" ;
+    dcterms:issued 1985 ;
+    dcterms:title "Een onderzoek naar bedrijfsbeëindigingen in het stadsgewest Utrecht in 1983.",
+        "KENNIS VAN ZAKEN" ;
+    sgpl:thesisID 140 .
+
+sgpl:Thesis141 a sgpl:SGPLThesis ;
+    dcterms:creator "Wouter van Miltenburg" ;
+    dcterms:issued 1985 ;
+    dcterms:title "Een vergelijking tussen voormalige inwoners van het stadsgewest Amsterdam en de regio Noordwest-Utrecht",
+        "HET VERHUISVERLEDEN VAN ALLOCHTONE HUISHOUDENS IN KLEINE PLATTELANDSKERNEN" ;
+    sgpl:thesisID 141 .
+
+sgpl:Thesis142 a sgpl:SGPLThesis ;
+    dcterms:creator "J.H.J. van Nimwegen" ;
+    dcterms:issued 1985 ;
+    dcterms:title "Het aandeel van de bewoners in het beheer-proces van korporatiewoningen; overwegingen bij nieuwe beheervormen" ;
+    sgpl:thesisID 142 .
+
+sgpl:Thesis143 a sgpl:SGPLThesis ;
+    dcterms:creator "Helène van der Poel",
+        "Marjolijn van Valkenhoef" ;
+    dcterms:issued 1985 ;
+    dcterms:title "Acquisite van buitenlandse bedrijven door regionale en lokale overheden.",
+        "NEDERLAND IN DE (UIT)VERKOOP" ;
+    sgpl:thesisID 143 .
+
+sgpl:Thesis144 a sgpl:SGPLThesis ;
+    dcterms:creator "Bob Sinnige",
+        "Paul Trip" ;
+    dcterms:issued 1985 ;
+    dcterms:title "Startende bedrijven in Zuid-West Gelderland." ;
+    sgpl:thesisID 144 .
+
+sgpl:Thesis145 a sgpl:SGPLThesis ;
+    dcterms:creator "Arnoud van der Valk",
+        "Rene van IJzendoorn" ;
+    dcterms:issued 1985 ;
+    dcterms:title "Een economisch-geografische studie naar de herbenuttingsmogelijkheden van in onbruik geraakte bedrijfsruimte in de gemeente Utrecht.",
+        "HERSTRUCTURERING EN BEDRIJFSRUIMTE" ;
+    sgpl:thesisID 145 .
+
+sgpl:Thesis146 a sgpl:SGPLThesis ;
+    dcterms:creator "Frank van Dam",
+        "Marcel van der Velden" ;
+    dcterms:issued 1986 ;
+    dcterms:title "DEELTIJDLANDBOUW EN NEVENINKOMSTEN OP AGRARISCHE BEDRIJVEN IN DE STADSRANDZONE",
+        "Een onderzoek naar de inkomensvorming op agrarische bedrijven in de stadsrandzones van Amsterdam en Zwolle" ;
+    sgpl:thesisID 146 .
+
+sgpl:Thesis147 a sgpl:SGPLThesis ;
+    dcterms:creator "A.M. Groen",
+        "F.J. Kraan" ;
+    dcterms:issued 1986 ;
+    dcterms:title "DE TOEKOMST VAN DE HUURAPPARTEMENTEN IN DE HAAGSE WIJKEN VALKENBOSKWARTIER EN LAAKKWARTIER-OOST",
+        "EEN ANALYSE VAN HET APPARTEMENTENBESTAND EN EEN ONDERZOEK ONDER EIGENAAR-VERHUURDERS" ;
+    sgpl:thesisID 147 .
+
+sgpl:Thesis148 a sgpl:SGPLThesis ;
+    dcterms:creator "A.M.G. Stornebrink",
+        "F.C.A. Fijen",
+        "H.M.J.L. Koolen",
+        "W.P.P. Kolner" ;
+    dcterms:issued 1986 ;
+    dcterms:title "Deel 1: het algemeen kader van het onderzoek en de case-studie Kennemerland.",
+        "SCHAALVERGROTING IN HET HOGER BEROEPS ONDERWIJS: EEN GEOGRAFISCHE VERKENNING." ;
+    sgpl:thesisID 148 .
+
+sgpl:Thesis149 a sgpl:SGPLThesis ;
+    dcterms:creator "Igor Heller" ;
+    dcterms:issued 1986 ;
+    dcterms:title "Een onderzoek naar het bezoek van horecabedrijven in een modern winkelcentrum.",
+        "Horeca in Hoog-Catharijne" ;
+    sgpl:thesisID 149 .
+
+sgpl:Thesis150 a sgpl:SGPLThesis ;
+    dcterms:creator "Pieter van Ginneken" ;
+    dcterms:issued 1986 ;
+    dcterms:title "VERANDERINGEN IN HET LOKATIEPATROON VAN PSYCHIATRISCHE ZIEKENHUIZEN" ;
+    sgpl:thesisID 150 .
+
+sgpl:Thesis151 a sgpl:SGPLThesis ;
+    dcterms:creator "Martien de Vries",
+        "Peter Jansen" ;
+    dcterms:issued 1986 ;
+    dcterms:title "PATIENTENSTROMEN IN MIDDEN-KENNEMERLAND" ;
+    sgpl:thesisID 151 .
+
+sgpl:Thesis153 a sgpl:SGPLThesis ;
+    dcterms:creator "J. Mulder",
+        "N.L.M. Landuyt" ;
+    dcterms:issued 1986 ;
+    dcterms:title "NEDERLANDSE ONDERNEMINGEN IN DE VERENIGDE STATEN",
+        "vestigingsgedrag van de Nederlandse bedrijvigheid" ;
+    sgpl:thesisID 153 .
+
+sgpl:Thesis154 a sgpl:SGPLThesis ;
+    dcterms:creator "Els Molenaar",
+        "Job Posner" ;
+    dcterms:issued 1986 ;
+    dcterms:title "MODEL VAN EEN MARKETING-INFORMATIESYSTEEM VOOR HET TOERISTISCH-RECREATIEF PRODUCT VAN DE STAD UTRECHT",
+        "Utrecht stad naar mijn hart",
+        "VERSLAGEN VAN LEERONDERZOEK G & P" ;
+    sgpl:thesisID 154 .
+
+sgpl:Thesis155 a sgpl:SGPLThesis ;
+    dcterms:creator "Gerard Westerveld",
+        "Klaas-Piet Peereboom" ;
+    dcterms:issued 1986 ;
+    dcterms:title "GEÏNTEGREERDE BEDRIJFSPROJECTEN IN DE PROVINCIE UTRECHT" ;
+    sgpl:thesisID 155 .
+
+sgpl:Thesis156 a sgpl:SGPLThesis ;
+    dcterms:creator "Marianne Wiegersma",
+        "Sander Reith" ;
+    dcterms:issued 1986 ;
+    dcterms:title "Analyse van het appartementenbestand en onderzoek onder eigenaar-verhuurders van appartementen in Mariahoeve en Staten-kwartier, twee wijken in Den Haag.",
+        "DE TOEKOMST VAN VERHUURDE EN LEEGSTAANDE APPARTEMENTEN IN DEN HAAG" ;
+    sgpl:thesisID 156 .
+
+sgpl:Thesis157 a sgpl:SGPLThesis ;
+    dcterms:creator "Toon Weerts" ;
+    dcterms:issued 1986 ;
+    dcterms:title "ZUID OOST NEDERLAND, VERKEERSVRAAGSTUK ?",
+        "een onderzoek naar de hoofdwegenstruktuur in Zuid-Oostelijk Nederland" ;
+    sgpl:thesisID 157 .
+
+sgpl:Thesis158 a sgpl:SGPLThesis ;
+    dcterms:creator "Guido Derksen",
+        "Wim van der Zanden" ;
+    dcterms:issued 1987 ;
+    dcterms:title "ACHTERSTANDSBUURT EN ONDERWIJSPRESTATIE",
+        "Een onderzoek naar onderwijsprestaties in Utrechtse achterstandsbuurten" ;
+    sgpl:thesisID 158 .
+
+sgpl:Thesis159 a sgpl:SGPLThesis ;
+    dcterms:creator "E.M.S. DIJK",
+        "R. VERHOEF" ;
+    dcterms:issued 1987 ;
+    dcterms:title "Een onderzoek naar de ontwikkeling van woonlastenquoten in de Kinkerbuurt",
+        "WOONLASTEN EN INKOMENS IN DE STADSVERNIEUWING" ;
+    sgpl:thesisID 159 .
+
+sgpl:Thesis160 a sgpl:SGPLThesis ;
+    dcterms:creator "D.L. Loman",
+        "J.F. Durian" ;
+    dcterms:issued 1987 ;
+    dcterms:title "AUTOGIS ONDER DE LOEP" ;
+    sgpl:thesisID 160 .
+
+sgpl:Thesis161 a sgpl:SGPLThesis ;
+    dcterms:creator "Elske van Gorkum",
+        "Mirjam Andriessen" ;
+    dcterms:issued 1987 ;
+    dcterms:title "Bewijzen rurale centra boeren een dienst?",
+        "Een onderzoek naar het funktioneren van dienstencentra in rurale ontwikkeling, het voorbeeld van de cercle Tominian, Mali" ;
+    sgpl:thesisID 161 .
+
+sgpl:Thesis162 a sgpl:SGPLThesis ;
+    dcterms:creator "B.F. Welter",
+        "F.H.W.M. de Heus",
+        "P.P. van Kleij" ;
+    dcterms:issued 1987 ;
+    dcterms:title "Mogelijkheden voor coördinatie op het gebied van de ruimtelijke ordening in het stadsgewest Utrecht",
+        "RUIMTELIJK PLANNEN EN BESTUREN IN HET STADSGEWEST UTRECHT: EEN NIEUWE START?",
+        "VERSLAGEN VAN LEERONDERZOEK G & P" ;
+    sgpl:thesisID 162 .
+
+sgpl:Thesis163 a sgpl:SGPLThesis ;
+    dcterms:creator "Margot Klute" ;
+    dcterms:issued 1987 ;
+    dcterms:title "Een aanzet tot diskussie over de vraag of het verschil maakt om als man of als vrouw het ontwikkelingswerk en het leven met een vaste partner met elkaar te kombineren",
+        "ONTWIKKELINGSWERK EN PRIVELEVEN" ;
+    sgpl:thesisID 163 .
+
+sgpl:Thesis164 a sgpl:SGPLThesis ;
+    dcterms:creator "Jeanet Kullberg" ;
+    dcterms:issued 1987 ;
+    dcterms:title "Bolsward",
+        "ontstaansgeschiedenis en ruimtelijke ontwikkeling" ;
+    sgpl:thesisID 164 .
+
+sgpl:Thesis165 a sgpl:SGPLThesis ;
+    dcterms:creator "ANJA VAN LEEUWEN" ;
+    dcterms:issued 1987 ;
+    dcterms:title "APPARTEMENTENSPLITSING EN LEEGSTAND",
+        "EEN ONDERZOEK NAAR DE LANGDURIGE LEEGSTAND VAN VOOROORLOGSE APPARTEMENTEN IN ROTTERDAM" ;
+    sgpl:thesisID 165 .
+
+sgpl:Thesis166 a sgpl:SGPLThesis ;
+    dcterms:creator "A.H. Zandee",
+        "C.M.L. Mouwens" ;
+    dcterms:issued 1987 ;
+    dcterms:title "Een onderzoek naar de ontwikkelingsaspecten van Teleport Office park te Amsterdam",
+        "Teleport Amsterdam" ;
+    sgpl:thesisID 166 .
+
+sgpl:Thesis167 a sgpl:SGPLThesis ;
+    dcterms:creator "Josefine Oberhausen" ;
+    dcterms:issued 1987 ;
+    dcterms:title "Een kwantitatieve benadering voor de praktijk",
+        "VESTIGINGSPLAATSONDERZOEK VOOR DE DETAILHANDEL" ;
+    sgpl:thesisID 167 .
+
+sgpl:Thesis168 a sgpl:SGPLThesis ;
+    dcterms:creator "Jochem Pleijsier" ;
+    dcterms:issued 1987 ;
+    dcterms:title "Doktoraal-skriptie Sociale Geografie van de Ontwikkelingslanden",
+        "Migratie naar en vanuit Ciudad Cuauhtemoc" ;
+    sgpl:thesisID 168 .
+
+sgpl:Thesis169 a sgpl:SGPLThesis ;
+    dcterms:creator "J.H.R. van der Schuit",
+        "R. Ruesink" ;
+    dcterms:issued 1987 ;
+    dcterms:title "HUISHOUDENSMIGRATIE IN STEDELIJKE HERSTRUCTURERINGSGEBIEDEN: DE SITUATIE IN DE STAD UTRECHT" ;
+    sgpl:thesisID 169 .
+
+sgpl:Thesis170 a sgpl:SGPLThesis ;
+    dcterms:creator "A.G.F.J. VAN DER VOORN" ;
+    dcterms:issued 1987 ;
+    dcterms:title "NEDERLANDSE ONDERNEMINGEN IN HET VERENIGD KONINKRIJK",
+        "een studie naar ontwikkelingen en achtergronden van Nederlandse investeringen overzee" ;
+    sgpl:thesisID 170 .
+
+sgpl:Thesis171 a sgpl:SGPLThesis ;
+    dcterms:creator "J. van Berkel",
+        "T.A.L. Leliveld" ;
+    dcterms:issued 1988 ;
+    dcterms:title "OPSLAGPANDEN IN DE GEMEENTE UTRECHT",
+        "VERSLAGEN VAN LEERONDERZOEK G&P" ;
+    sgpl:thesisID 171 .
+
+sgpl:Thesis173 a sgpl:SGPLThesis ;
+    dcterms:creator "Frank Bilsen",
+        "Gerda Blom" ;
+    dcterms:issued 1988 ;
+    dcterms:title "CASE-STUDY VAN HET ZEEHELDENKWARTIER EN DUINOORD-ZUID",
+        "WONEN IN DE BINNENSTAD VAN DEN HAAG" ;
+    sgpl:thesisID 173 .
+
+sgpl:Thesis174 a sgpl:SGPLThesis ;
+    dcterms:creator "Frank van Gemerden",
+        "Michaël Steeghs",
+        "Robert Breed" ;
+    dcterms:issued 1988 ;
+    dcterms:title "Een onderzoek naar de konflikten tussen ruimtegebruik en landschap in de stadsrandzone van Veenendaal",
+        "LANDSCHAP IN DE STADSRANDZONE" ;
+    sgpl:thesisID 174 .
+
+sgpl:Thesis175 a sgpl:SGPLThesis ;
+    dcterms:creator "Marja Lenssen",
+        "Marlou Burgers" ;
+    dcterms:issued 1988 ;
+    dcterms:title "Een onderzoek naar de markthandel in de stad Mopti, Mali",
+        "MOPTI ALS MARKTPLAATS" ;
+    sgpl:thesisID 175 .
+
+sgpl:Thesis176 a sgpl:SGPLThesis ;
+    dcterms:creator "M. J. C. Busch",
+        "Mattie Busch" ;
+    dcterms:issued 1988 ;
+    dcterms:title "INDUSTRIËLE TOELEVERING EN UITBESTEDING IN DE PROVINCIE UTRECHT: een verkenning" ;
+    sgpl:thesisID 176 .
+
+sgpl:Thesis177 a sgpl:SGPLThesis ;
+    dcterms:creator "Leon Crommentuijn",
+        "Marion Harms" ;
+    dcterms:issued 1988 ;
+    dcterms:title "BLIJVEN DE BINNENSTEDEN DE WOONGEBIEDEN VOOR DE JONGE EEN- EN TWEEPERSOONSHUISHOUDENS ?",
+        "Een onderzoek in Rotterdam en Utrecht." ;
+    sgpl:thesisID 177 .
+
+sgpl:Thesis179 a sgpl:SGPLThesis ;
+    dcterms:creator "Alette Froling" ;
+    dcterms:issued 1988 ;
+    dcterms:title "De invloed van bedrijfs-externe factoren op Servo Delden b.v." ;
+    sgpl:thesisID 179 .
+
+sgpl:Thesis180 a sgpl:SGPLThesis ;
+    dcterms:creator "Marc van Lieshout",
+        "Marcel Gerards" ;
+    dcterms:issued 1988 ;
+    dcterms:title "UITGEVERIJEN EN TELEMATICA" ;
+    sgpl:thesisID 180 .
+
+sgpl:Thesis181 a sgpl:SGPLThesis ;
+    dcterms:creator "Harold Harleman",
+        "Peter van der Loos" ;
+    dcterms:issued 1988 ;
+    dcterms:title "Een kwalitatief onderzoek naar logistieke dienstverlening aan buitenlandse verladers door Nederlandse transport- en expeditiebedrijven",
+        "MEER DAN ROTTERDAM EN SCHIPHOL ALLEEN" ;
+    sgpl:thesisID 181 .
+
+sgpl:Thesis182 a sgpl:SGPLThesis ;
+    dcterms:creator "Robert Hassink" ;
+    dcterms:issued 1988 ;
+    dcterms:title "INNOVATIEBEVORDERING IN BADEN-WUERTTEMBERG",
+        "Op zoek naar een verklaring voor een economisch succes" ;
+    sgpl:thesisID 182 .
+
+sgpl:Thesis183 a sgpl:SGPLThesis ;
+    dcterms:creator "A. Loggers",
+        "J. Hogenbirk" ;
+    dcterms:issued 1988 ;
+    dcterms:title "1983 - 1988",
+        "Dynamiek van de commerciële vastgoedmarkt" ;
+    sgpl:thesisID 183 .
+
+sgpl:Thesis185 a sgpl:SGPLThesis ;
+    dcterms:creator "P.H.M. van Laarhoven",
+        "Peter van Laarhoven" ;
+    dcterms:issued 1988 ;
+    dcterms:title "DISTRIBUTIE - PLANOLOGISCH ONDERZOEK IN DE NIEUWBOUWWIJK HAAGSE BEEMDEN IN BREDA",
+        "De mogelijkheden om tot realisering van een wijkwinkelcentrum te komen" ;
+    sgpl:thesisID 185 .
+
+sgpl:Thesis186 a sgpl:SGPLThesis ;
+    dcterms:creator "B. van Rheenen",
+        "Bert van Rheenen" ;
+    dcterms:issued 1988 ;
+    dcterms:title "\"case-study\": de visserskoöperatie in Bintulu, Sarawak, 1985",
+        "KOÖPERATIE : EEN KANS VOOR EKONOMISCH ZWAKKE GROEPEN ?" ;
+    sgpl:thesisID 186 .
+
+sgpl:Thesis187 a sgpl:SGPLThesis ;
+    dcterms:creator "Jeroen de Roos" ;
+    dcterms:issued 1988 ;
+    dcterms:title "RANDSTAD EN TELECOMMUNICATIE" ;
+    sgpl:thesisID 187 .
+
+sgpl:Thesis188 a sgpl:SGPLThesis ;
+    dcterms:creator "Michiel R. Scheffer" ;
+    dcterms:issued 1988 ;
+    dcterms:title "RUIMTE VOOR CONFECTIE",
+        "VERANDERINGSPROCESSEN IN DE EUROPESE KLEDINGINDUSTRIE" ;
+    sgpl:thesisID 188 .
+
+sgpl:Thesis189 a sgpl:SGPLThesis ;
+    dcterms:creator "Jacqueline Sellink" ;
+    dcterms:issued 1988 ;
+    dcterms:title "OUDE BOMEN MOET JE NIET VERPLANTEN",
+        "Woonbehoeften, passende huisvesting en problemen bij het zelfstandig wonen van enkele Utrechtse hoog-bejaarden" ;
+    sgpl:thesisID 189 .
+
+sgpl:Thesis190 a sgpl:SGPLThesis ;
+    dcterms:creator "Arend Smits",
+        "Stefan Funnekotter" ;
+    dcterms:issued 1988 ;
+    dcterms:title "DE ROL VAN REGIONALE LUCHTHAVENS IN HET INTERNATIONALE GOEDERENVERVOER" ;
+    sgpl:thesisID 190 .
+
+sgpl:Thesis191 a sgpl:SGPLThesis ;
+    dcterms:creator "Frank Studulski",
+        "Hidde Toet" ;
+    dcterms:issued 1988 ;
+    dcterms:title "Vergrijzen in de grote stad." ;
+    sgpl:thesisID 191 .
+
+sgpl:Thesis192 a sgpl:SGPLThesis ;
+    dcterms:creator "Peter van der Waerden" ;
+    dcterms:issued 1988 ;
+    dcterms:title "Onderzoek naar en modellering van het parkeerplaatskeuzegedrag van winkelcentrumbezoekers",
+        "PARKEERPLAATSKEUZEGEDRAG VAN WINKELCENTRUMBEZOEKERS",
+        "VERSLAGEN VAN LEERONDERZOEK G & P" ;
+    sgpl:thesisID 192 .
+
+sgpl:Thesis193 a sgpl:SGPLThesis ;
+    dcterms:creator "Roline de Wilde" ;
+    dcterms:issued 1988 ;
+    dcterms:title "Maasoever Effect Rapportage",
+        "VERSLAGEN VAN LEERONDERZOEK G & P",
+        "een onderzoek naar de effecten van de activiteiten van de Stichting Maasoevers, met betrekking tot de oprichting van een public private partnership, op de ideeën en het gedrag van de watersportaanbieders." ;
+    sgpl:thesisID 193 .
+
+sgpl:Thesis194 a sgpl:SGPLThesis ;
+    dcterms:creator "G.J. Zoetbrood" ;
+    dcterms:issued 1988 ;
+    dcterms:title "Een studie naar de besluitvorming omtrent experimenten met nieuwe tele-informatiediensten.",
+        "Waarheen leidt de kabel ?" ;
+    sgpl:thesisID 194 .
+
+sgpl:Thesis195 a sgpl:SGPLThesis ;
+    dcterms:creator "P. Almekinders" ;
+    dcterms:issued 1989 ;
+    dcterms:title "BEVOLKINGSVERANDERINGEN IN DE BINNENSTAD VAN DEN HAAG",
+        "verhuisstromen in de buurten Kortenbos, Uilebomen en Zuidwal" ;
+    sgpl:thesisID 195 .
+
+sgpl:Thesis196 a sgpl:SGPLThesis ;
+    dcterms:creator "P. C. M. J. Boijmans" ;
+    dcterms:issued 1989 ;
+    dcterms:title "BEDRIJFS- EN INNOVATIECENTRA (BICs) IN DE GRENSREGIO'S BINNEN DE EUROPESE GEMEENSCHAP" ;
+    sgpl:thesisID 196 .
+
+sgpl:Thesis197 a sgpl:SGPLThesis ;
+    dcterms:creator "Maurice Bovée" ;
+    dcterms:issued 1989 ;
+    dcterms:title "NETWERKEN IN DE ITALIAANSE KLEDINGINDUSTRIE" ;
+    sgpl:thesisID 197 .
+
+sgpl:Thesis198 a sgpl:SGPLThesis ;
+    dcterms:creator "Ard Broeze",
+        "Peter Breel" ;
+    dcterms:issued 1989 ;
+    dcterms:title "Een onderzoek naar het ombouwen van niet-woonpanden tot woningen in een deel van de stad Utrecht.",
+        "NIEUWE FUNCTIES IN OUDE VORMEN" ;
+    sgpl:thesisID 198 .
+
+sgpl:Thesis199 a sgpl:SGPLThesis ;
+    dcterms:creator "WIM DEKKERS" ;
+    dcterms:issued 1989 ;
+    dcterms:title "PC-GIS EN DE BESTEMMINGSPLAN-PRAKTIJK" ;
+    sgpl:thesisID 199 .
+
+sgpl:Thesis200 a sgpl:SGPLThesis ;
+    dcterms:creator "Jan Peter Everhard" ;
+    dcterms:issued 1989 ;
+    dcterms:title "CASE STUDY : GWRV OP HET TRAJECT NEDERLAND - MUNCHEN",
+        "KANSEN VAN GECOMBINEERD WEG RAIL VERVOER IN NEDERLAND NA 1992",
+        "Onderzoek naar de keuzesituatie tussen wegtransport en GWRV onder grote en middelgrote transportondernemingen" ;
+    sgpl:thesisID 200 .
+
+sgpl:Thesis201 a sgpl:SGPLThesis ;
+    dcterms:creator "R.Th.J.H. Joosten" ;
+    dcterms:issued 1989 ;
+    dcterms:title "Het Nederlands Spoorwegmuseum; een bezoekersonderzoek" ;
+    sgpl:thesisID 201 .
+
+sgpl:Thesis202 a sgpl:SGPLThesis ;
+    dcterms:creator "P.J.R. LETSCHERT" ;
+    dcterms:issued 1989 ;
+    dcterms:title "BELEGGINGSBELEID VAN INSTITUTIONELE BELEGGERS IN DE AMSTERDAMSE BINNENSTAD",
+        "een onderzoek naar het afweegproces onder institutionele beleggers met betrekking tot het beleggen op de markt voor met name bestaande kantoorruimte in de Amsterdamse binnenstad" ;
+    sgpl:thesisID 202 .
+
+sgpl:Thesis203 a sgpl:SGPLThesis ;
+    dcterms:creator "Ellen Maaskant" ;
+    dcterms:issued 1989 ;
+    dcterms:title "Specialisatie cq diversifikatie",
+        "de rol van de vrouw binnen de bestaansstrategie" ;
+    sgpl:thesisID 203 .
+
+sgpl:Thesis205 a sgpl:SGPLThesis ;
+    dcterms:creator "Paul van Maren" ;
+    dcterms:issued 1989 ;
+    dcterms:title "EEN ONDERZOEK NAAR WOONVOORKEUR EN WOONGEDRAG IN ROTTERDAM",
+        "wonen op de singels" ;
+    sgpl:thesisID 205 .
+
+sgpl:Thesis206 a sgpl:SGPLThesis ;
+    dcterms:creator "Miriam Hueber" ;
+    dcterms:issued 1989 ;
+    dcterms:title "WIE BETAALT?",
+        "de effecten van het Amsterdamse subsidiebeleid op de woningverbetering door eigenaar-bewoners" ;
+    sgpl:thesisID 206 .
+
+sgpl:Thesis207 a sgpl:SGPLThesis ;
+    dcterms:creator "ing. M. van Noordenne" ;
+    dcterms:issued 1989 ;
+    dcterms:title "HET GROENE HART VAN BINNEN NAAR BUITEN",
+        "Stemmen uit het 'groen'",
+        "een onderzoek naar de visie van de grootste gemeenten in het middengebied van de Randstad op de ruimtelijke ordening ervan" ;
+    sgpl:thesisID 207 .
+
+sgpl:Thesis208 a sgpl:SGPLThesis ;
+    dcterms:creator "Sylvia Smit" ;
+    dcterms:issued 1989 ;
+    dcterms:title "IN THEORIE EN PRAKTIJK",
+        "TOERISTISCH-RECREATIEVE CITY-MARKETING" ;
+    sgpl:thesisID 208 .
+
+sgpl:Thesis209 a sgpl:SGPLThesis ;
+    dcterms:creator "Harry van Everdingen",
+        "Jeroen Tieman" ;
+    dcterms:issued 1989 ;
+    dcterms:title "Een onderzoek naar ontwikkelingen in de bevolking en de woningbouw in relatie tot het ruimtelijk beleid",
+        "SUBURBANISATIE IN HET GROENE HART" ;
+    sgpl:thesisID 209 .
+
+sgpl:Thesis21 a sgpl:SGPLThesis ;
+    dcterms:creator "F.P. ten Kate" ;
+    dcterms:issued 1954 ;
+    dcterms:title "DE INVLOED VAN HET GEOGRAFISCH MILIEU OP DE DUITSE VELDTOCHT IN DE SOVJET-UNIE IN 1941" ;
+    sgpl:thesisID 21 .
+
+sgpl:Thesis210 a sgpl:SGPLThesis ;
+    dcterms:creator "E.J.G. Boerrigter" ;
+    dcterms:issued 1990 ;
+    dcterms:title "DE REACTIE VAN WINKELIERS OP EEN STADSVERNIEUWINGSPLAN",
+        "VERSLAGEN VAN LEERONDERZOEK G & P" ;
+    sgpl:thesisID 210 .
+
+sgpl:Thesis211 a sgpl:SGPLThesis ;
+    dcterms:creator "Daan Bours",
+        "Ron Moonen" ;
+    dcterms:issued 1990 ;
+    dcterms:title "IN DE RANDSTAD",
+        "TELECOMMUNICATIE EN BEDRIJFSLOCATIE" ;
+    sgpl:thesisID 211 .
+
+sgpl:Thesis212 a sgpl:SGPLThesis ;
+    dcterms:creator "Christianne Derks" ;
+    dcterms:issued 1990 ;
+    dcterms:title "HOGER TECHNISCH WERK IN ZUID-LIMBURG: GRENZELOZE MOGELIJKHEDEN?" ;
+    sgpl:thesisID 212 .
+
+sgpl:Thesis213 a sgpl:SGPLThesis ;
+    dcterms:creator "Jerry Haket" ;
+    dcterms:issued 1990 ;
+    dcterms:title "Sociale controle en vandalisme",
+        "bewonersreacties ten aanzien van vandalisme in de Haagse wijken Morgenstond en Moerwijk" ;
+    sgpl:thesisID 213 .
+
+sgpl:Thesis214 a sgpl:SGPLThesis ;
+    dcterms:creator "G.J.A. Meijerink" ;
+    dcterms:issued 1990 ;
+    dcterms:title "Bedrijfsterreinen in Oost-Nederland",
+        "Een onderzoek naar de beschikbaarheid, structuur en differentiatie van bedrijfsterreinen in de stedelijke centra: Zwolle Enschede-Hengelo de stedendriehoek Apeldoorn-Deventer-Zutphen Arnhem-Nijmegen" ;
+    sgpl:thesisID 214 .
+
+sgpl:Thesis215 a sgpl:SGPLThesis ;
+    dcterms:creator "S. VAN MUISWINKEL" ;
+    dcterms:issued 1990 ;
+    dcterms:title "EEN INVENTARISATIE VAN DE HUISVESTINGSSITUATIE, DE WOONWENSEN EN EVENTUELE KNELPUNTEN VAN ZELFSTANDIG WONENDE OUDEREN",
+        "OUDEREN IN VOORBURG" ;
+    sgpl:thesisID 215 .
+
+sgpl:Thesis216 a sgpl:SGPLThesis ;
+    dcterms:creator "E.A.G. Postma" ;
+    dcterms:issued 1990 ;
+    dcterms:title "De zuidwaartse trek en het Nederlands bedrijfsleven",
+        "STANDPLAATS NOORDRIJN-WESTFALEN/DUESSELDORF" ;
+    sgpl:thesisID 216 .
+
+sgpl:Thesis217 a sgpl:SGPLThesis ;
+    dcterms:creator "Tjitte Prins" ;
+    dcterms:issued 1990 ;
+    dcterms:title "DE FLEVOSPOORLIJN OPNIEUW GEWOGEN",
+        "ex post evaluatie van een aanlegbeslissing" ;
+    sgpl:thesisID 217 .
+
+sgpl:Thesis218 a sgpl:SGPLThesis ;
+    dcterms:creator "J.G. Bakebrede",
+        "T.W.M. v.d. Meer" ;
+    dcterms:issued 1991 ;
+    dcterms:title "LITERATUURSTUDIE",
+        "STADSGIDS LONDON" ;
+    sgpl:thesisID 218 .
+
+sgpl:Thesis219 a sgpl:SGPLThesis ;
+    dcterms:creator "Christel Welhuis",
+        "Elvira Engels",
+        "Helma Boon" ;
+    dcterms:issued 1991 ;
+    dcterms:title "DE ROTTERDAMSE HAVEN: GOEDERENSTROMEN EN KNELPUNTEN" ;
+    sgpl:thesisID 219 .
+
+sgpl:Thesis22 a sgpl:SGPLThesis ;
+    dcterms:creator "Phil.P.J.M. DANIELS" ;
+    dcterms:issued 1956 ;
+    dcterms:title "Een demografische studie.",
+        "RELIGIEUZE GEZINDTE EN POLITIEKE VOORKEUR IN DE PROVINCIE OVERIJSSEL." ;
+    sgpl:thesisID 22 .
+
+sgpl:Thesis220 a sgpl:SGPLThesis ;
+    dcterms:creator "Ingeborg de Jong" ;
+    dcterms:issued 1991 ;
+    dcterms:title "ALS MARKETINGINSTRUMENT",
+        "LEASING VAN KANTOORRUIMTE" ;
+    sgpl:thesisID 220 .
+
+sgpl:Thesis221 a sgpl:SGPLThesis ;
+    dcterms:creator "Jurgen de Haan" ;
+    dcterms:issued 1991 ;
+    dcterms:title "G I S",
+        "NAAR LEEFMILIEUKAART",
+        "VAN VERKEERSMILIEUKAART" ;
+    sgpl:thesisID 221 .
+
+sgpl:Thesis222 a sgpl:SGPLThesis ;
+    dcterms:creator "ROLAND HERMANS" ;
+    dcterms:issued 1991 ;
+    dcterms:title "EEN AANZET TOT EEN INDELING IN WOONMILIEUS VOOR DE WIJKEN TUINDORP, KANALENEILAND-NOORD EN LOMBOK",
+        "WOONMILIEUS, HUISHOUDENSTYPEN EN WOONMILIEUVOORKEUREN IN UTRECHT" ;
+    sgpl:thesisID 222 .
+
+sgpl:Thesis224 a sgpl:SGPLThesis ;
+    dcterms:creator "Leonie van der Hoek",
+        "Marielies Schelhaas" ;
+    dcterms:issued 1991 ;
+    dcterms:title "SOCIALE VEILIGHEID IN NIEUWEGEIN; VAN IDEE NAAR UITVOERING",
+        "VERSLAGEN VAN LEERONDERZOEK G&P" ;
+    sgpl:thesisID 224 .
+
+sgpl:Thesis225 a sgpl:SGPLThesis ;
+    dcterms:creator "J.A.L. Janssen" ;
+    dcterms:issued 1991 ;
+    dcterms:title "SPITSBUSSNELDIENSTEN",
+        "VERSLAGEN VAN LEERONDERZOEK G&P" ;
+    sgpl:thesisID 225 .
+
+sgpl:Thesis226 a sgpl:SGPLThesis ;
+    dcterms:creator "Anke Knaken" ;
+    dcterms:issued 1991 ;
+    dcterms:title "OUDEREN IN HOOGRAVEN",
+        "Woonwensen en woonsituatie van ouderen in een vroeg na-oorlogse wijk in Utrecht" ;
+    sgpl:thesisID 226 .
+
+sgpl:Thesis227 a sgpl:SGPLThesis ;
+    dcterms:creator "M. Verstege",
+        "M.R. Langeveld" ;
+    dcterms:issued 1991 ;
+    dcterms:title "TELEMATICA-ONTWIKKELINGEN IN HET BANKWEZEN",
+        "VAN BARCELONA",
+        "VERSLAGEN VAN LEERONDERZOEK G&P" ;
+    sgpl:thesisID 227 .
+
+sgpl:Thesis228 a sgpl:SGPLThesis ;
+    dcterms:creator "Elbert Spek" ;
+    dcterms:issued 1991 ;
+    dcterms:title "Een voorstel voor een ge%%ntegreerde gebiedsgerichte benadering via ruimtelijk en milieubeleid voor het IJsselmeer- en Markermeergebied.",
+        "ROM-BELEID, MAATKOSTUUM VOOR HET IJSSELMEER/MARKERMEER?" ;
+    sgpl:thesisID 228 .
+
+sgpl:Thesis229 a sgpl:SGPLThesis ;
+    dcterms:creator "Ben Thijssen",
+        "Lena van der Valk" ;
+    dcterms:issued 1991 ;
+    dcterms:title "DE RECREATIEF-TOERISTISCHE POTENTIES VAN HET LANDELIJK GEBIED: Een sociaal-geografisch onderzoek naar de meetbaarheid van ontwikkelingskansen en mogelijkheden in de recreatief-toeristische sector." ;
+    sgpl:thesisID 229 .
+
+sgpl:Thesis23 a sgpl:SGPLThesis ;
+    dcterms:creator "J. v. Grootenhuis" ;
+    dcterms:issued 1956 ;
+    dcterms:title "BLOEMENDAAL." ;
+    sgpl:thesisID 23 .
+
+sgpl:Thesis230 a sgpl:SGPLThesis ;
+    dcterms:creator "Bert Slangen",
+        "Frank van den Broek" ;
+    dcterms:issued 1991 ;
+    dcterms:title "BEDRIJFSVERVOERPLANNEN",
+        "MARKETINGTECHNISCH BENADERD",
+        "Maatwerk bij de be%%nvloeding van de vervoerswijzekeuze door toepassing van methoden en technieken uit de marketing." ;
+    sgpl:thesisID 230 .
+
+sgpl:Thesis231 a sgpl:SGPLThesis ;
+    dcterms:creator "Marca V.C. Wolfensberger" ;
+    dcterms:issued 1991 ;
+    dcterms:title "drie dorpen in Friesland",
+        "regionale binding en kerkelijkheid" ;
+    sgpl:thesisID 231 .
+
+sgpl:Thesis232 a sgpl:SGPLThesis ;
+    dcterms:creator "Christel Woutersen" ;
+    dcterms:issued 1991 ;
+    dcterms:title "Regionale verschillen in het gebruik van verpleeghuizen door ouderen",
+        "Verslagen van leeronderzoek G&P" ;
+    sgpl:thesisID 232 .
+
+sgpl:Thesis233 a sgpl:SGPLThesis ;
+    dcterms:creator "Tonja Amse" ;
+    dcterms:issued 1992 ;
+    dcterms:title "Promotie en bedrijfsacquisitie in regio Arnhem-Nijmegen",
+        "REGIOMARKETING" ;
+    sgpl:thesisID 233 .
+
+sgpl:Thesis234 a sgpl:SGPLThesis ;
+    dcterms:creator "Renske J. Bergsma" ;
+    dcterms:issued 1992 ;
+    dcterms:title "DE WONINGTOEWIJZING IN STADSVERNIEUWINGSGEBIEDEN" ;
+    sgpl:thesisID 234 .
+
+sgpl:Thesis235 a sgpl:SGPLThesis ;
+    dcterms:creator "Harriëtte Bongers" ;
+    dcterms:issued 1992 ;
+    dcterms:title "DE VERZELFSTANDIGING NADER BEKEKEN: WONINGCORPORATIES OP WEG NAAR SOCIAAL ONDERNEMERSCHAP",
+        "VERSLAGEN VAN LEERONDERZOEK G&P" ;
+    sgpl:thesisID 235 .
+
+sgpl:Thesis236 a sgpl:SGPLThesis ;
+    dcterms:creator "Jan-Willem Boots" ;
+    dcterms:issued 1992 ;
+    dcterms:title "AANBEVELINGEN OP BASIS VAN EEN ANALYSE VAN EEN TWEETAL PLANNEN VOOR HERINRICHTING VAN WEGEN",
+        "ONDERZOEK NAAR DE TOEPASSINGSMOGELIJKHEDEN VAN ELEMENTEN UIT DE STRATEGISCHE PLANNINGSMETHODIEK BIJ PROJEKTPLANNEN IN KLEINERE GEMEENTEN" ;
+    sgpl:thesisID 236 .
+
+sgpl:Thesis237 a sgpl:SGPLThesis ;
+    dcterms:creator "Saskia Bor" ;
+    dcterms:issued 1992 ;
+    dcterms:title "Verhuurbaarheidsproblemen in de naoorlogse sociale huursector en de rol van de toegelaten instelling in de oplossing daarvan." ;
+    sgpl:thesisID 237 .
+
+sgpl:Thesis238 a sgpl:SGPLThesis ;
+    dcterms:creator "ing. A.W.H. Erhardt" ;
+    dcterms:issued 1992 ;
+    dcterms:title "BESTUURLIJKE MODELLEN EN WONINGBOUWLOCATIES IN ZUIDOOST-BRABANT" ;
+    sgpl:thesisID 238 .
+
+sgpl:Thesis239 a sgpl:SGPLThesis ;
+    dcterms:creator "Erik Fontijne" ;
+    dcterms:issued 1992 ;
+    dcterms:title "INDUSTRIËLE ONDERNEMINGEN UIT DE TOP-100 VAN NEDERLAND",
+        "ONDERNEMINGSSTRATEGIE, FLEXIBILISERING VAN DE PRODUKTIE-ORGANISATIE EN LOCATIEPATROON" ;
+    sgpl:thesisID 239 .
+
+sgpl:Thesis24 sgpl:thesisID 24 .
+
+sgpl:Thesis240 a sgpl:SGPLThesis ;
+    dcterms:creator "T. Gorsseling" ;
+    dcterms:issued 1989 ;
+    dcterms:title "DE GEVOLGEN VAN DE EUROPESE INTEGRATIE IN 1992 VOOR BEDRIJVEN IN DE MACHINE-INDUSTRIE",
+        "VERSLAGEN VAN LEERONDERZOEK G & P" ;
+    sgpl:thesisID 240 .
+
+sgpl:Thesis241 a sgpl:SGPLThesis ;
+    dcterms:creator "R.M. Groeneweg" ;
+    dcterms:issued 1992 ;
+    dcterms:title "DE ATTRACTIVITEIT VAN SCHIPHOL: MOGELIJKE LIGGING VAN LUCHTHAVEN GEBONDEN BEDRIJFSLOCATIES VOOR NIET-LUCHTHAVEN GEBONDEN BEDRIJVIGHEID.",
+        "Een onderzoek naar een bredere toepassing van projectgebonden kennis van de projecten: Plan van Aanpak Schiphol en Omgeving en de Nadere Uitwerking Randstad Internationaal." ;
+    sgpl:thesisID 241 .
+
+sgpl:Thesis242 a sgpl:SGPLThesis ;
+    dcterms:creator "Marcel Reinartz",
+        "Richard Hoving" ;
+    dcterms:issued 1992 ;
+    dcterms:title "CONSUMENTENONDERZOEK TILBURG",
+        "VERSLAGEN VAN LEERONDERZOEK G&P" ;
+    sgpl:thesisID 242 .
+
+sgpl:Thesis243 a sgpl:SGPLThesis ;
+    dcterms:creator "Victor Klein" ;
+    dcterms:issued 1992 ;
+    dcterms:title "Een onderzoek naar het koopgedrag van huishoudens in Spijkenisse en de gevolgen van veranderingen in de huishoudensopbouw voor het winkelapparaat.",
+        "Huishoudensdifferentiatie en koopgedrag." ;
+    sgpl:thesisID 243 .
+
+sgpl:Thesis244 a sgpl:SGPLThesis ;
+    dcterms:creator "A.T. Konijnendijk" ;
+    dcterms:issued 1992 ;
+    dcterms:title "Een onderzoek naar vervangbaarheid van woon-werk autoverplaatsingen door het huidige streekvervoernetwerk in de vervoerregio Utrecht.",
+        "HET STREEKVERVOER ALS ALTERNATIEF VOOR DE AUTO." ;
+    sgpl:thesisID 244 .
+
+sgpl:Thesis245 a sgpl:SGPLThesis ;
+    dcterms:creator "Bart de Rijke" ;
+    dcterms:issued 1992 ;
+    dcterms:title "Blik in de binnenstad",
+        "Ontwikkelingen in het binnenstedelijk goederenvervoer" ;
+    sgpl:thesisID 245 .
+
+sgpl:Thesis247 a sgpl:SGPLThesis ;
+    dcterms:creator "F.H. Schumacher" ;
+    dcterms:issued 1992 ;
+    dcterms:title "BEDRIJFSLOKATIEBELEID IN STADSGEWEST UTRECHT; een toetsing van bestaande en toekomstige lokaties aan het door de rijksoverheid gewenste bedrijfslokatiebeleid" ;
+    sgpl:thesisID 247 .
+
+sgpl:Thesis248 a sgpl:SGPLThesis ;
+    dcterms:creator "ing. F.B.M. Solleveld" ;
+    dcterms:issued 1992 ;
+    dcterms:title "HET LOCATIEBELEID",
+        "IN DE MIDDELGROTE STAD" ;
+    sgpl:thesisID 248 .
+
+sgpl:Thesis249 a sgpl:SGPLThesis ;
+    dcterms:creator "Bart L. Vink",
+        "Theo J. Stauttener" ;
+    dcterms:issued 1992 ;
+    dcterms:title "(en de rol en betekenis van location leaders in Frankfurt)",
+        "Beslissers in een wereldstad aan de Main" ;
+    sgpl:thesisID 249 .
+
+sgpl:Thesis25 a sgpl:SGPLThesis ;
+    dcterms:creator "A. Damen",
+        "N. Hoeberichts" ;
+    dcterms:issued 1960 ;
+    dcterms:title "HINZENBURG",
+        "sociaal-geografische struktuuranalyse van een Hunsrückdorp." ;
+    sgpl:thesisID 25 .
+
+sgpl:Thesis250 a sgpl:SGPLThesis ;
+    dcterms:creator "C.M.M.D. Peletier",
+        "N.T. Sijtsma" ;
+    dcterms:issued 1992,
+        1993 ;
+    dcterms:title "Een studie naar de bereikbaarheid van vier Europese luchthavens",
+        "VLIEGEN OP GEGIST BESTEK?" ;
+    sgpl:thesisID 250 .
+
+sgpl:Thesis252 a sgpl:SGPLThesis ;
+    dcterms:creator "Karin van der Woude" ;
+    dcterms:issued 1992 ;
+    dcterms:title "VERBROKKELING OF INTEGRATIE: Kennisgebruik bij een projectgewijze aanpak in de ruimtelijke planning" ;
+    sgpl:thesisID 252 .
+
+sgpl:Thesis253 a sgpl:SGPLThesis ;
+    dcterms:creator "Désirée Barendregt",
+        "Karin Gybels" ;
+    dcterms:issued 1993 ;
+    dcterms:title "DE GRENS VOORBIJ",
+        "De invloed van de grens op de regionale ontwikkeling en de grensoverschrijdende interactie in Noordoost-Nederland en Noordwest-Duitsland" ;
+    sgpl:thesisID 253 .
+
+sgpl:Thesis254 a sgpl:SGPLThesis ;
+    dcterms:creator "Paul van Beijnum",
+        "Ronald H. Kranenburg" ;
+    dcterms:issued 1993 ;
+    dcterms:title "De effecten van buurtverbetering in El Alto, Bolivia.",
+        "De zone 16 de Julio na het HAM-BIRF-Project.",
+        "LA ZONA 16 DE JULIO DESPUES DEL PROYECTO HAM-BIRF.",
+        "Los efectos de un programa de mejoramiento urbano en El Alto, Bolivia." ;
+    sgpl:thesisID 254 .
+
+sgpl:Thesis255 a sgpl:SGPLThesis ;
+    dcterms:creator "Peter Bronsgeest" ;
+    dcterms:issued 1993 ;
+    dcterms:title "EEN NIEUWE BEZEM DOOR DE BUURT?",
+        "Een onderzoek naar de meerwaarde van sociale vernieuwing inzake het beheer van stadsbuurten" ;
+    sgpl:thesisID 255 .
+
+sgpl:Thesis256 a sgpl:SGPLThesis ;
+    dcterms:creator "Peije Bruil" ;
+    dcterms:issued 1993 ;
+    dcterms:title "DE GRENZELOZE DYNAMIEK VAN DE NEDERLANDSE TOPBANKEN",
+        "GROTE NEDERLANDSE ONDERNEMINGEN IN INTERNATIONALE CONTEXT" ;
+    sgpl:thesisID 256 .
+
+sgpl:Thesis257 a sgpl:SGPLThesis ;
+    dcterms:creator "J.C.M. van Middelaar",
+        "T.J. Haberland" ;
+    dcterms:issued 1993 ;
+    dcterms:title "Een vergelijking van de vormgeving van het ruimtelijk, milieu-, verkeers- en groenbeleid voor de lange termijn in vier middelgrote steden",
+        "OMGEVINGSBELEID",
+        "OP ZOEK NAAR INTEGRATIE" ;
+    sgpl:thesisID 257 .
+
+sgpl:Thesis258 a sgpl:SGPLThesis ;
+    dcterms:creator "Hans van Hastenberg" ;
+    dcterms:issued 1993 ;
+    dcterms:title "Nederlandse directe investeringen in Hongarije, Polen en Tsjecho-Slowakije",
+        "VERSLAGEN VAN LEERONDERZOEK G&I" ;
+    sgpl:thesisID 258 .
+
+sgpl:Thesis259 a sgpl:SGPLThesis ;
+    dcterms:creator "Ruud Jansen Venneboer" ;
+    dcterms:issued 1993 ;
+    dcterms:title "WELKOM OP DE WONINGMARKT!",
+        "woonruimteverdeling in beweging" ;
+    sgpl:thesisID 259 .
+
+sgpl:Thesis26 a sgpl:SGPLThesis ;
+    dcterms:creator "J.T. Bergstra",
+        "K. Dokter" ;
+    dcterms:issued 1960 ;
+    dcterms:title "ONDERZOEK FORENSENKAMPEN" ;
+    sgpl:thesisID 26 .
+
+sgpl:Thesis260 a sgpl:SGPLThesis ;
+    dcterms:creator "Muriël Pels",
+        "Taco Jansonius" ;
+    dcterms:issued 1993 ;
+    dcterms:title "Lokale ontwikkelingsinitiatieven",
+        "in Noordwest-Tarn" ;
+    sgpl:thesisID 260 .
+
+sgpl:Thesis261 a sgpl:SGPLThesis ;
+    dcterms:creator "André Knulst",
+        "Kees Jobse" ;
+    dcterms:issued 1993 ;
+    dcterms:title "De winst van ecologische verstedelijking",
+        "Een bijdrage aan de discussie rond \"Utrecht-West\"" ;
+    sgpl:thesisID 261 .
+
+sgpl:Thesis262 a sgpl:SGPLThesis ;
+    dcterms:creator "Ton Kruyshoop" ;
+    dcterms:issued 1993 ;
+    dcterms:title "BASISVOORZIENINGEN IN NIEUWE WOONGEBIEDEN",
+        "KENNISGEBRUIK BIJ DE PLANNING VAN" ;
+    sgpl:thesisID 262 .
+
+sgpl:Thesis263 a sgpl:SGPLThesis ;
+    dcterms:creator "Eefke Langendonk" ;
+    dcterms:issued 1993 ;
+    dcterms:title "FICTIE OF WERKELIJKHEID?",
+        "WINKELEN OP DE UITHOF!" ;
+    sgpl:thesisID 263 .
+
+sgpl:Thesis264 a sgpl:SGPLThesis ;
+    dcterms:creator "Anita van der lee" ;
+    dcterms:issued 1993 ;
+    dcterms:title "IN HET STEDELIJK GROENBELEID",
+        "RECREATIEVE MOBILITEIT" ;
+    sgpl:thesisID 264 .
+
+sgpl:Thesis265 a sgpl:SGPLThesis ;
+    dcterms:creator "Roel van de Loo" ;
+    dcterms:issued 1993 ;
+    dcterms:title "Onderzoek naar de kans van intergemeentelijke samenwerking op het gebied",
+        "duurzame samenwerking?" ;
+    sgpl:thesisID 265 .
+
+sgpl:Thesis266 a sgpl:SGPLThesis ;
+    dcterms:creator "Kees Jan Snoei" ;
+    dcterms:issued 1993 ;
+    dcterms:title "Accent op de Romolenpolder",
+        "Een evaluatieonderzoek naar de totstandkoming van een bijzondere nieuwbouwwijk in Haarlem." ;
+    sgpl:thesisID 266 .
+
+sgpl:Thesis267 a sgpl:SGPLThesis ;
+    dcterms:creator "M. Soeters",
+        "R. de Niet" ;
+    dcterms:issued 1993 ;
+    dcterms:title "Een vergelijkend onderzoek naar veranderingen in grondgebruik in zes provincies en het provinciaal ruimtelijk beleid aangaande grondgebruiksveranderingen",
+        "GRONDGEBRUIK IN LANDELIJKE GEBIEDEN: VERANDERINGEN EN BELEID",
+        "VERSLAGEN VAN LEERONDERZOEK G&P" ;
+    sgpl:thesisID 267 .
+
+sgpl:Thesis268 a sgpl:SGPLThesis ;
+    dcterms:creator "Victor Klein" ;
+    dcterms:issued 1992 ;
+    dcterms:title "Een onderzoek naar het koopgedrag van huishoudens in Spijkenisse en de gevolgen van veranderingen in de huishoudensopbouw voor het winkelapparaat.",
+        "Huishoudensdifferentiatie en koopgedrag." ;
+    sgpl:thesisID 268 .
+
+sgpl:Thesis269 a sgpl:SGPLThesis ;
+    dcterms:creator "Erwin van Klaveren",
+        "Richard van Dipten" ;
+    dcterms:issued 1993 ;
+    dcterms:title "Een studie naar de morfologische verstedelijking van de regio Amsterdam van 1950 tot 1985 met behulp van een GIS",
+        "Mate(n) van verstedelijking" ;
+    sgpl:thesisID 269 .
+
+sgpl:Thesis270 a sgpl:SGPLThesis ;
+    dcterms:creator "Maarten van Oostveen",
+        "Marcel de Hoogt" ;
+    dcterms:issued 1993 ;
+    dcterms:title "GROTE NEDERLANDSE TRANSPORTONDERNEMINGEN IN INTERNATIONALE CONTEXT",
+        "ONDERNEMINGSSTRATEGIE, ORGANISATIESTRUCTUUR, INTERNATIONALISERING EN LOKATIEPATROON VAN VIJF GROTE NEDERLANDSE TRANSPORTONDERNEMINGEN" ;
+    sgpl:thesisID 270 .
+
+sgpl:Thesis271 a sgpl:SGPLThesis ;
+    dcterms:creator "Marco van Zwetselaar" ;
+    dcterms:issued 1992,
+        1993 ;
+    dcterms:title "Agrarische commercialisatie in wereldcontext",
+        "Katoen in Noord-Kameroen" ;
+    sgpl:thesisID 271 .
+
+sgpl:Thesis273 a sgpl:SGPLThesis ;
+    dcterms:creator "R. Vermeulen" ;
+    dcterms:issued 1993 ;
+    dcterms:title "Een onderzoek naar de haalbaarheid van een HOV busverbinding",
+        "HOOGWAARDIG OPENBAAR VERVOER TUSSEN UTRECHT CS EN OVERVECHT" ;
+    sgpl:thesisID 273 .
+
+sgpl:Thesis274 a sgpl:SGPLThesis ;
+    dcterms:creator "Carla Vermunt" ;
+    dcterms:issued 1993 ;
+    dcterms:title "KANTOREN IN MONUMENTEN: EEN KANS OF EEN BEDREIGING?" ;
+    sgpl:thesisID 274 .
+
+sgpl:Thesis275 a sgpl:SGPLThesis ;
+    dcterms:creator "Piet Boerefijn",
+        "Sigurd Hauwert" ;
+    dcterms:issued 1994 ;
+    dcterms:title "DE OLIFANT IS GESTORVEN, DE MUIS SPRINGLEVEND",
+        "De economische en ruimtelijke gevolgen.",
+        "Estland in de overgang naar een nieuwe samenleving." ;
+    sgpl:thesisID 275 .
+
+sgpl:Thesis276 a sgpl:SGPLThesis ;
+    dcterms:creator "Evelien Wierts",
+        "Mariken Broekhoven" ;
+    dcterms:issued 1994 ;
+    dcterms:title "Nieuwe sunbelt van Europa?",
+        "Ojo a Málaga" ;
+    sgpl:thesisID 276 .
+
+sgpl:Thesis277 a sgpl:SGPLThesis ;
+    dcterms:creator "P.A. Duijf" ;
+    dcterms:issued 1994 ;
+    dcterms:title "IS REGIONALISERING VAN AMBULANCEHULPVERLENING IN NEDERLAND NODIG?",
+        "een studie naar interregionale verschillen in effectiviteit en efficiency" ;
+    sgpl:thesisID 277 .
+
+sgpl:Thesis278 a sgpl:SGPLThesis ;
+    dcterms:creator "Jorien Elenbaas" ;
+    dcterms:issued 1994 ;
+    dcterms:title "VERSLAGEN VAN LEERONDERZOEK G&P",
+        "WONEN IN DE BINNENSTAD VAN WOERDEN" ;
+    sgpl:thesisID 278 .
+
+sgpl:Thesis279 a sgpl:SGPLThesis ;
+    dcterms:creator "Anne Marie Gout" ;
+    dcterms:issued 1994 ;
+    dcterms:title "Een onderzoek naar de ruimtelijk gedifferentieerde uitwerking van postmoderne Sunbelt-ontwikkelingen in Zuid-Frankrijk",
+        "High tech industrie en regionale ontwikkeling in het departement Bouches-du-Rhône" ;
+    sgpl:thesisID 279 .
+
+sgpl:Thesis28 a sgpl:SGPLThesis ;
+    dcterms:creator "P.J. Groenenboom" ;
+    dcterms:issued 1960 ;
+    dcterms:title "Verreries de Moussans" ;
+    sgpl:thesisID 28 .
+
+sgpl:Thesis280 a sgpl:SGPLThesis ;
+    dcterms:creator "Mechteld Gravendeel" ;
+    dcterms:issued 1994 ;
+    dcterms:title "Perceptie van het Hollandse landschap in de 18e eeuw: een vergelijkend onderzoek van vijf Hollandse reisteksten" ;
+    sgpl:thesisID 280 .
+
+sgpl:Thesis281 a sgpl:SGPLThesis ;
+    dcterms:creator "WILLIAM VAN DE HEL" ;
+    dcterms:issued 1994 ;
+    dcterms:title "IN PERSPECTIEF",
+        "MEERLAAGSE WINKELCENTRA" ;
+    sgpl:thesisID 281 .
+
+sgpl:Thesis282 a sgpl:SGPLThesis ;
+    dcterms:creator "Francine Hijmans van den Bergh" ;
+    dcterms:issued 1994 ;
+    dcterms:title "De bijdrage van de aanleg van bossen aan regionale ontwikkeling in Nederland",
+        "The contribution of afforestation to regional rural development in Britain" ;
+    sgpl:thesisID 282 .
+
+sgpl:Thesis283 a sgpl:SGPLThesis ;
+    dcterms:creator "Henderijn Heldens",
+        "Nathalie Schutjens" ;
+    dcterms:issued 1994 ;
+    dcterms:title "Mallorca, het beste onder de zon?",
+        "een onderzoek naar regionale ontwikkeling en leefbaarheid" ;
+    sgpl:thesisID 283 .
+
+sgpl:Thesis284 a sgpl:SGPLThesis ;
+    dcterms:creator "EMMY HESSELS",
+        "JEROEN SMIT" ;
+    dcterms:issued 1994 ;
+    dcterms:title "DE STADSREGIONALE BEDRIJVENTERREINENMARKT EN HERSTRUCTURERING: PRIORITEIT OF LAPMIDDEL?",
+        "STUDIE VOOR DE STADSREGIO EINDHOVEN-HELMOND" ;
+    sgpl:thesisID 284 .
+
+sgpl:Thesis285 a sgpl:SGPLThesis ;
+    dcterms:creator "Anita Jalving" ;
+    dcterms:issued 1994 ;
+    dcterms:title "Future prospects and policy recommendations",
+        "Gentrification in East Tottenham?" ;
+    sgpl:thesisID 285 .
+
+sgpl:Thesis286 a sgpl:SGPLThesis ;
+    dcterms:creator "Jan Kennis",
+        "Martin Schluter" ;
+    dcterms:issued 1994 ;
+    dcterms:title "De gevolgen van de transitie naar een markteconomie op de regionale economische ontwikkeling",
+        "Hongarije: land van de twee snelheden?" ;
+    sgpl:thesisID 286 .
+
+sgpl:Thesis287 a sgpl:SGPLThesis ;
+    dcterms:creator "Ben Verstegen",
+        "Jeroen Koldewijn" ;
+    dcterms:issued 1994 ;
+    dcterms:title "Een regionaal-geografisch onderzoek in de Catalaanse comarca El Baix Penedès",
+        "Van Wijn naar een Toeristenparadijs?" ;
+    sgpl:thesisID 287 .
+
+sgpl:Thesis288 a sgpl:SGPLThesis ;
+    dcterms:creator "Sarah Kropveld" ;
+    dcterms:issued 1994 ;
+    dcterms:title "An Urban Village in West Silvertown" ;
+    sgpl:thesisID 288 .
+
+sgpl:Thesis289 a sgpl:SGPLThesis ;
+    dcterms:creator "Chiel Stroeven",
+        "Paul Mijland" ;
+    dcterms:issued 1994 ;
+    dcterms:title "Onderzoek naar de toepassing van multimedia en uitwerking in een applicatie",
+        "kartografie en multimedia" ;
+    sgpl:thesisID 289 .
+
+sgpl:Thesis29 a sgpl:SGPLThesis ;
+    dcterms:creator "J. Harms" ;
+    dcterms:issued 1960 ;
+    dcterms:title "Historisch-demografische spanningen op de zandgronden van de Gelderse Vallei",
+        "in verband met de ontwikkeling van het kleinbedrijf en de pluimveeteelt" ;
+    sgpl:thesisID 29 .
+
+sgpl:Thesis291 a sgpl:SGPLThesis ;
+    dcterms:creator "Roger Raat" ;
+    dcterms:issued 1994 ;
+    dcterms:title "Bedrijvigheid in het landelijk gebied",
+        "Een onderzoek naar de mogelijkheden van niet-agrarische bedrijfsvestiging in leegstaande en vrijkomende bebouwing in het landelijk gebied van de regio IJssel-Vecht." ;
+    sgpl:thesisID 291 .
+
+sgpl:Thesis293 a sgpl:SGPLThesis ;
+    dcterms:creator "Harmen Smit" ;
+    dcterms:issued 1994 ;
+    dcterms:title "Een onderzoek naar de omvang van de problematiek van de de wijk- en buurtwinkelcentra en het gemeentelijk detailhandelsbeleid in Nederland.",
+        "WIJK- EN BUURTWINKELCENTRA IN DE KNEL" ;
+    sgpl:thesisID 293 .
+
+sgpl:Thesis294 a sgpl:SGPLThesis ;
+    dcterms:creator "Ian van Deijck" ;
+    dcterms:issued 1994 ;
+    dcterms:title "DE CHEMISCHE INDUSTRIE ALS KATALYSATOR VAN DE NEDERLANDSE ECONOMIE ?",
+        "GROTE NEDERLANDSE CHEMIE-ONDERNEMINGEN IN INTERNATIONALE CONTEXT" ;
+    sgpl:thesisID 294 .
+
+sgpl:Thesis295 a sgpl:SGPLThesis ;
+    dcterms:creator "Ton Hummel" ;
+    dcterms:issued 1994 ;
+    dcterms:title "Een inventarisatie van verhuisvoornemens in de Rotterdamse stadsvernieuwingsbuurten Feyenoord en Oud Crooswijk",
+        "VERHUISVOORNEMENS IN STADSVERNIEUWINGSGEBIEDEN" ;
+    sgpl:thesisID 295 .
+
+sgpl:Thesis296 a sgpl:SGPLThesis ;
+    dcterms:creator "Martijn W. Haan",
+        "Remko V. Bak" ;
+    dcterms:issued 1995 ;
+    dcterms:title "De regio Potsdam: Ontwikkelingen in de ruimtelijke geleding van een bijzondere ommelandregio van Berlijn" ;
+    sgpl:thesisID 296 .
+
+sgpl:Thesis297 a sgpl:SGPLThesis ;
+    dcterms:creator "Marten Bouma" ;
+    dcterms:issued 1995 ;
+    dcterms:title "Conversie de opgave, vrachtluchthaven de kans?" ;
+    sgpl:thesisID 297 .
+
+sgpl:Thesis298 a sgpl:SGPLThesis ;
+    dcterms:creator "J.W.A. Braat" ;
+    dcterms:issued 1995 ;
+    dcterms:title "Monumentenzorg in Europees perspectief",
+        "VERSLAGEN VAN LEERONDERZOEK G&P" ;
+    sgpl:thesisID 298 .
+
+sgpl:Thesis299 a sgpl:SGPLThesis ;
+    dcterms:creator "Maarten de Laat" ;
+    dcterms:issued 1995 ;
+    dcterms:title "Een beleidsevaluatie aan de hand van een sloopprocedure",
+        "HET BESLUIT BEHEER SOCIALE HUURSECTOR IN UITVOERING" ;
+    sgpl:thesisID 299 .
+
+sgpl:Thesis30 a sgpl:SGPLThesis ;
+    dcterms:creator "J. Hummelen" ;
+    dcterms:issued 1960 ;
+    dcterms:title "DE AGRARISCHE STRUCTUUR",
+        "IN DE GELDERSE VALLEI" ;
+    sgpl:thesisID 30 .
+
+sgpl:Thesis300 a sgpl:SGPLThesis ;
+    dcterms:creator "Amir Jilani" ;
+    dcterms:issued 1995 ;
+    dcterms:title "REMOTE SENSING DATA TEN BEHOEVE VAN EEN MANAGEMENT-SYSTEEM VOOR BEHEER EN EXPLOITATIE VAN BOSGEBIEDEN",
+        "vraag, aanbod en eigenschappen" ;
+    sgpl:thesisID 300 .
+
+sgpl:Thesis301 a sgpl:SGPLThesis ;
+    dcterms:creator "Madelon Leeuwenburgh" ;
+    dcterms:issued 1995 ;
+    dcterms:title "Niet dik, dun is de mode",
+        "ruimtelijke gevolgen van organisatorische veranderingen: decentralisatie en verplatting" ;
+    sgpl:thesisID 301 .
+
+sgpl:Thesis302 a sgpl:SGPLThesis ;
+    dcterms:creator "Jef Muhren" ;
+    dcterms:issued 1995 ;
+    dcterms:title "het beeldkwaliteitsplan",
+        "terugblik en vooruitzicht" ;
+    sgpl:thesisID 302 .
+
+sgpl:Thesis303 a sgpl:SGPLThesis ;
+    dcterms:creator "H.J. Nijmeijer" ;
+    dcterms:issued 1995 ;
+    dcterms:title "Een onderzoek naar regionale verschillen in winstgevendheid van industriële bedrijven in Nederland.",
+        "RESULTAAT EN REGIO" ;
+    sgpl:thesisID 303 .
+
+sgpl:Thesis304 a sgpl:SGPLThesis ;
+    dcterms:creator "Annemarie Overbeek" ;
+    dcterms:issued 1995 ;
+    dcterms:title "De Kempen en de Dommel",
+        "Een regionaal geografische studie naar sociaal-economische ontwikkelingen en gevolgen voor het milieu" ;
+    sgpl:thesisID 304 .
+
+sgpl:Thesis305 a sgpl:SGPLThesis ;
+    dcterms:creator "Tjeerd Roosjen" ;
+    dcterms:issued 1995 ;
+    dcterms:title "De Geografie van de Wielersport" ;
+    sgpl:thesisID 305 .
+
+sgpl:Thesis306 a sgpl:SGPLThesis ;
+    dcterms:creator "Claudia Schutte" ;
+    dcterms:issued 1995 ;
+    dcterms:title "Op zoek naar de ontbrekende schakel tussen opleiding en praktijk",
+        "Planologen aan het werk met planningmethoden" ;
+    sgpl:thesisID 306 .
+
+sgpl:Thesis307 a sgpl:SGPLThesis ;
+    dcterms:creator "M. Yaman" ;
+    dcterms:issued 1995 ;
+    dcterms:title "Kartografische Animaties",
+        "een theoretisch kader" ;
+    sgpl:thesisID 307 .
+
+sgpl:Thesis308 a sgpl:SGPLThesis ;
+    dcterms:creator "Klaske W. Ypma" ;
+    dcterms:issued 1995 ;
+    dcterms:title "De Regio Stedendriehoek",
+        "Regionale ontwikkeling en de betekenis van watersystemen voor de relatie tussen stedelijk en landelijk gebied" ;
+    sgpl:thesisID 308 .
+
+sgpl:Thesis309 a sgpl:SGPLThesis ;
+    dcterms:creator "Mariette Oldeman",
+        "Marlies Bruinstroop" ;
+    dcterms:issued 1996 ;
+    dcterms:title "Een onderzoek naar de woon- en zorgwensen van oudere huishoudens in het kader van Leidsche Rijn",
+        "LEIDSCHE RIJN, OOK VOOR OUDEREN" ;
+    sgpl:thesisID 309 .
+
+sgpl:Thesis31 a sgpl:SGPLThesis ;
+    dcterms:creator "J.L.M. Kits Nieuwenkamp" ;
+    dcterms:issued 1960 ;
+    dcterms:title "(Een onder invloed van een grenstrekking veranderende samenleving vanuit een sociaal- en economisch-geografisch gezichtspunt benaderd.)",
+        "DUDERSTADT",
+        "Stad en Kreis aan het Ijzeren Gordijn" ;
+    sgpl:thesisID 31 .
+
+sgpl:Thesis310 a sgpl:SGPLThesis ;
+    dcterms:creator "Wim de Haas" ;
+    dcterms:issued 1996 ;
+    dcterms:title "VERSLAGEN VAN LEERONDERZOEK G&P",
+        "Verscheiden plattelandstoerisme in plattelandsontwikkeling: het werkgelegenheidseffect vanuit de aanbodzijde benaderd." ;
+    sgpl:thesisID 310 .
+
+sgpl:Thesis311 sgpl:thesisID 311 .
+
+sgpl:Thesis312 a sgpl:SGPLThesis ;
+    dcterms:creator "Berlinda Hoexum" ;
+    dcterms:issued 1996 ;
+    dcterms:title "Een methodiek voor de evaluatie van het Milieubeleidsplan Amsterdam 1996-1999",
+        "MOKUMS MILIEUBELEID GEMETEN?" ;
+    sgpl:thesisID 312 .
+
+sgpl:Thesis313 a sgpl:SGPLThesis ;
+    dcterms:creator "Cindy van der Hoeven",
+        "Kirstie Hekman" ;
+    dcterms:issued 1996 ;
+    dcterms:title "DE RUIMTE VAN BOVEN...",
+        "Op welke manier kan een kartograaf bijdragen tot het optimaliseren van het ruimtelijk bewustzijn van kinderen op de basisschool?" ;
+    sgpl:thesisID 313 .
+
+sgpl:Thesis314 a sgpl:SGPLThesis ;
+    dcterms:creator "Berno van Dooren",
+        "Jeroen van Marle",
+        "Renze de Boer" ;
+    dcterms:issued 1996 ;
+    dcterms:title "Moeder, haal de buffel van stal; er is weer land!",
+        "Twee Roemeense plattelandsregio's in transitie" ;
+    sgpl:thesisID 314 .
+
+sgpl:Thesis315 a sgpl:SGPLThesis ;
+    dcterms:creator "Edwin Massop" ;
+    dcterms:issued 1996 ;
+    dcterms:title "ELECTRONISCH KAARTGEBRUIK en STADSVERNIEUWING in het OMGEVINGSONDERWIJS" ;
+    sgpl:thesisID 315 .
+
+sgpl:Thesis317 a sgpl:SGPLThesis ;
+    dcterms:creator "N.M.P.B. Paquaij",
+        "Nicolle Paquaij" ;
+    dcterms:issued 1996 ;
+    dcterms:title "Een onderzoek naar factoren die het afgelopen decennium de ontwikkeling van de werkgelegenheid in binnen Utrecht verplaatste bedrijven hebben beïnvloed",
+        "HET UTRECHTSE BEDRIJFSLEVEN: EEN RONDGANG LANGS WERKGELEGENHEIDSBEPALENDE FACTOREN",
+        "VERSLAGEN VAN LEERONDERZOEK G&P" ;
+    sgpl:thesisID 317 .
+
+sgpl:Thesis318 a sgpl:SGPLThesis ;
+    dcterms:creator "D. J. Segaar",
+        "Derk Segaar" ;
+    dcterms:issued 1996 ;
+    dcterms:title "The role of the Spitalfields Market Community Trust",
+        "Urban Regeneration in Spitalfields" ;
+    sgpl:thesisID 318 .
+
+sgpl:Thesis319 a sgpl:SGPLThesis ;
+    dcterms:creator "Johan M. van Duyvendijk" ;
+    dcterms:issued 1996 ;
+    dcterms:title "An analysis of the strengths and weaknesses of the London Borough of Enfield, based on the ideas of Michael E. Porter as defined in his book The Competitiveness of Nations.",
+        "ENFIELD",
+        "Top London Borough?" ;
+    sgpl:thesisID 319 .
+
+sgpl:Thesis32 a sgpl:SGPLThesis ;
+    dcterms:creator "G.J.C.A. Nillesen" ;
+    dcterms:issued 1960 ;
+    dcterms:title "Een onderzoek naar aanleiding van de vestiging van industrie in de eigenlijke polder van de Haarlemmermeer.",
+        "SOCIALE VERANDERINGEN EN GEOGRAFISCHE LIGGING" ;
+    sgpl:thesisID 32 .
+
+sgpl:Thesis320 a sgpl:SGPLThesis ;
+    dcterms:creator "Berno van Dooren",
+        "Jeroen van Marle",
+        "Renze de Boer" ;
+    dcterms:issued 1996 ;
+    dcterms:title "Moeder, haal de buffel van stal; er is weer land!",
+        "Twee Roemeense plattelandsregio's in transitie" ;
+    sgpl:thesisID 320 .
+
+sgpl:Thesis321 a sgpl:SGPLThesis ;
+    dcterms:creator "D.J.P.J. Verlinde" ;
+    dcterms:issued 1996 ;
+    dcterms:title "Not In My Back Yard: de belangenstrijd tussen lokaal en bovenlokaal niveau bij moeilijk inpasbare voorzieningen" ;
+    sgpl:thesisID 321 .
+
+sgpl:Thesis322 a sgpl:SGPLThesis ;
+    dcterms:creator "Sil Vrielink" ;
+    dcterms:issued 1996 ;
+    dcterms:title "Een empirische studie naar de uitkomsten van het ruimtelijk zoekgedrag van schoolverlaters op de arbeidsmarkt",
+        "REGIONALE ARBEIDSMOBILITEIT VAN SCHOOLVERLATERS" ;
+    sgpl:thesisID 322 .
+
+sgpl:Thesis323 a sgpl:SGPLThesis ;
+    dcterms:creator "Janneke te Dorsthorst" ;
+    dcterms:issued 1997 ;
+    dcterms:title "CONTACTEN IN DE BUURT",
+        "Een onderzoek naar de mate van lokale gerichtheid en identificatie met de buurt van bewoners van drie buurten in Utrecht: Sterrenwijk, Rijnsweerd en de Wilhelminaparkbuurt" ;
+    sgpl:thesisID 323 .
+
+sgpl:Thesis325 a sgpl:SGPLThesis ;
+    dcterms:creator "Michiel Purmer" ;
+    dcterms:issued 1997 ;
+    dcterms:title "KASTEELRUÏNES IN NEDERLAND",
+        "ligging en functie in het Nederlandse landschap" ;
+    sgpl:thesisID 325 .
+
+sgpl:Thesis326 a sgpl:SGPLThesis ;
+    dcterms:creator "Annelies Woudstra-Hannink" ;
+    dcterms:issued 1997 ;
+    dcterms:title "COMMUNICATIE RONDOM LANDINRICHTING",
+        "communicatiestrategie, in relatie tot doelgroepenbereik en wet- en regelgeving in het landinrichtingsproject Groenraven-Oost" ;
+    sgpl:thesisID 326 .
+
+sgpl:Thesis327 a sgpl:SGPLThesis ;
+    dcterms:creator "Sigrid Zeeman" ;
+    dcterms:issued 1997 ;
+    dcterms:title "ALS GRENSGEVAL TUSSEN TWEE ONTWIKKELINGSMODELLEN",
+        "EEN GRENSREGIO",
+        "ONDERZOEK NAAR DE REGIONALE ONTWIKKELING VAN HAUT-RHIN" ;
+    sgpl:thesisID 327 .
+
+sgpl:Thesis328 a sgpl:SGPLThesis ;
+    dcterms:creator "Ester van 't Klooster" ;
+    dcterms:issued 1997 ;
+    dcterms:title "Een onderzoek naar de invloed van organisatorische en procesmatige aspecten bij vier Nederlandse gemeenten",
+        "INTEGRATIE VAN RUIMTELIJKE-ORDENINGS- EN MILIEUBELEID" ;
+    sgpl:thesisID 328 .
+
+sgpl:Thesis329 a sgpl:SGPLThesis ;
+    dcterms:creator "Bouke van Gorp" ;
+    dcterms:issued 1998 ;
+    dcterms:title "Transformatie en Uitbreiding",
+        "integratie van de stadshistorische geografie in de aardrijkskunde" ;
+    sgpl:thesisID 329 .
+
+sgpl:Thesis33 a sgpl:SGPLThesis ;
+    dcterms:creator "A. de Zeeuw" ;
+    dcterms:issued 1960 ;
+    dcterms:title "De Industrie van het Zuidelijke deel der Gelderse Vallei",
+        "De industriële ontwikkeling en het forensisme van Veenendaal" ;
+    sgpl:thesisID 33 .
+
+sgpl:Thesis331 a sgpl:SGPLThesis ;
+    dcterms:creator "Janneke Both" ;
+    dcterms:issued 1999 ;
+    dcterms:title "Een onderzoek naar trends in het verplaatsingsgedrag van bos- en natuurbezoekers 1962-1999",
+        "Op weg naar het bos" ;
+    sgpl:thesisID 331 .
+
+sgpl:Thesis332 a sgpl:SGPLThesis ;
+    dcterms:creator "Birgit van Ee" ;
+    dcterms:issued 1999 ;
+    dcterms:title "DE PRODUKT- EN MARKTSTRATEGIE",
+        "VAN JONGE BEDRIJVEN" ;
+    sgpl:thesisID 332 .
+
+sgpl:Thesis333 a sgpl:SGPLThesis ;
+    dcterms:creator "Marcel Kuenen" ;
+    dcterms:issued 1999 ;
+    dcterms:title "Regionaal-geografische studie van de regio Salland: EEN GEDESINTEGREERDE REGIO?" ;
+    sgpl:thesisID 333 .
+
+sgpl:Thesis334 a sgpl:SGPLThesis ;
+    dcterms:creator "A.P.M. Linders" ;
+    dcterms:issued 1999 ;
+    dcterms:title "Bedrijventerreinen",
+        "Revitalisering" ;
+    sgpl:thesisID 334 .
+
+sgpl:Thesis335 a sgpl:SGPLThesis ;
+    dcterms:creator "Joost Findhammer" ;
+    dcterms:issued 2001 ;
+    dcterms:title "Cultuurhistorie en aardkunde in Landschapsbeleidsplannen",
+        "Een onderzoek naar gemeentelijke landschapsbeleidsplannen in relatie tot cultuurhistorie en aardkunde" ;
+    sgpl:thesisID 335 .
+
+sgpl:Thesis336 a sgpl:SGPLThesis ;
+    dcterms:creator "Bart Zwaan",
+        "Marieke Muilwijk" ;
+    dcterms:issued 2001 ;
+    dcterms:title "Cultuurhistorie en ruimtelijke planning",
+        "in het wetenschappelijk onderwijs" ;
+    sgpl:thesisID 336 .
+
+sgpl:Thesis338 a sgpl:SGPLThesis ;
+    dcterms:creator "Suzanne Bastings" ;
+    dcterms:issued 2002 ;
+    dcterms:title "De Kop van Zuid: Meer dan wonen?",
+        "Een onderzoek naar meervoudig ruimtegebruik op de Kop van Zuid, Rotterdam." ;
+    sgpl:thesisID 338 .
+
+sgpl:Thesis339 a sgpl:SGPLThesis ;
+    dcterms:creator "Sjoerd Kooijmans" ;
+    dcterms:issued 2002 ;
+    dcterms:title "Integratie van cultuurhistorische elementen in de projecten van het waterschap",
+        "Overspoeld door cultuurhistorie?" ;
+    sgpl:thesisID 339 .
+
+sgpl:Thesis34 a sgpl:SGPLThesis ;
+    dcterms:creator "F.A.M. Besselink" ;
+    dcterms:issued 1961 ;
+    dcterms:title "Fontiers-Cabardès" ;
+    sgpl:thesisID 34 .
+
+sgpl:Thesis341 a sgpl:SGPLThesis ;
+    dcterms:creator "Simon Bos" ;
+    dcterms:title "Natuur en cultuur in de IJslandse nationale parken",
+        "Op zoek naar natuur" ;
+    sgpl:thesisID 341 .
+
+sgpl:Thesis342 a sgpl:SGPLThesis ;
+    dcterms:creator "M. Modijefsky" ;
+    dcterms:title "Een exploratieve studie naar de synergie tussen leisure en retail in Nederlandse winkelgebieden",
+        "Leisure en retail" ;
+    sgpl:thesisID 342 .
+
+sgpl:Thesis343 a sgpl:SGPLThesis ;
+    dcterms:creator "Wendy van der Torre" ;
+    dcterms:issued 2003 ;
+    dcterms:title "De ontwikkeling van buitenplaatsenlandschappen: Maarssen en De Bilt vergeleken" ;
+    sgpl:thesisID 343 .
+
+sgpl:Thesis344 a sgpl:SGPLThesis ;
+    dcterms:creator "Jan Willems" ;
+    dcterms:title "De geografie van het Orgel",
+        "Een historisch-muziekgeografisch onderzoek naar de verspreiding van een reuzeninstrument." ;
+    sgpl:thesisID 344 .
+
+sgpl:Thesis345 a sgpl:SGPLThesis ;
+    dcterms:creator "Suzanne de Laat" ;
+    dcterms:issued 2004 ;
+    dcterms:title "De ontwikkeling van het groen in wederopbouwwijken",
+        "GROEN" ;
+    sgpl:thesisID 345 .
+
+sgpl:Thesis346 a sgpl:SGPLThesis ;
+    dcterms:creator "Rutger van Krieken" ;
+    dcterms:issued 2004 ;
+    dcterms:title "Tweede Wereldoorlogerfgoed",
+        "Verhalen uit 1940-1945" ;
+    sgpl:thesisID 346 .
+
+sgpl:Thesis347 a sgpl:SGPLThesis ;
+    dcterms:creator "Amanda Mackloet" ;
+    dcterms:issued 2004 ;
+    dcterms:title "De Rotterdamse haven: Logische Logistieke Locatie?",
+        "Een onderzoek naar de locatiekeuze van logistieke dienstverleners in relatie tot de Rotterdamse en Antwerpse haven" ;
+    sgpl:thesisID 347 .
+
+sgpl:Thesis348 a sgpl:SGPLThesis ;
+    dcterms:creator "D. Veerman" ;
+    dcterms:issued 2004 ;
+    dcterms:title "De invloed die het vliegveld Deelen heeft gehad op de aanwezigheid van cultuurhistorische landschapselementen in de omgeving van Deelen.",
+        "Vliegveld Deelen, van last tot lust?" ;
+    sgpl:thesisID 348 .
+
+sgpl:Thesis349 a sgpl:SGPLThesis ;
+    dcterms:creator "W.F. Vletter" ;
+    dcterms:issued 2004 ;
+    dcterms:title "De Valle d'Itria",
+        "Een historisch-geografisch onderzoek" ;
+    sgpl:thesisID 349 .
+
+sgpl:Thesis35 a sgpl:SGPLThesis ;
+    dcterms:creator "H.A. de Gans" ;
+    dcterms:issued 1961 ;
+    dcterms:title "De aantasting resp.uitbreiding van de funktie van Zierikzee als eilandelijk verzorgingscentrum in de periode 1950-1961 door de uitbreiding van, resp.ten koste van de verzorgende funktie van de overige gemeenten van Schouwen Duiveland." ;
+    sgpl:thesisID 35 .
+
+sgpl:Thesis351 a sgpl:SGPLThesis ;
+    dcterms:creator "Steffan van den Berg" ;
+    dcterms:title "Van zwart naar groen",
+        "de betekenis van het mijnverleden als industrieel erfgoed in een post-industrieel landschap" ;
+    sgpl:thesisID 351 .
+
+sgpl:Thesis352 a sgpl:SGPLThesis ;
+    dcterms:creator "Joost de Jong" ;
+    dcterms:issued 2005 ;
+    dcterms:title "Romeinse weg bij het grofvuil!",
+        "besluitvorming over de integratie van archeologische elementen in ruimtelijke plannen in Leidsche Rijn" ;
+    sgpl:thesisID 352 .
+
+sgpl:Thesis353 a sgpl:SGPLThesis ;
+    dcterms:creator "Joost Nicasie" ;
+    dcterms:title "De ontwikkeling van het landschap en de landbouw in Rijswijk",
+        "Tussen strandwal en kleipolder" ;
+    sgpl:thesisID 353 .
+
+sgpl:Thesis354 a sgpl:SGPLThesis ;
+    dcterms:creator "Linda de Haan" ;
+    dcterms:issued 2006 ;
+    dcterms:title "De ruimtelijke relaties tussen middeleeuwse kastelen in het Gelders rivierengebied en hun omgeving",
+        "Het kasteel in het landschap" ;
+    sgpl:thesisID 354 .
+
+sgpl:Thesis357 a sgpl:SGPLThesis ;
+    dcterms:creator "R.P.J. Koswal." ;
+    dcterms:issued 2006 ;
+    dcterms:title "EFFECTEN VAN STEDELIJKE VERNIEUWING OP WOONCARRIÈRE EN - SATISFACTIE VAN BEWONERS",
+        "Onderzoek naar de effecten van stedelijke vernieuwing op wooncarrière en -satisfactie van bewoners van Laag Koningshoef in de Bijlmermeer." ;
+    sgpl:thesisID 357 .
+
+sgpl:Thesis358 a sgpl:SGPLThesis ;
+    dcterms:creator "Bianca Lubbers" ;
+    dcterms:issued 2006 ;
+    dcterms:title "Made in Utrecht",
+        "Op zoek naar verklaringen voor de ruimtelijke ontwikkeling van de creatieve industrie in Utrecht" ;
+    sgpl:thesisID 358 .
+
+sgpl:Thesis359 a sgpl:SGPLThesis ;
+    dcterms:creator "Menno Nieuwenhuyse" ;
+    dcterms:issued 2006 ;
+    dcterms:title "Een kwestie van schaal",
+        "ICT-bedrijven in beeld" ;
+    sgpl:thesisID 359 .
+
+sgpl:Thesis361 a sgpl:SGPLThesis ;
+    dcterms:creator "Frank de Beer" ;
+    dcterms:issued 2007 ;
+    dcterms:title "Angstgevoelens tijdens het uitgaan",
+        "Een onderzoek naar angstgevoelens van jongeren tijdens het uitgaan op het Caterplein in Apeldoorn." ;
+    sgpl:thesisID 361 .
+
+sgpl:Thesis362 a sgpl:SGPLThesis ;
+    dcterms:creator "Thomas Boelaars" ;
+    dcterms:issued 2007 ;
+    dcterms:title "Erfgoedplanning sinds de teloorgang van de Enschedese textielindustrie",
+        "Restanten van een industrieel landschap" ;
+    sgpl:thesisID 362 .
+
+sgpl:Thesis364 a sgpl:SGPLThesis ;
+    dcterms:creator "Marcel IJsselstijn" ;
+    dcterms:issued 2007 ;
+    dcterms:title "Onvoltooid verleden tijd",
+        "Op zoek naar de cultuurhistorische inbreng in moderne projectontwikkeling in Rotterdam en Den Haag" ;
+    sgpl:thesisID 364 .
+
+sgpl:Thesis365 a sgpl:SGPLThesis ;
+    dcterms:creator "Stefan de Jong" ;
+    dcterms:issued 2007 ;
+    dcterms:title "E-commerce in de binnenstad",
+        "Een onderzoek naar e-commerce succes onder winkeliers in de binnenstad" ;
+    sgpl:thesisID 365 .
+
+sgpl:Thesis366 a sgpl:SGPLThesis ;
+    dcterms:creator "Sanne Keuning" ;
+    dcterms:issued 2007 ;
+    dcterms:title "Een nieuwe grachtengordel voor Amsterdam?",
+        "Erfgoed en gecre9erd erfgoed in het Oostelijke Havengebied" ;
+    sgpl:thesisID 366 .
+
+sgpl:Thesis367 a sgpl:SGPLThesis ;
+    dcterms:creator "Erik van Lakerveld" ;
+    dcterms:issued 2007 ;
+    dcterms:title "Een verkenning van de rol van het landschap in het negentiende-eeuws nationalistisch vertoog",
+        "Landschap en nationalisme" ;
+    sgpl:thesisID 367 .
+
+sgpl:Thesis368 a sgpl:SGPLThesis ;
+    dcterms:creator "Fieke van Leest" ;
+    dcterms:issued 2007 ;
+    dcterms:title "Afstudeerscriptie",
+        "Als het water weer gaat stromen" ;
+    sgpl:thesisID 368 .
+
+sgpl:Thesis369 a sgpl:SGPLThesis ;
+    dcterms:creator "Finn Speijer" ;
+    dcterms:issued 2007 ;
+    dcterms:title "Bloementeelt in Kenia",
+        "Implicaties van globalisering op smallholders en lokale bevolking" ;
+    sgpl:thesisID 369 .
+
+sgpl:Thesis37 a sgpl:SGPLThesis ;
+    dcterms:creator "J. van Westrhenen" ;
+    dcterms:issued 1961 ;
+    dcterms:title "EEN ONTVOLKEND DORP IN DE MONTAGNE NOIRE",
+        "LES MARTYS" ;
+    sgpl:thesisID 37 .
+
+sgpl:Thesis370 a sgpl:SGPLThesis ;
+    dcterms:creator "Karin Blokzijl" ;
+    dcterms:issued 2008 ;
+    dcterms:title "Een kwalitatief onderzoek naar de invloed van milieufactoren op de ontwikkeling van de creatieve ondernemer in Prenzlauer Berg, Berlijn",
+        "Experiment en commercie",
+        "in creatief Prenzlberg" ;
+    sgpl:thesisID 370 .
+
+sgpl:Thesis371 a sgpl:SGPLThesis ;
+    dcterms:creator "Gert-Jan van Dam" ;
+    dcterms:issued 2008 ;
+    dcterms:title "Interactie tussen Leiden en het omringende platteland" ;
+    sgpl:thesisID 371 .
+
+sgpl:Thesis372 a sgpl:SGPLThesis ;
+    dcterms:creator "Sarah de Vreugd" ;
+    dcterms:issued 2008 ;
+    dcterms:title "De Korenmarkt Arnhem: Een ‘Hot Spot’?!",
+        "Een onderzoek naar onveiligheid tijdens de avond / nacht en de invloed van institutionele maatregelen" ;
+    sgpl:thesisID 372 .
+
+sgpl:Thesis373 a sgpl:SGPLThesis ;
+    dcterms:creator "ELINE VAN ROSSUM" ;
+    dcterms:issued 2008 ;
+    dcterms:title "BIOGRAFIE VAN EEN LANDSCHAP: 'AMEN'" ;
+    sgpl:thesisID 373 .
+
+sgpl:Thesis374 a sgpl:SGPLThesis ;
+    dcterms:creator "Stephan Schouten" ;
+    dcterms:issued 2008 ;
+    dcterms:title "Het Erzgebirge als Heimat?",
+        "Regionale identiteit na DDR en Wismut" ;
+    sgpl:thesisID 374 .
+
+sgpl:Thesis375 a sgpl:SGPLThesis ;
+    dcterms:creator "Loes Gloudemans" ;
+    dcterms:issued 2013 ;
+    dcterms:title "Dynamiek en variëteit in de detailhandel",
+        "In vier Utrechtse binnensteden" ;
+    sgpl:thesisID 375 .
+
+sgpl:Thesis377 a sgpl:SGPLThesis ;
+    dcterms:creator "Simon van den Bergh" ;
+    dcterms:title "Landschapsverandering in Nederland: Een onderzoek naar autonome landschapsverandering en landschapsverandering als gevolg van ruilverkaveling in drie proefgebieden" ;
+    sgpl:thesisID 377 .
+
+sgpl:Thesis378 a sgpl:SGPLThesis ;
+    dcterms:creator "M. Cox" ;
+    dcterms:title "DE ARBEIDERSWOONFORENSEN",
+        "IN DE GEMEENTEN DRIEBERGEN EN DOORN" ;
+    sgpl:thesisID 378 .
+
+sgpl:Thesis379 a sgpl:SGPLThesis ;
+    dcterms:creator "A.J. Jansen" ;
+    dcterms:issued 1962 ;
+    dcterms:title "De M Z A B",
+        "Sedentaire graanbouwers op de drempel der moderne tijd." ;
+    sgpl:thesisID 379 .
+
+sgpl:Thesis38 a sgpl:SGPLThesis ;
+    dcterms:creator "D.J. van Schepen" ;
+    dcterms:issued 1962 ;
+    dcterms:title "SAINT JEAN DE MINERVOIS en ASSIGNAN",
+        "twee gemeenten in Zuid Frankrijk" ;
+    sgpl:thesisID 38 .
+
+sgpl:Thesis380 a sgpl:SGPLThesis ;
+    dcterms:creator "CONSTANCE BOOGERS",
+        "FRANK V. DUGTEREN" ;
+    dcterms:issued 1984 ;
+    dcterms:title "EEN ONDERZOEK NAAR WOONLASTEN EN DOORSTROMING IN : NIEUWEGEIN",
+        "WOONLASTEN IN NIEUWBOUW" ;
+    sgpl:thesisID 380 .
+
+sgpl:Thesis382 a sgpl:SGPLThesis ;
+    dcterms:creator "Jos Smeets" ;
+    dcterms:issued 1977 ;
+    dcterms:title "Staat, ruimtelijke planning en financiering",
+        "bijdrage tot een marxistiese ruimteanalyse" ;
+    sgpl:thesisID 382 .
+
+sgpl:Thesis385 a sgpl:SGPLThesis ;
+    dcterms:creator "A.A.H.T. van Rens" ;
+    dcterms:title "Het Forensen-wezen",
+        "Huis ter Heide en Bos en Duin" ;
+    sgpl:thesisID 385 .
+
+sgpl:Thesis386 a sgpl:SGPLThesis ;
+    dcterms:creator "Bert Veraa" ;
+    dcterms:issued 1989 ;
+    dcterms:title "Analyse 1987-1989",
+        "Evaluatie Nieuwbouw Utrecht",
+        "Woning- en woonomgevingswaardering" ;
+    sgpl:thesisID 386 .
+
+sgpl:Thesis39 a sgpl:SGPLThesis ;
+    dcterms:creator "F. Schuurmans" ;
+    dcterms:issued 1963 ;
+    dcterms:title "DEMKA N.V.",
+        "HET FORENSISME BIJ DE KONINKLIJKE STAALFABRIEK",
+        "TE UTRECHT" ;
+    sgpl:thesisID 39 .
+
+sgpl:Thesis40 a sgpl:SGPLThesis ;
+    dcterms:creator "H.K.J. SNELDER" ;
+    dcterms:issued 1962 ;
+    dcterms:title "Analyse van de bestaanswijze in de hoogst gelegen gemeente van het Montagne Noire",
+        "PRADELLES - CABARDÈS" ;
+    sgpl:thesisID 40 .
+
+sgpl:Thesis41 a sgpl:SGPLThesis ;
+    dcterms:creator "J. J. Sterkenburg" ;
+    dcterms:issued 1963 ;
+    dcterms:title "De bevolkingsrubbercultuur",
+        "in Liberia" ;
+    sgpl:thesisID 41 .
+
+sgpl:Thesis42 a sgpl:SGPLThesis ;
+    dcterms:creator "E.J.van der Hagen" ;
+    dcterms:issued 1962 ;
+    dcterms:title "MEXICO-CIUDAD",
+        "Stedelijk Dualisme" ;
+    sgpl:thesisID 42 .
+
+sgpl:Thesis43 a sgpl:SGPLThesis ;
+    dcterms:creator "C.D.Eijsberg" ;
+    dcterms:title "DE ARBEIDSVOORZIENING VAN VIANEN" ;
+    sgpl:thesisID 43 .
+
+sgpl:Thesis44 a sgpl:SGPLThesis ;
+    dcterms:creator "T Folkers" ;
+    dcterms:issued 1963 ;
+    dcterms:title "BESCHOUWINGEN OVER DE VERANDERINGEN IN HET BODEMGEBRUIK VAN DE PROVINCIE UTRECHT",
+        "TUSSEN DE JAREN 1833 EN 1938" ;
+    sgpl:thesisID 44 .
+
+sgpl:Thesis45 a sgpl:SGPLThesis ;
+    dcterms:creator "P.E.v.d. Heiden" ;
+    dcterms:issued 1964 ;
+    dcterms:title "Een sociaal-geografisch onderzoek",
+        "HET CONCESSIE-GEBIED VAN DE 'AFRICAN TIMBER & PLYWOOD (GHANA) LIMITED'" ;
+    sgpl:thesisID 45 .
+
+sgpl:Thesis46 a sgpl:SGPLThesis ;
+    dcterms:creator "A.C.M. Jansen" ;
+    dcterms:title "Damflos" ;
+    sgpl:thesisID 46 .
+
+sgpl:Thesis47 a sgpl:SGPLThesis ;
+    dcterms:creator "A. Nauta" ;
+    dcterms:issued 1963 ;
+    dcterms:title "IN DE PERIODE 1899-1960",
+        "VERSCHUIVINGEN IN HET SPREIDINGSPATROON DER NEDERLANDSE INDUSTRIE" ;
+    sgpl:thesisID 47 .
+
+sgpl:Thesis48 a sgpl:SGPLThesis ;
+    dcterms:creator "J.M. Roof" ;
+    dcterms:issued 1963 ;
+    dcterms:title "De functionele migratie van een katholieke en protestantse landbouwgemeente op Zuid Beveland" ;
+    sgpl:thesisID 48 .
+
+sgpl:Thesis49 a sgpl:SGPLThesis ;
+    dcterms:creator "M.A. van Niekerk" ;
+    dcterms:issued 1963 ;
+    dcterms:title "Een Wijndorp aan de zuidrand van de Montagne Noire.",
+        "LA CAUNETTE" ;
+    sgpl:thesisID 49 .
+
+sgpl:Thesis50 a sgpl:SGPLThesis ;
+    dcterms:creator "J. J. Sterkenburg" ;
+    dcterms:issued 1963 ;
+    dcterms:title "Arbeidsvoorziening en Arbeidsproductiviteit in Liberia" ;
+    sgpl:thesisID 50 .
+
+sgpl:Thesis51 a sgpl:SGPLThesis ;
+    dcterms:creator "H.M. de Bruijn" ;
+    dcterms:issued 1965 ;
+    dcterms:title "Fournes, Trassanel en Sallèles",
+        "de uitgestelde ondergang van drie gemeenten tegen de zuid-flank van de Montagne Noire" ;
+    sgpl:thesisID 51 .
+
+sgpl:Thesis52 a sgpl:SGPLThesis ;
+    dcterms:creator "M. de Smidt" ;
+    dcterms:issued 1965 ;
+    dcterms:title "De plaats van de haven in de funktionele struktuur van de gemeente Dordrecht.",
+        "HAVEN EN WERKEN" ;
+    sgpl:thesisID 52 .
+
+sgpl:Thesis53 a sgpl:SGPLThesis ;
+    dcterms:creator "P.W. Geudeke" ;
+    dcterms:issued 1965 ;
+    dcterms:title "De betekenis van de Drentse kanalen voor scheepvaart en waterbeheersing",
+        "Kanalenonderzoek Drente" ;
+    sgpl:thesisID 53 .
+
+sgpl:Thesis54 a sgpl:SGPLThesis ;
+    dcterms:creator "J.A. van de Kraats" ;
+    dcterms:issued 1963 ;
+    dcterms:title "DE REGIONALE DIFFERENTIËRING IN DE POLITIEKE GEZINDTE IN DE STEDEN DER DRIE NOORDELIJKE PROVINCIËN, 1933 - 1963" ;
+    sgpl:thesisID 54 .
+
+sgpl:Thesis55 a sgpl:SGPLThesis ;
+    dcterms:creator "J.M. van den Hondel" ;
+    dcterms:issued 1966 ;
+    dcterms:title "BAGNOLES" ;
+    sgpl:thesisID 55 .
+
+sgpl:Thesis56 a sgpl:SGPLThesis ;
+    dcterms:creator "H.C.J. van der Linden" ;
+    dcterms:issued 1968 ;
+    dcterms:title "Achtergronden en betekenis van enkele feiten, die bij ons onderzoek in de gemeente Cothen aan het licht kwamen",
+        "Migratie-onderzoek in de gemeente Cothen" ;
+    sgpl:thesisID 56 .
+
+sgpl:Thesis57 a sgpl:SGPLThesis ;
+    dcterms:creator "G.A. van der Knaap" ;
+    dcterms:issued 1970 ;
+    dcterms:title "Binnenlandse migratie in Nederland",
+        "Een onderzoek naar de invloeden van een aantal geselecteerde migratiefactoren" ;
+    sgpl:thesisID 57 .
+
+sgpl:Thesis58 a sgpl:SGPLThesis ;
+    dcterms:creator "N.E. van der Woerdt" ;
+    dcterms:issued 1970 ;
+    dcterms:title "ONDERZOEK WERKENDE VROUWEN IN DENEKAMP" ;
+    sgpl:thesisID 58 .
+
+sgpl:Thesis59 a sgpl:SGPLThesis ;
+    dcterms:creator "N.F. Abcouwer" ;
+    dcterms:issued 1971 ;
+    dcterms:title "ONTWIKKELINGEN IN DE INDUSTRIËLE STRUCTUUR VAN ZUID-WEST-NEDERLAND 1945-1970",
+        "een sociaal-geografische verkenning" ;
+    sgpl:thesisID 59 .
+
+sgpl:Thesis60 a sgpl:SGPLThesis ;
+    dcterms:creator "Judith van Beurden" ;
+    dcterms:issued 1990 ;
+    dcterms:title "C.M. KAN (1837-1919)",
+        "ZIJN OPVATTINGEN VAN DE GEOGRAFIE IN RELATIE TOT DIE VAN ZIJN TIJDGENOTEN IN HET BUITENLAND" ;
+    sgpl:thesisID 60 .
+
+sgpl:Thesis61 a sgpl:SGPLThesis ;
+    dcterms:creator "K.E. NAWIJN",
+        "T.F. DE BOER" ;
+    dcterms:issued 1973 ;
+    dcterms:title "EEN RUIMTELIJKE GELEDING VAN EEN MIDDELGROTE NEDERLANDSE STAD",
+        "Een exploratief onderzoek naar de ruimtelijke spreiding en vestigingsplaatsfaktoren van een aantal bedrijfsklassen uit de dienstensektor in Amersfoort",
+        "RUIMTELIJKE GELEDING IN AMERSFOORT" ;
+    sgpl:thesisID 61 .
+
+sgpl:Thesis63 a sgpl:SGPLThesis ;
+    dcterms:creator "harm jan dam" ;
+    dcterms:issued 1973 ;
+    dcterms:title "Suburbanisatie",
+        "definitie",
+        "typologie" ;
+    sgpl:thesisID 63 .
+
+sgpl:Thesis64 a sgpl:SGPLThesis ;
+    dcterms:creator "Jan Jaap Harts" ;
+    dcterms:issued 1974 ;
+    dcterms:title "MIGRATIE: EEN VERBETERING?",
+        "verslag van de huishoudens enquête 1973 voor het onderzoek Middengebied Randstad" ;
+    sgpl:thesisID 64 .
+
+sgpl:Thesis65 a sgpl:SGPLThesis ;
+    dcterms:creator "A.P. de Klerk" ;
+    dcterms:issued 1974 ;
+    dcterms:title "Bijdrage tot de historische geografie van de gemeente Eemnes tot ca. 1450",
+        "EEN STREEKDORP" ;
+    sgpl:thesisID 65 .
+
+sgpl:Thesis67 a sgpl:SGPLThesis ;
+    dcterms:creator "Margot Stempher" ;
+    dcterms:issued 1973 ;
+    dcterms:title "Een industrieel-geografische struktuur- en procesanalyse van het Middengebied van de Randstad",
+        "Grafische nijverheid",
+        "Konfektie-industrie",
+        "Onderzoek Middengebied Randstad",
+        "Papierindustrie",
+        "Textielindustrie" ;
+    sgpl:thesisID 67 .
+
+sgpl:Thesis68 a sgpl:SGPLThesis ;
+    dcterms:creator "J.L. Meerman",
+        "P. Berculo" ;
+    dcterms:issued 1974 ;
+    dcterms:title "Analyse van het ruimtelijk beleid in het zuidelijk randgebied van de noordelijke randstadvleugel",
+        "Stedelijke randgroei en overheidsbeleid" ;
+    sgpl:thesisID 68 .
+
+sgpl:Thesis69 a sgpl:SGPLThesis ;
+    dcterms:creator "ank bos" ;
+    dcterms:issued 1974 ;
+    dcterms:title "VESTIGERS EN BLIJVERS IN HET MIDDENGEBIED RANDSTAD",
+        "het verslag van een huishoudensenquete" ;
+    sgpl:thesisID 69 .
+
+sgpl:Thesis70 a sgpl:SGPLThesis ;
+    dcterms:creator "Peter Kiel" ;
+    dcterms:issued 1974 ;
+    dcterms:title "Een eksploratief deskriptief onderzoek naar de mogelijkheid van toepassing van enkele kybernetische onderwijsprincipes in het aardrijkskunde-onderwijs",
+        "Een onderzoek naar de toepassing van enkele kybernetische principes in het aardrijkskunde-onderwijs",
+        "Geografie en leerlandschap" ;
+    sgpl:thesisID 70 .
+
+sgpl:Thesis71 a sgpl:SGPLThesis ;
+    dcterms:creator "J. Markusse" ;
+    dcterms:issued 1974 ;
+    dcterms:title "Bodemgebruik",
+        "In het middengebied van de Randstad" ;
+    sgpl:thesisID 71 .
+
+sgpl:Thesis72 a sgpl:SGPLThesis ;
+    dcterms:creator "F.W.J. Scholten" ;
+    dcterms:issued 1974 ;
+    dcterms:title "De Markeverdelingen in Zuidoost-Salland" ;
+    sgpl:thesisID 72 .
+
+sgpl:Thesis73 a sgpl:SGPLThesis ;
+    dcterms:creator "Fred Dekker",
+        "Hans Mastop",
+        "Harm Timmermans",
+        "Leo Gorter",
+        "Ruud Bardie" ;
+    dcterms:issued 1976 ;
+    dcterms:title "ONDERZOEK OOSTRAND",
+        "de strategische keuze benadering",
+        "een onderzoek naar de toepassingsmogelijkheden van de strategische keuze benadering door middel van de AIDA - techniek in de procesplanningsbenadering van ruimtelijk regionaal ontwikkelingsbeleid",
+        "een overzicht" ;
+    sgpl:thesisID 73 .
+
+sgpl:Thesis74 a sgpl:SGPLThesis ;
+    dcterms:creator "Hans Mastop",
+        "Ruud Bardie" ;
+    dcterms:issued 1975 ;
+    dcterms:title "BINNEN NOORD-BRABANT",
+        "Een toepassing van multiple regressie-analyse op de vestigings- en vertrekpatronen tussen de ekonomisch-geografische gebieden over de jaren 1967-1971",
+        "MIGRATIE",
+        "TEKSTGEDEELTE" ;
+    sgpl:thesisID 74 .
+
+sgpl:Thesis75 a sgpl:SGPLThesis ;
+    dcterms:creator "P.H.M.A. Clausman" ;
+    dcterms:issued 1975 ;
+    dcterms:title "De ekologische waarderingskaart",
+        "van het Kromme-Rijngebied" ;
+    sgpl:thesisID 75 .
+
+sgpl:Thesis76 a sgpl:SGPLThesis ;
+    dcterms:creator "Jac. Smeijers",
+        "Ton Verheijden" ;
+    dcterms:issued 1975 ;
+    dcterms:title "De glastuinbouw",
+        "in het Middengebied Randstad" ;
+    sgpl:thesisID 76 .
+
+sgpl:Thesis77 a sgpl:SGPLThesis ;
+    dcterms:creator "Roelien van Empel" ;
+    dcterms:issued 1976 ;
+    dcterms:title "Planningskader en planningsinstanties op regionaal - gewestelijk niveau",
+        "Procesplanning" ;
+    sgpl:thesisID 77 .
+
+sgpl:Thesis78 a sgpl:SGPLThesis ;
+    dcterms:creator "Ad van Hout" ;
+    dcterms:issued 1975 ;
+    dcterms:title "KOREA",
+        "Produksiewijzen en elementen van ruimtelijke struktuur" ;
+    sgpl:thesisID 78 .
+
+sgpl:Thesis80 a sgpl:SGPLThesis ;
+    dcterms:creator "Herman van Loenen" ;
+    dcterms:issued 1975 ;
+    dcterms:title "Een analyse van het ruimtelijk beleid in het landelijk gebied van de Alblasserwaard en Vijfheerenlanden in de periode 1960-1974",
+        "OVERHEIDSBELEID EN DE GROEI VAN KLEINE PLATTELANDSGEMEENTEN" ;
+    sgpl:thesisID 80 .
+
+sgpl:Thesis81 a sgpl:SGPLThesis ;
+    dcterms:creator "M.H. Stijnenbosch",
+        "N.J. Kemper",
+        "S. Kroeske" ;
+    dcterms:issued 1975 ;
+    dcterms:title "Deel I: ONTWIKKELING EN PROCESSEN",
+        "STRUKTUUR IN BEDRIJF",
+        "de ontwikkeling van de bedrijfsstruktuur in het zuidelijk randgebied van amsterdam 1960-1973" ;
+    sgpl:thesisID 81 .
+
+sgpl:Thesis82 a sgpl:SGPLThesis ;
+    dcterms:creator "Frank Vaillant" ;
+    dcterms:issued 1975 ;
+    dcterms:title "MIGRATIE UIT DE STEDENRING: GERICHT OP HET MIDDENGEBIED RANDSTAD ?" ;
+    sgpl:thesisID 82 .
+
+sgpl:Thesis83 a sgpl:SGPLThesis ;
+    dcterms:creator "M.J. Boskamp" ;
+    dcterms:issued 1976 ;
+    dcterms:title "De invloed van persoonskenmerken op verschillende vormen van gebruik van een binnenstad",
+        "ONDERZOEK OOSTRAND" ;
+    sgpl:thesisID 83 .
+
+sgpl:Thesis85 a sgpl:SGPLThesis ;
+    dcterms:creator "Truus Hilkens-de Haan" ;
+    dcterms:issued 1976 ;
+    dcterms:title "SOCIALE GEOGRAFIE EN INFORMATIE BIJ INSPRAAK",
+        "reflekties rond geografie, informatie en inspraak naar aanleiding van ervaringen met een inspraakprocedure in Vlaardingen." ;
+    sgpl:thesisID 85 .
+
+sgpl:Thesis86 a sgpl:SGPLThesis ;
+    dcterms:creator "Agneta Schipper",
+        "Ellen van de Vrugt" ;
+    dcterms:issued 1976 ;
+    dcterms:title "Hoe vinden mensen hun weg in de jungle van de woningmarkt",
+        "ZOEKGEDRAG BIJ VERHUIZINGEN" ;
+    sgpl:thesisID 86 .
+
+sgpl:Thesis87 a sgpl:SGPLThesis ;
+    dcterms:creator "Ben van den Berg",
+        "John van Ardenne" ;
+    dcterms:issued 1978 ;
+    dcterms:title "Het stedelijk en suburbaan nieuwbouwaanbod: de rol van de opdrachtgever",
+        "Projekt Oostrand",
+        "Wonen, waar we willen bouwen" ;
+    sgpl:thesisID 87 .
+
+sgpl:Thesis88 a sgpl:SGPLThesis ;
+    dcterms:creator "Dick Nijman" ;
+    dcterms:issued 1977 ;
+    dcterms:title "Een hoofdvakscriptie planologie",
+        "Strategische Planning bij Lokale Overheden" ;
+    sgpl:thesisID 88 .
+
+sgpl:Thesis89 a sgpl:SGPLThesis ;
+    dcterms:creator "Paulus Huigen",
+        "Saskia Beckeringh" ;
+    dcterms:issued 1978 ;
+    dcterms:title "BOER, ZIJN BURGERS BUITENLUI?",
+        "een verkennend onderzoek in Eemland (Utrecht) en Wymbritseradeel (Friesland) naar enkele aspekten van de landbouw en de houding van de boer ten opzichte van medegebruik van en overheidsbemoeienis in landelijke gebieden" ;
+    sgpl:thesisID 89 .
+
+sgpl:Thesis90 a sgpl:SGPLThesis ;
+    dcterms:creator "P. de Bruin",
+        "P.J.H. Nagel" ;
+    dcterms:issued 1978 ;
+    dcterms:title "BREINEN ACHTER TERREINEN ?",
+        "Een onderzoek naar berekeningsmethoden van de behoefte aan bedrijfsterrein in de regio Eemland." ;
+    sgpl:thesisID 90 .
+
+sgpl:Thesis91 a sgpl:SGPLThesis ;
+    dcterms:creator "J.F. Jeekel" ;
+    dcterms:issued 1978 ;
+    dcterms:title "BUITENVERBLIJVEN IN SEIZOENSNEDERZETTINGEN" ;
+    sgpl:thesisID 91 .
+
+sgpl:Thesis92 a sgpl:SGPLThesis ;
+    dcterms:creator "JOCHEM KROES",
+        "TEUNIS HOL" ;
+    dcterms:issued 1979 ;
+    dcterms:title "HET LAND VAN VOLLENHOVE",
+        "een historisch-geografische studie van het Noordwest-Overijsselse kultuurlandschap" ;
+    sgpl:thesisID 92 .
+
+sgpl:Thesis93 a sgpl:SGPLThesis ;
+    dcterms:creator "A.J. van Splunter",
+        "A.S.F. van Asseldonk" ;
+    dcterms:issued 1982 ;
+    dcterms:title "BELEID IN BEDRIJF",
+        "De ruimtelijke struktuur van de bedrijvigheid in de gemeente Utrecht in relatie met het daarop van toepassing zijnde beleid" ;
+    sgpl:thesisID 93 .
+
+sgpl:Thesis94 a sgpl:SGPLThesis ;
+    dcterms:creator "Joke van Bodegom" ;
+    dcterms:issued 1980 ;
+    dcterms:title "GEOGRAFIE VAN LANDELIJKE GEBIEDEN: Projekt Zuidwest Friesland",
+        "Het tijd-ruimte bereik van vrouwen in Koudum en omgeving" ;
+    sgpl:thesisID 94 .
+
+sgpl:Thesis95 a sgpl:SGPLThesis ;
+    dcterms:creator "Hans van Elzakker",
+        "Wim van Bogerijen" ;
+    dcterms:issued 1980 ;
+    dcterms:title "JONGERENHUISVESTING: EEN MAATSCHAPPELIJK EN RUIMTELIJK PROBLEEM",
+        "de sturing van maatschappelijke en ruimtelijke ontwikkelingen op het gebied van de jongerenhuisvesting door gemeente, woningbouwverenigingen en kategorale instellingen in Utrecht" ;
+    sgpl:thesisID 95 .
+
+sgpl:Thesis96 a sgpl:SGPLThesis ;
+    dcterms:creator "frank van hoorn" ;
+    dcterms:issued 1980 ;
+    dcterms:title "een toepassing voor overvecht-noord",
+        "geldigheid in het WOONBELEVINGSONDERZOEK" ;
+    sgpl:thesisID 96 .
+
+sgpl:Thesis97 a sgpl:SGPLThesis ;
+    dcterms:creator "Alfons de Vocht",
+        "Bart de Jong",
+        "Evelyn Wilms",
+        "Gerard Boekhout",
+        "Henk Boon",
+        "Jenny Fix",
+        "Kees van Dijk",
+        "Margreet van Burk",
+        "Margreet van Oostrom",
+        "Marjolein Zonneveld",
+        "Peter Vrieler",
+        "Peter van de Boogaard",
+        "René van IJzendoorn",
+        "Richard Zwartenkot",
+        "Rijk van Dijk",
+        "Sherif Amer" ;
+    dcterms:issued 1981 ;
+    dcterms:title "De positie van de vrouw op de arbeidsmarkt",
+        "In de wijken Couwenhoven (Zeist) en Hoog-Zandveld (Nieuwegein)" ;
+    sgpl:thesisID 97 .
+
+sgpl:Thesis98 a sgpl:SGPLThesis ;
+    dcterms:creator "Pieternel Ritsema",
+        "Wies van den Berg" ;
+    dcterms:issued 1981 ;
+    dcterms:title "de niet-agrarische werkgelegenheid in kleine kernen",
+        "een onderzoek naar de werkgelegenheidsstructuur van Koudum en Makkum in Zuidwest Friesland" ;
+    sgpl:thesisID 98 .
+
+sgpl:Thesis99 a sgpl:SGPLThesis ;
+    dcterms:creator "A.J. Kortekaas" ;
+    dcterms:issued 1981 ;
+    dcterms:title "als onderdeel van de toepassing van koopkrachtverdeelmodellen in het distributie-planologisch onderzoek",
+        "de aantrekkingskracht van winkelcentra" ;
+    sgpl:thesisID 99 .
+
