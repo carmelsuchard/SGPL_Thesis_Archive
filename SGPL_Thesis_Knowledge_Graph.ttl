@@ -8941,7 +8941,6 @@ sgpl:Thesis237 a sgpl:SGPLThesis ;
             sgpl:spatialText "winkelcentrum de Bus" ;
             sgpl:text_context "Sindsdien zijn verschillende projecten gestart om de situatie in het gebied te verbeteren, zoals het Werkgelegenheidsproject Helmond-Noord en het project Preventie Kleine Criminaliteit. Daarnaast bestaan er plannen om het winkelcentrum de Bus (zie figuur 4.1) grondig op te knappen. In opdracht van Companen heeft een bedrijf uit Rotterdam de woon- en bouwtechnische staat van het complex onderzocht." ],
         [ a sgpl:SpatialExtentReference ;
-
             sgpl:spatialText "Binderen" ;
             sgpl:text_context "De zeven flats staan in de wijk de Eeuwsels die tesamen met de wijken Binderen en Bloem-en Paardevelden Helmond-Noord vormen. Het complex is op circa vier kilometer afstand van het stadscentrum gelegen. De Nieuwe Aa aan de noord-en oostzijde, plus een natuurgebied dat aansluit op de Zuid-Willemsvaart aan de westzijde, werken als een barrihre, zodat het gebied weliswaar op het centrum georihnteerd is, doch er is slechts sprake van een doorgaande route." ],
         [ a sgpl:SpatialMentionReference ;
@@ -8953,7 +8952,6 @@ sgpl:Thesis237 a sgpl:SGPLThesis ;
             sgpl:spatialText "Nederland" ;
             sgpl:text_context "De kwantitatieve woningnood is inmiddels, vooral buiten de grote steden, grotendeels opgelost. Als we de leegstand in Nederland bezien, blijkt dat die steeds rond de 2% van de totale woningvoorraad schommelt. Een laag percentage, noodzakelijk voor een goede doorstroming op de woningmarkt, de zogenaamde frictieleegstand." ],
         [ a sgpl:SpatialExtentReference ;
-
             sgpl:spatialText "de Eeuwsels" ;
             sgpl:text_context "De zeven flats staan in de wijk de Eeuwsels die tesamen met de wijken Binderen en Bloem-en Paardevelden Helmond-Noord vormen. Het complex is op circa vier kilometer afstand van het stadscentrum gelegen. De Nieuwe Aa aan de noord-en oostzijde, plus een natuurgebied dat aansluit op de Zuid-Willemsvaart aan de westzijde, werken als een barrihre, zodat het gebied weliswaar op het centrum georihnteerd is, doch er is slechts sprake van een doorgaande route." ],
         [ a sgpl:SpatialMentionReference ;
@@ -9132,7 +9130,6 @@ sgpl:Thesis239 a sgpl:SGPLThesis ;
             sgpl:spatialText "Eindhoven" ;
             sgpl:text_context "Bij de volgende 3 produktgroepenondememingen zijn de interviews afgenomen: 1. DAF N.V. (hoofdkantoor en assemblage te Eindhoven); 2. N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker (met name Fokker Aircraft B.V.: hoofdkantoor te Amsterdam-Zuidoost; assemblage te Schiphol; produktie te Dordrecht/Papendrecht, Ypenburg en Woensdrecht);" ],
         [ a sgpl:SpatialExtentReference ;
-
             sgpl:spatialText "Born" ;
             sgpl:text_context "2. N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker (met name Fokker Aircraft B.V.: hoofdkantoor te Amsterdam-Zuidoost; assemblage te Schiphol; produktie te Dordrecht/Papendrecht, Ypenburg en Woensdrecht); 3. Volvo Car B.V. (hoofdkantoor te Helmond; assemblage te Born; produktie te Oss). De informatie uit de interviews is verwerkt in de vorm van case-studies." ] ;
     sgpl:hasSubjectReference [ sgpl:refersToConcept unesco:concept607 ;
@@ -9155,7 +9152,11 @@ sgpl:Thesis239 a sgpl:SGPLThesis ;
             sgpl:text_context "Ook in deze vorm is sprake van een sterke ruimtelijke concentratie van de produktie. Slechts op de flexibilisering van de produktie-organisatie waarin systeembepalende ondernemingen dominant zijn, wordt hier nader ingegaan. Dat gebeurt omdat in dit onderzoek deproduktgroepenondernemingen centraal staan." ] ;
     sgpl:thesisID 239 .
 
-sgpl:Thesis24 sgpl:hasSpatialReference [ a sgpl:SpatialMentionReference ;
+sgpl:Thesis24 a sgpl:SGPLThesis ;
+    dcterms:creator "H.M. de Bruijn" ;
+    dcterms:issued 1960 ;
+    dcterms:title "DE GROTE STEDEN in het ZUIDOOSTEN van de VERENIGD STATEN" ;
+	sgpl:hasSpatialReference [ a sgpl:SpatialMentionReference ;
             sgpl:refersToPlace geonames:6254928 ;
             sgpl:spatialText "Virginia" ;
             sgpl:text_context "Om verschillende redenen kan dit vijftal staten los worden gezien van de hen omringende gebieden. Virginia, lange tijd \"the northernmost of the Southern States\", wordt meer en meer het zuidelijk verlengstuk van de megalopolis aan de Noordatlantische kust. De bergketens der Appalachen vormen een meer dan strikt fysische scheidingsmuur naar de kant van de staten Tennessee en Kentucky." ],
@@ -14099,7 +14100,6 @@ sgpl:Thesis310 a sgpl:SGPLThesis ;
             sgpl:spatialText "de Kop van Noord-Holland" ;
             sgpl:text_context "In overleg met de provinciale besturen heeft de regering zes gebieden aangewezen, waar getracht wordt door middel van gerichte aanpassingen in te spelen op bovengenoemde ontwikkeling. Het betreft de volgende gebieden: het Oldambt, NO-Friesland/NW-Groningen, NW-Friesland, de Kop van Noord-Holland, Zeeuwsch-Vlaanderen en het Drentse Oostermoergebied. In deze gebieden wordt gewerkt aan de opstelling van op uitvoering gerichte Regionale Ontwikkelingsplannen (ROP’s)." ],
         [ a sgpl:SpatialExtentReference ;
-
             sgpl:spatialText "Nieuwkoopse Plassen" ;
             sgpl:text_context "paardrijden Havelte. vissen Nieuwkoopse Plassen. zwemmen Veluwemeer." ],
         [ a sgpl:SpatialExtentReference ;
@@ -14195,7 +14195,12 @@ sgpl:Thesis310 a sgpl:SGPLThesis ;
             sgpl:text_context "Juist in de werkgelegenheid wordt de economische en sociale indicator gevonden waarin het belang van de toeristisch-recreatieve sector sterk tot uitdrukking komt (ten aanzien van inkomensvorming en creatie van banen). Voor het empirische deel van \"probleemstelling c\" wordt de bijdrage van plattelandstoerisme aan plattelandsontwikkeling daarom beperkt tot de bijdrage aan de werkgelegenheid. Om de werkgelegenheid te bepalen is in plaats van de vraagzijdebenadering gebruik gemaakt van de aanbodzijdebenadering." ] ;
     sgpl:thesisID 310 .
 
-sgpl:Thesis311 sgpl:hasSpatialReference [ a sgpl:SpatialMentionReference ;
+
+sgpl:Thesis311 a sgpl:SGPLThesis ;
+    dcterms:creator "Siem Hanswijk" ;
+    dcterms:issued 1996 ;
+    dcterms:title "PDV-BELEID EN GIS IN DE GEMEENTE EDE",
+        "Onderzoek naar de mogelijkheden van GIS voor de beleidsvoorbereiding van het PDV-beleid" ;
             sgpl:refersToPlace geonames:2756429 ;
             sgpl:spatialText "Ede Centrum" ;
             sgpl:text_context "De doorrekening van scenario 1 laat zien dat als gevolg van het uitbreiden van het aantal m2 vvo in het kemwinkelapparaat Ede Centrum er verschuivingen zijn in de koopstromen (figuur 7.4, bijlage D). Alle winkelcentra, met uitzondering van Ede Centrum, gaan er in consumenten aantallen op achteruit. Dit verlies schommelt tussen de 16,2% en de 16,6%." ],
