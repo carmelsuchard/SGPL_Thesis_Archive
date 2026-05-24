@@ -61,10 +61,7 @@ sgpl:Thesis100 a sgpl:SGPLThesis ;
             sgpl:refersToPlace geonames:2749990 ;
             sgpl:spatialText "provinciaal bestuur van Noord-Brabant" ;
             sgpl:text_context "Een bijkomend motief waarom ik dit thema heb gekozen is, dat ik als medewerker van het provinciaal bestuur van Noord-Brabant onder andere betrokken ben bij de beleidsvoorbereiding in de sfeer van het natuur- en landschapsbehoud en de toepassing van de Relatienota. Prof. dr. M. de Smidt ben ik dank verschuldigd voor de constructieve en stimulerende begeleiding van dit verkennende onderzoek. Vught, november 1981." ] ;
-    sgpl:hasSubjectReference [ sgpl:refersToConcept unesco:concept4016 ;
-            sgpl:subjectText "Natuur- en landschapsbehoud" ;
-            sgpl:text_context "Niet in de laatste plaats heeft de overheid -vooral in het afgelopen decennium- in de sfeer van ruimtelijke ordening, landinrichting (ruilverkaveling) en natuur- en landschapsbehoud intensief te maken gekregen met de betrekkingen tussen landbouw en natuur- en landschapsbehoud. Gelet op de actuele en toekomstige betekenis van het overheidsbeleid ten aanzien van de oplossing van de conflicten tussen landbouw en natuur- en landschapsbehoud, wil ik trachten vanuit een sociaal-geografische optiek, de factoren en processen, die een rol spelen bij de aanvaarding of verwerping van het instrumentarium van de Relatienota in het relatienotagebied Oirschot-Best, aan een beschouwing te onderwerpen. Het feit dat een studie-onderwerp als dit gekenmerkt wordt door een grote, niet of nauwelijks reduceerbare aspectenrijkdom, brengt met zich mee, dat het object van studie tot verscheidene interpretatief-theoretische benaderingswijzen aanleiding kan geven." ],
-        [ sgpl:refersToConcept unesco:concept5324 ;
+    sgpl:hasSubjectReference [ sgpl:refersToConcept unesco:concept5324 ;
             sgpl:subjectText "Beheersovereenkomst" ;
             sgpl:text_context "De keuze van het relatienotagebied Oirschot-Best als studiegebied vloeit vooral voort uit het feit, dat het eerste beheersplan-op basis van de Relatienota- in ons land is opgesteld voor dit gebied. Ook zijn de eerste beheersovereenkomsten- in de zin van de Beschikking Beheersovereenkomsten van de minister van Landbouw en Visserij- in ons land afgesloten voor dit gebied. Daarnaast maakt dit gebied deel uit van de bijna voltooide ruilverkaveling Oirschot-Best en van het potentiële nationale landschap Midden-Brabant." ],
         [ sgpl:refersToConcept unesco:concept9610 ;
@@ -78,7 +75,10 @@ sgpl:Thesis100 a sgpl:SGPLThesis ;
             sgpl:text_context "Niet in de laatste plaats heeft de overheid -vooral in het afgelopen decennium- in de sfeer van ruimtelijke ordening, landinrichting (ruilverkaveling) en natuur- en landschapsbehoud intensief te maken gekregen met de betrekkingen tussen landbouw en natuur- en landschapsbehoud. Gelet op de actuele en toekomstige betekenis van het overheidsbeleid ten aanzien van de oplossing van de conflicten tussen landbouw en natuur- en landschapsbehoud, wil ik trachten vanuit een sociaal-geografische optiek, de factoren en processen, die een rol spelen bij de aanvaarding of verwerping van het instrumentarium van de Relatienota in het relatienotagebied Oirschot-Best, aan een beschouwing te onderwerpen. Het feit dat een studie-onderwerp als dit gekenmerkt wordt door een grote, niet of nauwelijks reduceerbare aspectenrijkdom, brengt met zich mee, dat het object van studie tot verscheidene interpretatief-theoretische benaderingswijzen aanleiding kan geven." ],
         [ sgpl:refersToConcept unesco:concept5324 ;
             sgpl:subjectText "Beheersovereenkomst" ;
-            sgpl:text_context "De keuze van het relatienotagebied Oirschot-Best als studiegebied vloeit vooral voort uit het feit, dat het eerste beheersplan-op basis van de Relatienota- in ons land is opgesteld voor dit gebied. Ook zijn de eerste beheersovereenkomsten- in de zin van de Beschikking Beheersovereenkomsten van de minister van Landbouw en Visserij- in ons land afgesloten voor dit gebied. Daarnaast maakt dit gebied deel uit van de bijna voltooide ruilverkaveling Oirschot-Best en van het potentiële nationale landschap Midden-Brabant." ] ;
+            sgpl:text_context "De keuze van het relatienotagebied Oirschot-Best als studiegebied vloeit vooral voort uit het feit, dat het eerste beheersplan-op basis van de Relatienota- in ons land is opgesteld voor dit gebied. Ook zijn de eerste beheersovereenkomsten- in de zin van de Beschikking Beheersovereenkomsten van de minister van Landbouw en Visserij- in ons land afgesloten voor dit gebied. Daarnaast maakt dit gebied deel uit van de bijna voltooide ruilverkaveling Oirschot-Best en van het potentiële nationale landschap Midden-Brabant." ],
+        [ sgpl:refersToConcept unesco:concept4016 ;
+            sgpl:subjectText "Natuur- en landschapsbehoud" ;
+            sgpl:text_context "Niet in de laatste plaats heeft de overheid -vooral in het afgelopen decennium- in de sfeer van ruimtelijke ordening, landinrichting (ruilverkaveling) en natuur- en landschapsbehoud intensief te maken gekregen met de betrekkingen tussen landbouw en natuur- en landschapsbehoud. Gelet op de actuele en toekomstige betekenis van het overheidsbeleid ten aanzien van de oplossing van de conflicten tussen landbouw en natuur- en landschapsbehoud, wil ik trachten vanuit een sociaal-geografische optiek, de factoren en processen, die een rol spelen bij de aanvaarding of verwerping van het instrumentarium van de Relatienota in het relatienotagebied Oirschot-Best, aan een beschouwing te onderwerpen. Het feit dat een studie-onderwerp als dit gekenmerkt wordt door een grote, niet of nauwelijks reduceerbare aspectenrijkdom, brengt met zich mee, dat het object van studie tot verscheidene interpretatief-theoretische benaderingswijzen aanleiding kan geven." ] ;
     sgpl:thesisID 100 .
 
 sgpl:Thesis101 a sgpl:SGPLThesis ;
@@ -415,21 +415,21 @@ sgpl:Thesis105 a sgpl:SGPLThesis ;
             sgpl:refersToPlace geonames:2759794 ;
             sgpl:spatialText "Dienst Ruimtelijke Ordening in Amsterdam" ;
             sgpl:text_context "Het onderzoek van de vakgroep sociologie van bouwen en wonen aan de Rijksuniversiteit Utrecht ’Over het beheer in en van stadsbuurten’ illustreert de aandacht vanuit het gemeentelijk niveau. De toenemende oriëntatie op beheer op gemeentelijk niveau blijkt ook uit het toevoegen als nieuw onderdeel van de Dienst Ruimtelijke Ordening in Amsterdam van een afdeling Stedebouwkundige Beheerszaken. Voor het provinciaal niveau kan worden verwezen naar de provinciale nota ’Stads- en Dorpsvernieuwing in Noord-Brabant' en het jaarverslag 1980 van de Planologische Dienst van Noord-Brabant." ] ;
-    sgpl:hasSubjectReference [ sgpl:refersToConcept unesco:concept2148 ;
-            sgpl:subjectText "stadsbeheer" ;
-            sgpl:text_context "De verschillende deelrapporten zijn overigens zodanig opgezet dat ze los van elkaar gelezen kunnen worden. In dit deelrapport vindt een eerste theoretische verkenning van stadsbeheer plaats. Bezien zal worden hoe de huidige stand van zaken met betrekking tot beheer is vanuit een theoretisch perspectief." ],
-        [ sgpl:refersToConcept unesco:concept14053 ;
-            sgpl:subjectText "planningsinstrumentarium" ;
-            sgpl:text_context "Doel hiervan is te kunnen beoordelen of het opstellen van dergelijke beleidsplannen wenselijk is. De behoefte aan een meer op uitvoering gericht planningsinstrumentarium ten behoeve van de stadsvernieuwing wordt verkend. Die verkenning is gericht op en vervat in een integraal stadsbeheer." ],
-        [ sgpl:refersToConcept unesco:concept15971 ;
-            sgpl:subjectText "stadsvernieuwing" ;
-            sgpl:text_context "Na de aandacht voor de nieuwe woon- en werkgebieden (stadsuitleg) zijn vanaf het begin van de jaren zeventig ook de bestaande bebouwde gebieden in de belangstelling gekomen (stadsvernieuwing). Intussen wijzigt zich ook het karakter van de stadsvernieuwing. Is eerst sloop en nieuwbouw het parool, later worden dat vernieuwbouw, verbetering en instandhouding." ],
-        [ sgpl:refersToConcept unesco:concept14053 ;
+    sgpl:hasSubjectReference [ sgpl:refersToConcept unesco:concept14053 ;
             sgpl:subjectText "planningsinstrumentarium" ;
             sgpl:text_context "Doel hiervan is te kunnen beoordelen of het opstellen van dergelijke beleidsplannen wenselijk is. De behoefte aan een meer op uitvoering gericht planningsinstrumentarium ten behoeve van de stadsvernieuwing wordt verkend. Die verkenning is gericht op en vervat in een integraal stadsbeheer." ],
         [ sgpl:refersToConcept unesco:concept2148 ;
             sgpl:subjectText "stadsbeheer" ;
             sgpl:text_context "De verschillende deelrapporten zijn overigens zodanig opgezet dat ze los van elkaar gelezen kunnen worden. In dit deelrapport vindt een eerste theoretische verkenning van stadsbeheer plaats. Bezien zal worden hoe de huidige stand van zaken met betrekking tot beheer is vanuit een theoretisch perspectief." ],
+        [ sgpl:refersToConcept unesco:concept15971 ;
+            sgpl:subjectText "stadsvernieuwing" ;
+            sgpl:text_context "Na de aandacht voor de nieuwe woon- en werkgebieden (stadsuitleg) zijn vanaf het begin van de jaren zeventig ook de bestaande bebouwde gebieden in de belangstelling gekomen (stadsvernieuwing). Intussen wijzigt zich ook het karakter van de stadsvernieuwing. Is eerst sloop en nieuwbouw het parool, later worden dat vernieuwbouw, verbetering en instandhouding." ],
+        [ sgpl:refersToConcept unesco:concept2148 ;
+            sgpl:subjectText "stadsbeheer" ;
+            sgpl:text_context "De verschillende deelrapporten zijn overigens zodanig opgezet dat ze los van elkaar gelezen kunnen worden. In dit deelrapport vindt een eerste theoretische verkenning van stadsbeheer plaats. Bezien zal worden hoe de huidige stand van zaken met betrekking tot beheer is vanuit een theoretisch perspectief." ],
+        [ sgpl:refersToConcept unesco:concept14053 ;
+            sgpl:subjectText "planningsinstrumentarium" ;
+            sgpl:text_context "Doel hiervan is te kunnen beoordelen of het opstellen van dergelijke beleidsplannen wenselijk is. De behoefte aan een meer op uitvoering gericht planningsinstrumentarium ten behoeve van de stadsvernieuwing wordt verkend. Die verkenning is gericht op en vervat in een integraal stadsbeheer." ],
         [ sgpl:refersToConcept unesco:concept15971 ;
             sgpl:subjectText "stadsvernieuwing" ;
             sgpl:text_context "Na de aandacht voor de nieuwe woon- en werkgebieden (stadsuitleg) zijn vanaf het begin van de jaren zeventig ook de bestaande bebouwde gebieden in de belangstelling gekomen (stadsvernieuwing). Intussen wijzigt zich ook het karakter van de stadsvernieuwing. Is eerst sloop en nieuwbouw het parool, later worden dat vernieuwbouw, verbetering en instandhouding." ] ;
@@ -4014,23 +4014,7 @@ sgpl:Thesis162 a sgpl:SGPLThesis ;
     dcterms:title "Mogelijkheden voor coördinatie op het gebied van de ruimtelijke ordening in het stadsgewest Utrecht",
         "RUIMTELIJK PLANNEN EN BESTUREN IN HET STADSGEWEST UTRECHT: EEN NIEUWE START?",
         "VERSLAGEN VAN LEERONDERZOEK G & P" ;
-    sgpl:hasSpatialReference [ a sgpl:SpatialMentionReference ;
-            sgpl:refersToPlace geonames:2758105 ;
-            sgpl:spatialText "Bunnik" ;
-            sgpl:text_context "Na 1992 heeft Bunnik volgens recente berekening nog 400 woningen extra nodig om die functie naar behoren te kunnen vervullen. In het voorontwerp streekplan (Provincie Utrecht, p. 71) wordt echter gesteld, dat de randvoorwaarden voor onder andere de drie bovengenoemde gemeenten van een dusdanig gewicht zijn, dat een (aanzienlijke) uitbreiding van het stedelijk gebied boven de bestaande plancapaciteit ongewenst is. Wordt daar strict de hand aan gehouden en blijkt de prognose juist te zijn, dan zal Bunnik tegen die tijd in de problemen komen." ],
-        [ a sgpl:SpatialMentionReference ;
-            sgpl:refersToPlace geonames:2743977 ;
-            sgpl:spatialText "Zeist" ;
-            sgpl:text_context "Op basis van woon/werkrelaties, voorzieningenoriëntaties en openbaar vervoersverbindingen komt de provincie tot een stadsgewest waartoe de volgende gemeenten worden gerekend: Utrecht, Maarssen, Maartensdijk, De Bilt, Zeist, Bunnik, Houten, Nieuwegein, IJsselstein, Vleuten-De Meern en Harmelen (voorontwerp streekplan p.9). De aantrekkelijkheid van deze afbakening is gelegen in de geografisch georiënteerde criteria en het feit dat er geen bestuurlijk onoverkomelijke grenzen worden overschreden (lees: provinciegrenzen). Het gebied is sterk nodaal afgebakend." ],
-        [ a sgpl:SpatialExtentReference ;
-            sgpl:refersToPlace geonames:2745912 ;
-            sgpl:spatialText "stadsgewest Utrecht" ;
-            sgpl:text_context "Het leek derhalve niet zinvol op dat moment dieper in te gaan op de mogelijkheden tot een zeer ingrijpende samenwerking, die bij een intergemeentelijk structuurplan noodzakelijk is. Het doel en de doelstellingen werden daarom in de loop van het onderzoek zodanig bijgesteld, dat het eindrapport nu de ondertitel draagt: \"Mogelijkheden voor coördinatie op het gebied van de ruimtelijke ordening in het stadsgewest Utrecht\". In deze scriptie is geprobeerd aspecten met betrekking tot de ruimtelijke ordening uit de intergemeentelijke samenwerking te lichten." ],
-        [ a sgpl:SpatialExtentReference ;
-            sgpl:refersToPlace geonames:2745911 ;
-            sgpl:spatialText "Midden Utrecht" ;
-            sgpl:text_context "Voor de afbakening van het onderzoeksgebied is aansluiting ge- zocht bij een bestaand beeld van het stadsgewest Utrecht. Gekozen is voor het gebied dat overeenkomt met hetstreekplandeelgebied \"Midden Utrecht\" zoals omschreven in het voorontwerp streekplan Utrecht van mei 1984. Op basis van woon/werkrelaties, voorzieningenoriëntaties en openbaar vervoersverbindingen komt de provincie tot een stadsgewest waartoe de volgende gemeenten worden gerekend: Utrecht, Maarssen, Maartensdijk, De Bilt, Zeist, Bunnik, Houten, Nieuwegein, IJsselstein, Vleuten-De Meern en Harmelen (voorontwerp streekplan p.9)." ],
-        [ a sgpl:SpatialExtentReference ;
+    sgpl:hasSpatialReference [ a sgpl:SpatialExtentReference ;
             sgpl:refersToPlace geonames:2745912 ;
             sgpl:spatialText "regio \"Groot Utrecht\"" ;
             sgpl:text_context "In het kader van een doctoraalscriptie sociale geografie aan de RUU is ons enige tijd geleden de mogelijkheid geboden een onderzoek te doen naar een mogelijk(e) structuurplan(ning) in de regio \"Groot Utrecht\". Een van de eerste eisen die toen door de makers van deze nota aan de probleemstelling werd gesteld was dat de uitkomsten van het onderzoek voor de ruimtelijke ordenings prak- tijk, zoals die zich momenteel in het onderzoeksgebied afspeelt, van belang zouden kunnen zijn. Daartoe werd in de oriUnteringsfase van het onderzoek aanvankelijk een probleemstelling opgesteld aan de hand van literatuur- studie." ],
@@ -4053,7 +4037,23 @@ sgpl:Thesis162 a sgpl:SGPLThesis ;
         [ a sgpl:SpatialMentionReference ;
             sgpl:refersToPlace geonames:2759821 ;
             sgpl:spatialText "Amersfoort" ;
-            sgpl:text_context "Terughoudendheid bij Amersfoort om inwoners uit de regio Zeist, waarbij ook De Bilt hoort, op te vangen, doet weinig goeds voorspellen. Met de onwil van Midden-Utrecht om voor Zuid-Oost Utrecht te bouwen, de aflopende groeitaak voor Houten en eveneens een nog toenemende woningbehoefte in de eigen gemeente in het achter- hoofd, zal De Bilt toch richting Amersfoort moeten kijken. Het zal echter slechts om het meepikken van graantjes gaan." ] ;
+            sgpl:text_context "Terughoudendheid bij Amersfoort om inwoners uit de regio Zeist, waarbij ook De Bilt hoort, op te vangen, doet weinig goeds voorspellen. Met de onwil van Midden-Utrecht om voor Zuid-Oost Utrecht te bouwen, de aflopende groeitaak voor Houten en eveneens een nog toenemende woningbehoefte in de eigen gemeente in het achter- hoofd, zal De Bilt toch richting Amersfoort moeten kijken. Het zal echter slechts om het meepikken van graantjes gaan." ],
+        [ a sgpl:SpatialMentionReference ;
+            sgpl:refersToPlace geonames:2758105 ;
+            sgpl:spatialText "Bunnik" ;
+            sgpl:text_context "Na 1992 heeft Bunnik volgens recente berekening nog 400 woningen extra nodig om die functie naar behoren te kunnen vervullen. In het voorontwerp streekplan (Provincie Utrecht, p. 71) wordt echter gesteld, dat de randvoorwaarden voor onder andere de drie bovengenoemde gemeenten van een dusdanig gewicht zijn, dat een (aanzienlijke) uitbreiding van het stedelijk gebied boven de bestaande plancapaciteit ongewenst is. Wordt daar strict de hand aan gehouden en blijkt de prognose juist te zijn, dan zal Bunnik tegen die tijd in de problemen komen." ],
+        [ a sgpl:SpatialMentionReference ;
+            sgpl:refersToPlace geonames:2743977 ;
+            sgpl:spatialText "Zeist" ;
+            sgpl:text_context "Op basis van woon/werkrelaties, voorzieningenoriëntaties en openbaar vervoersverbindingen komt de provincie tot een stadsgewest waartoe de volgende gemeenten worden gerekend: Utrecht, Maarssen, Maartensdijk, De Bilt, Zeist, Bunnik, Houten, Nieuwegein, IJsselstein, Vleuten-De Meern en Harmelen (voorontwerp streekplan p.9). De aantrekkelijkheid van deze afbakening is gelegen in de geografisch georiënteerde criteria en het feit dat er geen bestuurlijk onoverkomelijke grenzen worden overschreden (lees: provinciegrenzen). Het gebied is sterk nodaal afgebakend." ],
+        [ a sgpl:SpatialExtentReference ;
+            sgpl:refersToPlace geonames:2745912 ;
+            sgpl:spatialText "stadsgewest Utrecht" ;
+            sgpl:text_context "Het leek derhalve niet zinvol op dat moment dieper in te gaan op de mogelijkheden tot een zeer ingrijpende samenwerking, die bij een intergemeentelijk structuurplan noodzakelijk is. Het doel en de doelstellingen werden daarom in de loop van het onderzoek zodanig bijgesteld, dat het eindrapport nu de ondertitel draagt: \"Mogelijkheden voor coördinatie op het gebied van de ruimtelijke ordening in het stadsgewest Utrecht\". In deze scriptie is geprobeerd aspecten met betrekking tot de ruimtelijke ordening uit de intergemeentelijke samenwerking te lichten." ],
+        [ a sgpl:SpatialExtentReference ;
+            sgpl:refersToPlace geonames:2745911 ;
+            sgpl:spatialText "Midden Utrecht" ;
+            sgpl:text_context "Voor de afbakening van het onderzoeksgebied is aansluiting ge- zocht bij een bestaand beeld van het stadsgewest Utrecht. Gekozen is voor het gebied dat overeenkomt met hetstreekplandeelgebied \"Midden Utrecht\" zoals omschreven in het voorontwerp streekplan Utrecht van mei 1984. Op basis van woon/werkrelaties, voorzieningenoriëntaties en openbaar vervoersverbindingen komt de provincie tot een stadsgewest waartoe de volgende gemeenten worden gerekend: Utrecht, Maarssen, Maartensdijk, De Bilt, Zeist, Bunnik, Houten, Nieuwegein, IJsselstein, Vleuten-De Meern en Harmelen (voorontwerp streekplan p.9)." ] ;
     sgpl:hasSubjectReference [ sgpl:refersToConcept unesco:concept1843 ;
             sgpl:subjectText "agglomeratieproblematiek" ;
             sgpl:text_context "Van Ruller (p. 227) noemt deze agglomeratieproblemen. Drie typen, tevens fasen in de ontwikkeling van de agglomeratieproblematiek worden door zowel van Ruller (p. 119-123) als Brasz (p- 18-19) onderscheiden. Deze zijn achtereenvolgens de randproblematiek, de expansieproblematiek en de structuurproblematiek." ],
@@ -28676,4 +28676,3 @@ geonames:2745912 a schema1:Place ;
         geonames:2753676,
         geonames:2757015,
         geonames:6698635 .
-
