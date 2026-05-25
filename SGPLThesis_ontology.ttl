@@ -47,10 +47,12 @@ xsd:gYear rdf:type rdfs:Datatype .
 #################################################################
 
 ###  http://purl.org/dc/terms/issued
-dcterms:issued rdfs:domain :SGPLThesis .
-
+dcterms:issued rdfs:domain :SGPLThesis ;
+                rdfs:range xsd:gYear .
+				
 ###  http://purl.org/dc/terms/title
-dcterms:title rdfs:domain :SGPLThesis .
+dcterms:title rdfs:domain :SGPLThesis ;
+                rdfs:range xsd:string .
 
 ###  http://purl.org/dc/terms/creator
 dcterms:creator rdfs:domain :SGPLThesis ;

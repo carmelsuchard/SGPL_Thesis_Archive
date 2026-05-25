@@ -1,12 +1,12 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix geonames: <http://sws.geonames.org/> .
-@prefix schema1: <http://schema.org/> .
+@prefix schema: <http://schema.org/> .
 @prefix sgpl: <https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix unesco: <http://vocabularies.unesco.org/thesaurus/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-geonames:6255147 schema1:containsPlace geonames:1269750,
+geonames:6255147 schema:containsPlace geonames:1269750,
         geonames:1643084,
         geonames:1733045,
         geonames:1814991,
@@ -16,7 +16,7 @@ geonames:6255147 schema1:containsPlace geonames:1269750,
         geonames:294640,
         geonames:298795 .
 
-geonames:6255149 schema1:containsPlace geonames:3577279,
+geonames:6255149 schema:containsPlace geonames:3577279,
         geonames:3996063,
         geonames:6251999,
         geonames:6252001,
@@ -22550,7 +22550,7 @@ sgpl:Thesis99 a sgpl:SGPLThesis ;
             sgpl:text_context "Welke theoretische ideeën bestaan er ten aanzien van de aantrekkingskracht die winkelcentra op konsumenten uitoefenen? Op welke manier kan deze attraktiviteit worden opgenomen in koopkrachtverdeelmodellen? Op welke manier kunnen de diverse (zowel kwalitatieve als kwantitatieve) aspekten van de aantrekkingskracht van winkelcentra worden geoperationaliseerd en opgenomen in het bij het Regionaal D.p.o. Utrecht toe te passen ruimtelijk interaktiemodel?" ] ;
     sgpl:thesisID 99 .
 
-geonames:10287303 schema1:containsPlace geonames:2747231,
+geonames:10287303 schema:containsPlace geonames:2747231,
         geonames:2749138,
         geonames:2751729,
         geonames:2751888,
@@ -22559,27 +22559,27 @@ geonames:10287303 schema1:containsPlace geonames:2747231,
         geonames:2756235,
         geonames:2759472 .
 
-geonames:10287316 schema1:containsPlace geonames:2751744,
+geonames:10287316 schema:containsPlace geonames:2751744,
         geonames:2752262 .
 
-geonames:10287324 schema1:containsPlace geonames:2746932 .
+geonames:10287324 schema:containsPlace geonames:2746932 .
 
-geonames:11052592 schema1:containsPlace geonames:590062 .
+geonames:11052592 schema:containsPlace geonames:590062 .
 
-geonames:11053706 schema1:containsPlace geonames:588409 .
+geonames:11053706 schema:containsPlace geonames:588409 .
 
-geonames:11055044 schema1:containsPlace geonames:683506 .
+geonames:11055044 schema:containsPlace geonames:683506 .
 
-geonames:11071620 schema1:containsPlace geonames:2997523 .
+geonames:11071620 schema:containsPlace geonames:2997523 .
 
-geonames:11071621 schema1:containsPlace geonames:2989247 .
+geonames:11071621 schema:containsPlace geonames:2989247 .
 
-geonames:11071622 schema1:containsPlace geonames:2994111,
+geonames:11071622 schema:containsPlace geonames:2994111,
         geonames:3013663,
         geonames:3034720,
         geonames:3037136 .
 
-geonames:11071623 schema1:containsPlace geonames:2973357,
+geonames:11071623 schema:containsPlace geonames:2973357,
         geonames:2973362,
         geonames:3013500,
         geonames:3013501,
@@ -22588,55 +22588,55 @@ geonames:11071623 schema1:containsPlace geonames:2973357,
         geonames:3035691,
         geonames:3036264 .
 
-geonames:11071624 schema1:containsPlace geonames:2990129 .
+geonames:11071624 schema:containsPlace geonames:2990129 .
 
-geonames:11071625 schema1:containsPlace geonames:3038422 .
+geonames:11071625 schema:containsPlace geonames:3038422 .
 
-geonames:11109179 schema1:containsPlace geonames:11903990 .
+geonames:11109179 schema:containsPlace geonames:11903990 .
 
-geonames:11189015 schema1:containsPlace geonames:2750517,
+geonames:11189015 schema:containsPlace geonames:2750517,
         geonames:2750569,
         geonames:2754952,
         geonames:2758064 .
 
-geonames:11281877 schema1:containsPlace geonames:2538474 .
+geonames:11281877 schema:containsPlace geonames:2538474 .
 
-geonames:11281879 schema1:containsPlace geonames:2537405,
+geonames:11281879 schema:containsPlace geonames:2537405,
         geonames:2543003,
         geonames:2553530,
         geonames:2555640,
         geonames:6547294 .
 
-geonames:11352097 schema1:containsPlace geonames:3165524 .
+geonames:11352097 schema:containsPlace geonames:3165524 .
 
-geonames:11525039 schema1:containsPlace geonames:11525077,
+geonames:11525039 schema:containsPlace geonames:11525077,
         geonames:11525080,
         geonames:11525098 .
 
-geonames:11525040 schema1:containsPlace geonames:11525079 .
+geonames:11525040 schema:containsPlace geonames:11525079 .
 
-geonames:11525044 schema1:containsPlace geonames:11525092 .
+geonames:11525044 schema:containsPlace geonames:11525092 .
 
-geonames:11669500 schema1:containsPlace geonames:2757715 .
+geonames:11669500 schema:containsPlace geonames:2757715 .
 
-geonames:11777176 schema1:containsPlace geonames:588335 .
+geonames:11777176 schema:containsPlace geonames:588335 .
 
-geonames:11903990 schema1:containsPlace geonames:2468244 .
+geonames:11903990 schema:containsPlace geonames:2468244 .
 
-geonames:12022126 schema1:containsPlace geonames:2751087 .
+geonames:12022126 schema:containsPlace geonames:2751087 .
 
-geonames:12022130 schema1:containsPlace geonames:2746623,
+geonames:12022130 schema:containsPlace geonames:2746623,
         geonames:2752828 .
 
-geonames:12022131 schema1:containsPlace geonames:2756759 .
+geonames:12022131 schema:containsPlace geonames:2756759 .
 
-geonames:12032327 schema1:containsPlace geonames:2954695 .
+geonames:12032327 schema:containsPlace geonames:2954695 .
 
-geonames:12105075 schema1:containsPlace geonames:7648941 .
+geonames:12105075 schema:containsPlace geonames:7648941 .
 
-geonames:12253550 schema1:containsPlace geonames:2757340 .
+geonames:12253550 schema:containsPlace geonames:2757340 .
 
-geonames:12494993 schema1:containsPlace geonames:2748833,
+geonames:12494993 schema:containsPlace geonames:2748833,
         geonames:2753013,
         geonames:2755358,
         geonames:2757790,
@@ -22644,276 +22644,276 @@ geonames:12494993 schema1:containsPlace geonames:2748833,
         geonames:2758462,
         geonames:2759309 .
 
-geonames:13192441 schema1:containsPlace geonames:2749330,
+geonames:13192441 schema:containsPlace geonames:2749330,
         geonames:2758326 .
 
-geonames:1734504 schema1:containsPlace geonames:1735634 .
+geonames:1734504 schema:containsPlace geonames:1735634 .
 
-geonames:1737979 schema1:containsPlace geonames:1735398 .
+geonames:1737979 schema:containsPlace geonames:1735398 .
 
-geonames:1738079 schema1:containsPlace geonames:1738050 .
+geonames:1738079 schema:containsPlace geonames:1738050 .
 
-geonames:178837 schema1:containsPlace geonames:198629 .
+geonames:178837 schema:containsPlace geonames:198629 .
 
-geonames:1835847 schema1:containsPlace geonames:1835848 .
+geonames:1835847 schema:containsPlace geonames:1835848 .
 
-geonames:1838519 schema1:containsPlace geonames:1838524 .
+geonames:1838519 schema:containsPlace geonames:1838524 .
 
-geonames:1843561 schema1:containsPlace geonames:1843564 .
+geonames:1843561 schema:containsPlace geonames:1843564 .
 
-geonames:184742 schema1:containsPlace geonames:184745 .
+geonames:184742 schema:containsPlace geonames:184745 .
 
-geonames:185578 schema1:containsPlace geonames:194521 .
+geonames:185578 schema:containsPlace geonames:194521 .
 
-geonames:1876101 schema1:containsPlace geonames:1866923 .
+geonames:1876101 schema:containsPlace geonames:1866923 .
 
-geonames:191298 schema1:containsPlace geonames:191299 .
+geonames:191298 schema:containsPlace geonames:191299 .
 
-geonames:192709 schema1:containsPlace geonames:192710 .
+geonames:192709 schema:containsPlace geonames:192710 .
 
-geonames:1966740 schema1:containsPlace geonames:1737486 .
+geonames:1966740 schema:containsPlace geonames:1737486 .
 
-geonames:200066 schema1:containsPlace geonames:191964 .
+geonames:200066 schema:containsPlace geonames:191964 .
 
-geonames:2017370 schema1:containsPlace geonames:472755,
+geonames:2017370 schema:containsPlace geonames:472755,
         geonames:524304,
         geonames:524894,
         geonames:536203 .
 
-geonames:2223603 schema1:containsPlace geonames:11257194,
+geonames:2223603 schema:containsPlace geonames:11257194,
         geonames:2234272,
         geonames:2234802,
         geonames:2235957,
         geonames:8667760 .
 
-geonames:2267056 schema1:containsPlace geonames:2272034,
+geonames:2267056 schema:containsPlace geonames:2272034,
         geonames:6458923 .
 
-geonames:2274688 schema1:containsPlace geonames:2277241,
+geonames:2274688 schema:containsPlace geonames:2277241,
         geonames:2277346 .
 
-geonames:2275099 schema1:containsPlace geonames:2274372 .
+geonames:2275099 schema:containsPlace geonames:2274372 .
 
-geonames:2276627 schema1:containsPlace geonames:11809779 .
+geonames:2276627 schema:containsPlace geonames:11809779 .
 
-geonames:2278292 schema1:containsPlace geonames:2273468,
+geonames:2278292 schema:containsPlace geonames:2273468,
         geonames:9891200 .
 
-geonames:2278324 schema1:containsPlace geonames:2278326 .
+geonames:2278324 schema:containsPlace geonames:2278326 .
 
-geonames:2300569 schema1:containsPlace geonames:7648922 .
+geonames:2300569 schema:containsPlace geonames:7648922 .
 
-geonames:2309096 schema1:containsPlace geonames:2309792 .
+geonames:2309096 schema:containsPlace geonames:2309792 .
 
-geonames:2359027 schema1:containsPlace geonames:2356105 .
+geonames:2359027 schema:containsPlace geonames:2356105 .
 
-geonames:2449066 schema1:containsPlace geonames:2449067 .
+geonames:2449066 schema:containsPlace geonames:2449067 .
 
-geonames:2451477 schema1:containsPlace geonames:2449060,
+geonames:2451477 schema:containsPlace geonames:2449060,
         geonames:2451778,
         geonames:8631514 .
 
-geonames:2460594 schema1:containsPlace geonames:2460596 .
+geonames:2460594 schema:containsPlace geonames:2460596 .
 
-geonames:2464464 schema1:containsPlace geonames:11109179,
+geonames:2464464 schema:containsPlace geonames:11109179,
         geonames:2464470 .
 
-geonames:2521383 schema1:containsPlace geonames:6424360 .
+geonames:2521383 schema:containsPlace geonames:6424360 .
 
-geonames:2537405 schema1:containsPlace geonames:2556076,
+geonames:2537405 schema:containsPlace geonames:2556076,
         geonames:6546108 .
 
-geonames:2538474 schema1:containsPlace geonames:2538475 .
+geonames:2538474 schema:containsPlace geonames:2538475 .
 
-geonames:2588491 schema1:containsPlace geonames:2276086,
+geonames:2588491 schema:containsPlace geonames:2276086,
         geonames:2276506 .
 
-geonames:2614165 a schema1:Place .
+geonames:2614165 a schema:Place .
 
-geonames:2618424 schema1:containsPlace geonames:2618425 .
+geonames:2618424 schema:containsPlace geonames:2618425 .
 
-geonames:2633560 schema1:containsPlace geonames:7290657 .
+geonames:2633560 schema:containsPlace geonames:7290657 .
 
-geonames:2634895 schema1:containsPlace geonames:3333241 .
+geonames:2634895 schema:containsPlace geonames:3333241 .
 
-geonames:2640726 schema1:containsPlace geonames:7290621 .
+geonames:2640726 schema:containsPlace geonames:7290621 .
 
-geonames:2641364 schema1:containsPlace geonames:3333223 .
+geonames:2641364 schema:containsPlace geonames:3333223 .
 
-geonames:2647043 schema1:containsPlace geonames:6615330 .
+geonames:2647043 schema:containsPlace geonames:6615330 .
 
-geonames:2647554 schema1:containsPlace geonames:7290554 .
+geonames:2647554 schema:containsPlace geonames:7290554 .
 
-geonames:2649217 schema1:containsPlace geonames:7294018 .
+geonames:2649217 schema:containsPlace geonames:7294018 .
 
-geonames:2653940 schema1:containsPlace geonames:7290660 .
+geonames:2653940 schema:containsPlace geonames:7290660 .
 
-geonames:2657895 schema1:containsPlace geonames:6458798 .
+geonames:2657895 schema:containsPlace geonames:6458798 .
 
-geonames:2661602 schema1:containsPlace geonames:6458763 .
+geonames:2661602 schema:containsPlace geonames:6458763 .
 
-geonames:2743607 schema1:containsPlace geonames:2743608 .
+geonames:2743607 schema:containsPlace geonames:2743608 .
 
-geonames:2743618 schema1:containsPlace geonames:2757561 .
+geonames:2743618 schema:containsPlace geonames:2757561 .
 
-geonames:2744040 schema1:containsPlace geonames:2744042 .
+geonames:2744040 schema:containsPlace geonames:2744042 .
 
-geonames:2744247 schema1:containsPlace geonames:2744248,
+geonames:2744247 schema:containsPlace geonames:2744248,
         geonames:2754814 .
 
-geonames:2744256 schema1:containsPlace geonames:2744257 .
+geonames:2744256 schema:containsPlace geonames:2744257 .
 
-geonames:2744331 schema1:containsPlace geonames:2744332,
+geonames:2744331 schema:containsPlace geonames:2744332,
         geonames:2751076 .
 
-geonames:2744482 schema1:containsPlace geonames:2744483,
+geonames:2744482 schema:containsPlace geonames:2744483,
         geonames:2748835,
         geonames:2750473,
         geonames:2757899 .
 
-geonames:2744910 schema1:containsPlace geonames:2744911,
+geonames:2744910 schema:containsPlace geonames:2744911,
         geonames:2746631 .
 
-geonames:2745300 schema1:containsPlace geonames:2745301 .
+geonames:2745300 schema:containsPlace geonames:2745301 .
 
-geonames:2745391 schema1:containsPlace geonames:2744647,
+geonames:2745391 schema:containsPlace geonames:2744647,
         geonames:2745392 .
 
-geonames:2745466 schema1:containsPlace geonames:2745467 .
+geonames:2745466 schema:containsPlace geonames:2745467 .
 
-geonames:2745633 schema1:containsPlace geonames:2745634 .
+geonames:2745633 schema:containsPlace geonames:2745634 .
 
-geonames:2745640 schema1:containsPlace geonames:2745641,
+geonames:2745640 schema:containsPlace geonames:2745641,
         geonames:2759684 .
 
-geonames:2745773 schema1:containsPlace geonames:2745774,
+geonames:2745773 schema:containsPlace geonames:2745774,
         geonames:2747824,
         geonames:2748468 .
 
-geonames:2745782 schema1:containsPlace geonames:2745783 .
+geonames:2745782 schema:containsPlace geonames:2745783 .
 
-geonames:2746350 schema1:containsPlace geonames:2746351,
+geonames:2746350 schema:containsPlace geonames:2746351,
         geonames:2746352,
         geonames:2747241,
         geonames:2748498,
         geonames:2750653 .
 
-geonames:2746383 schema1:containsPlace geonames:2746385 .
+geonames:2746383 schema:containsPlace geonames:2746385 .
 
-geonames:2746421 schema1:containsPlace geonames:2748720 .
+geonames:2746421 schema:containsPlace geonames:2748720 .
 
-geonames:2746837 schema1:containsPlace geonames:2746839 .
+geonames:2746837 schema:containsPlace geonames:2746839 .
 
-geonames:2747009 schema1:containsPlace geonames:2754130 .
+geonames:2747009 schema:containsPlace geonames:2754130 .
 
-geonames:2747091 schema1:containsPlace geonames:2756644 .
+geonames:2747091 schema:containsPlace geonames:2756644 .
 
-geonames:2747350 schema1:containsPlace geonames:2747351,
+geonames:2747350 schema:containsPlace geonames:2747351,
         geonames:2756472 .
 
-geonames:2747595 schema1:containsPlace geonames:2747596 .
+geonames:2747595 schema:containsPlace geonames:2747596 .
 
-geonames:2747863 schema1:containsPlace geonames:2746436 .
+geonames:2747863 schema:containsPlace geonames:2746436 .
 
-geonames:2747999 schema1:containsPlace geonames:2748000 .
+geonames:2747999 schema:containsPlace geonames:2748000 .
 
-geonames:2748171 schema1:containsPlace geonames:2748172 .
+geonames:2748171 schema:containsPlace geonames:2748172 .
 
-geonames:2748254 schema1:containsPlace geonames:2746825 .
+geonames:2748254 schema:containsPlace geonames:2746825 .
 
-geonames:2748370 schema1:containsPlace geonames:2748371,
+geonames:2748370 schema:containsPlace geonames:2748371,
         geonames:2751358 .
 
-geonames:2748412 schema1:containsPlace geonames:2748413 .
+geonames:2748412 schema:containsPlace geonames:2748413 .
 
-geonames:2748728 schema1:containsPlace geonames:2748729 .
+geonames:2748728 schema:containsPlace geonames:2748729 .
 
-geonames:2748978 schema1:containsPlace geonames:2747054 .
+geonames:2748978 schema:containsPlace geonames:2747054 .
 
-geonames:2749233 schema1:containsPlace geonames:2749234 .
+geonames:2749233 schema:containsPlace geonames:2749234 .
 
-geonames:2749285 schema1:containsPlace geonames:2753663 .
+geonames:2749285 schema:containsPlace geonames:2753663 .
 
-geonames:2749447 schema1:containsPlace geonames:2749450 .
+geonames:2749447 schema:containsPlace geonames:2749450 .
 
-geonames:2749643 schema1:containsPlace geonames:2749644 .
+geonames:2749643 schema:containsPlace geonames:2749644 .
 
-geonames:2749679 schema1:containsPlace geonames:2754121 .
+geonames:2749679 schema:containsPlace geonames:2754121 .
 
-geonames:2749722 schema1:containsPlace geonames:2749723 .
+geonames:2749722 schema:containsPlace geonames:2749723 .
 
-geonames:2749851 schema1:containsPlace geonames:2750889 .
+geonames:2749851 schema:containsPlace geonames:2750889 .
 
-geonames:2750052 schema1:containsPlace geonames:2750053 .
+geonames:2750052 schema:containsPlace geonames:2750053 .
 
-geonames:2750466 schema1:containsPlace geonames:2753095 .
+geonames:2750466 schema:containsPlace geonames:2753095 .
 
-geonames:2750620 schema1:containsPlace geonames:2750621 .
+geonames:2750620 schema:containsPlace geonames:2750621 .
 
-geonames:2750894 schema1:containsPlace geonames:2750896 .
+geonames:2750894 schema:containsPlace geonames:2750896 .
 
-geonames:2750946 schema1:containsPlace geonames:2750947 .
+geonames:2750946 schema:containsPlace geonames:2750947 .
 
-geonames:2751284 schema1:containsPlace geonames:2751285 .
+geonames:2751284 schema:containsPlace geonames:2751285 .
 
-geonames:2751455 schema1:containsPlace geonames:2753156 .
+geonames:2751455 schema:containsPlace geonames:2753156 .
 
-geonames:2751536 schema1:containsPlace geonames:2750404,
+geonames:2751536 schema:containsPlace geonames:2750404,
         geonames:2751537 .
 
-geonames:2751737 schema1:containsPlace geonames:2751738 .
+geonames:2751737 schema:containsPlace geonames:2751738 .
 
-geonames:2751770 schema1:containsPlace geonames:2751771 .
+geonames:2751770 schema:containsPlace geonames:2751771 .
 
-geonames:2751772 schema1:containsPlace geonames:2751773 .
+geonames:2751772 schema:containsPlace geonames:2751773 .
 
-geonames:2751791 schema1:containsPlace geonames:2751792 .
+geonames:2751791 schema:containsPlace geonames:2751792 .
 
-geonames:2753012 schema1:containsPlace geonames:2748104 .
+geonames:2753012 schema:containsPlace geonames:2748104 .
 
-geonames:2753635 schema1:containsPlace geonames:2753638 .
+geonames:2753635 schema:containsPlace geonames:2753638 .
 
-geonames:2753718 schema1:containsPlace geonames:2753141,
+geonames:2753718 schema:containsPlace geonames:2753141,
         geonames:2753719 .
 
-geonames:2754063 schema1:containsPlace geonames:2754064 .
+geonames:2754063 schema:containsPlace geonames:2754064 .
 
-geonames:2754392 schema1:containsPlace geonames:2754394 .
+geonames:2754392 schema:containsPlace geonames:2754394 .
 
-geonames:2754446 schema1:containsPlace geonames:2754447 .
+geonames:2754446 schema:containsPlace geonames:2754447 .
 
-geonames:2754456 schema1:containsPlace geonames:2747442,
+geonames:2754456 schema:containsPlace geonames:2747442,
         geonames:2750039,
         geonames:2754457,
         geonames:2757867 .
 
-geonames:2754651 schema1:containsPlace geonames:2754652 .
+geonames:2754651 schema:containsPlace geonames:2754652 .
 
-geonames:2754668 schema1:containsPlace geonames:2754669 .
+geonames:2754668 schema:containsPlace geonames:2754669 .
 
-geonames:2754691 schema1:containsPlace geonames:2754692 .
+geonames:2754691 schema:containsPlace geonames:2754692 .
 
-geonames:2755250 schema1:containsPlace geonames:2754841,
+geonames:2755250 schema:containsPlace geonames:2754841,
         geonames:2755251 .
 
-geonames:2755433 schema1:containsPlace geonames:2755434 .
+geonames:2755433 schema:containsPlace geonames:2755434 .
 
-geonames:2755463 schema1:containsPlace geonames:6843496 .
+geonames:2755463 schema:containsPlace geonames:6843496 .
 
-geonames:2755475 schema1:containsPlace geonames:2755476 .
+geonames:2755475 schema:containsPlace geonames:2755476 .
 
-geonames:2755668 schema1:containsPlace geonames:2755669 .
+geonames:2755668 schema:containsPlace geonames:2755669 .
 
-geonames:2755994 schema1:containsPlace geonames:2755996 .
+geonames:2755994 schema:containsPlace geonames:2755996 .
 
-geonames:2756038 schema1:containsPlace geonames:2756039 .
+geonames:2756038 schema:containsPlace geonames:2756039 .
 
-geonames:2756134 schema1:containsPlace geonames:2752798,
+geonames:2756134 schema:containsPlace geonames:2752798,
         geonames:2756136 .
 
-geonames:2756341 schema1:containsPlace geonames:2751290 .
+geonames:2756341 schema:containsPlace geonames:2751290 .
 
-geonames:2756428 schema1:containsPlace geonames:2745666,
+geonames:2756428 schema:containsPlace geonames:2745666,
         geonames:2748910,
         geonames:2751385,
         geonames:2756426,
@@ -22921,12 +22921,12 @@ geonames:2756428 schema1:containsPlace geonames:2745666,
         geonames:2757667,
         geonames:2759197 .
 
-geonames:2756443 schema1:containsPlace geonames:2756444 .
+geonames:2756443 schema:containsPlace geonames:2756444 .
 
-geonames:2756668 schema1:containsPlace geonames:2746877,
+geonames:2756668 schema:containsPlace geonames:2746877,
         geonames:2756669 .
 
-geonames:2756685 schema1:containsPlace geonames:2746731,
+geonames:2756685 schema:containsPlace geonames:2746731,
         geonames:2748087,
         geonames:2748864,
         geonames:2751496,
@@ -22937,108 +22937,108 @@ geonames:2756685 schema1:containsPlace geonames:2746731,
         geonames:2759824,
         geonames:2759828 .
 
-geonames:2756888 schema1:containsPlace geonames:2744976 .
+geonames:2756888 schema:containsPlace geonames:2744976 .
 
-geonames:2756986 schema1:containsPlace geonames:2748039,
+geonames:2756986 schema:containsPlace geonames:2748039,
         geonames:2756875 .
 
-geonames:2757936 schema1:containsPlace geonames:2743510,
+geonames:2757936 schema:containsPlace geonames:2743510,
         geonames:2749461,
         geonames:2755664,
         geonames:2757937 .
 
-geonames:2758011 schema1:containsPlace geonames:2758012 .
+geonames:2758011 schema:containsPlace geonames:2758012 .
 
-geonames:2758400 schema1:containsPlace geonames:2745940,
+geonames:2758400 schema:containsPlace geonames:2745940,
         geonames:2748448,
         geonames:2755774,
         geonames:2758401 .
 
-geonames:2758459 schema1:containsPlace geonames:2758460 .
+geonames:2758459 schema:containsPlace geonames:2758460 .
 
-geonames:2758597 schema1:containsPlace geonames:2746058 .
+geonames:2758597 schema:containsPlace geonames:2746058 .
 
-geonames:2758619 schema1:containsPlace geonames:2758621 .
+geonames:2758619 schema:containsPlace geonames:2758621 .
 
-geonames:2758997 schema1:containsPlace geonames:2758998 .
+geonames:2758997 schema:containsPlace geonames:2758998 .
 
-geonames:2759039 schema1:containsPlace geonames:2759040 .
+geonames:2759039 schema:containsPlace geonames:2759040 .
 
-geonames:2759151 schema1:containsPlace geonames:2747492 .
+geonames:2759151 schema:containsPlace geonames:2747492 .
 
-geonames:2759152 schema1:containsPlace geonames:2746127 .
+geonames:2759152 schema:containsPlace geonames:2746127 .
 
-geonames:2759632 schema1:containsPlace geonames:2759633 .
+geonames:2759632 schema:containsPlace geonames:2759633 .
 
-geonames:2759660 schema1:containsPlace geonames:2745207,
+geonames:2759660 schema:containsPlace geonames:2745207,
         geonames:2747735,
         geonames:2759661 .
 
-geonames:2759886 schema1:containsPlace geonames:2759887 .
+geonames:2759886 schema:containsPlace geonames:2759887 .
 
-geonames:2759898 schema1:containsPlace geonames:2759899 .
+geonames:2759898 schema:containsPlace geonames:2759899 .
 
-geonames:2759914 schema1:containsPlace geonames:2759915 .
+geonames:2759914 schema:containsPlace geonames:2759915 .
 
-geonames:2760133 schema1:containsPlace geonames:2760134 .
+geonames:2760133 schema:containsPlace geonames:2760134 .
 
-geonames:2761333 schema1:containsPlace geonames:2761369 .
+geonames:2761333 schema:containsPlace geonames:2761369 .
 
-geonames:2761367 schema1:containsPlace geonames:2761333 .
+geonames:2761367 schema:containsPlace geonames:2761333 .
 
-geonames:2782113 schema1:containsPlace geonames:2761367 .
+geonames:2782113 schema:containsPlace geonames:2761367 .
 
-geonames:2783311 schema1:containsPlace geonames:2783310 .
+geonames:2783311 schema:containsPlace geonames:2783310 .
 
-geonames:2783633 schema1:containsPlace geonames:2783632 .
+geonames:2783633 schema:containsPlace geonames:2783632 .
 
-geonames:2784820 schema1:containsPlace geonames:2792349 .
+geonames:2784820 schema:containsPlace geonames:2792349 .
 
-geonames:2785388 schema1:containsPlace geonames:2791535 .
+geonames:2785388 schema:containsPlace geonames:2791535 .
 
-geonames:2791536 schema1:containsPlace geonames:2783633 .
+geonames:2791536 schema:containsPlace geonames:2783633 .
 
-geonames:2792347 schema1:containsPlace geonames:2785388,
+geonames:2792347 schema:containsPlace geonames:2785388,
         geonames:2796488 .
 
-geonames:2792349 schema1:containsPlace geonames:2792348 .
+geonames:2792349 schema:containsPlace geonames:2792348 .
 
-geonames:2794054 schema1:containsPlace geonames:2794056 .
+geonames:2794054 schema:containsPlace geonames:2794056 .
 
-geonames:2794056 schema1:containsPlace geonames:2794055 .
+geonames:2794056 schema:containsPlace geonames:2794055 .
 
-geonames:2795802 schema1:containsPlace geonames:7669241 .
+geonames:2795802 schema:containsPlace geonames:7669241 .
 
-geonames:2796488 schema1:containsPlace geonames:2795802 .
+geonames:2796488 schema:containsPlace geonames:2795802 .
 
-geonames:2796698 schema1:containsPlace geonames:2783311 .
+geonames:2796698 schema:containsPlace geonames:2783311 .
 
-geonames:2797655 schema1:containsPlace geonames:2797657 .
+geonames:2797655 schema:containsPlace geonames:2797657 .
 
-geonames:2797657 schema1:containsPlace geonames:2797656 .
+geonames:2797657 schema:containsPlace geonames:2797656 .
 
-geonames:2800865 schema1:containsPlace geonames:2800866 .
+geonames:2800865 schema:containsPlace geonames:2800866 .
 
-geonames:2800867 schema1:containsPlace geonames:6693370 .
+geonames:2800867 schema:containsPlace geonames:6693370 .
 
-geonames:2803136 schema1:containsPlace geonames:2791536,
+geonames:2803136 schema:containsPlace geonames:2791536,
         geonames:2803137 .
 
-geonames:2803137 schema1:containsPlace geonames:2803139 .
+geonames:2803137 schema:containsPlace geonames:2803139 .
 
-geonames:2803139 schema1:containsPlace geonames:2803138 .
+geonames:2803139 schema:containsPlace geonames:2803138 .
 
-geonames:2821160 schema1:containsPlace geonames:6554725,
+geonames:2821160 schema:containsPlace geonames:6554725,
         geonames:6554742,
         geonames:6557903 .
 
-geonames:2842565 schema1:containsPlace geonames:2948163 .
+geonames:2842565 schema:containsPlace geonames:2948163 .
 
-geonames:2852455 schema1:containsPlace geonames:7602560 .
+geonames:2852455 schema:containsPlace geonames:7602560 .
 
-geonames:2861322 schema1:containsPlace geonames:3220837 .
+geonames:2861322 schema:containsPlace geonames:3220837 .
 
-geonames:2862926 schema1:containsPlace geonames:2847676,
+geonames:2862926 schema:containsPlace geonames:2847676,
         geonames:2856304,
         geonames:2919331,
         geonames:3221011,
@@ -23047,98 +23047,98 @@ geonames:2862926 schema1:containsPlace geonames:2847676,
         geonames:3221075,
         geonames:3221094 .
 
-geonames:2870736 schema1:containsPlace geonames:3220796 .
+geonames:2870736 schema:containsPlace geonames:3220796 .
 
-geonames:2872567 schema1:containsPlace geonames:8648415 .
+geonames:2872567 schema:containsPlace geonames:8648415 .
 
-geonames:2886241 schema1:containsPlace geonames:3247448,
+geonames:2886241 schema:containsPlace geonames:3247448,
         geonames:3247450 .
 
-geonames:2925180 schema1:containsPlace geonames:3214107 .
+geonames:2925180 schema:containsPlace geonames:3214107 .
 
-geonames:2934245 schema1:containsPlace geonames:3231901,
+geonames:2934245 schema:containsPlace geonames:3231901,
         geonames:3231903,
         geonames:3231905,
         geonames:3247437 .
 
-geonames:2938912 schema1:containsPlace geonames:3220968 .
+geonames:2938912 schema:containsPlace geonames:3220968 .
 
-geonames:2944387 schema1:containsPlace geonames:3220905 .
+geonames:2944387 schema:containsPlace geonames:3220905 .
 
-geonames:2945356 schema1:containsPlace geonames:2823568,
+geonames:2945356 schema:containsPlace geonames:2823568,
         geonames:2852455,
         geonames:2852456,
         geonames:2908638,
         geonames:3249081 .
 
-geonames:2948163 schema1:containsPlace geonames:6551218 .
+geonames:2948163 schema:containsPlace geonames:6551218 .
 
-geonames:2950157 schema1:containsPlace geonames:6547383 .
+geonames:2950157 schema:containsPlace geonames:6547383 .
 
-geonames:2960315 schema1:containsPlace geonames:2960317 .
+geonames:2960315 schema:containsPlace geonames:2960317 .
 
-geonames:2960317 schema1:containsPlace geonames:2960316 .
+geonames:2960317 schema:containsPlace geonames:2960316 .
 
-geonames:2968815 schema1:containsPlace geonames:2988506 .
+geonames:2968815 schema:containsPlace geonames:2988506 .
 
-geonames:2972314 schema1:containsPlace geonames:6453974 .
+geonames:2972314 schema:containsPlace geonames:6453974 .
 
-geonames:2973357 schema1:containsPlace geonames:2973363,
+geonames:2973357 schema:containsPlace geonames:2973363,
         geonames:2993000 .
 
-geonames:2973781 schema1:containsPlace geonames:6441375 .
+geonames:2973781 schema:containsPlace geonames:6441375 .
 
-geonames:2975347 schema1:containsPlace geonames:6426109 .
+geonames:2975347 schema:containsPlace geonames:6426109 .
 
-geonames:2983153 schema1:containsPlace geonames:6447087 .
+geonames:2983153 schema:containsPlace geonames:6447087 .
 
-geonames:2988506 schema1:containsPlace geonames:6455259 .
+geonames:2988506 schema:containsPlace geonames:6455259 .
 
-geonames:2989247 schema1:containsPlace geonames:3038229 .
+geonames:2989247 schema:containsPlace geonames:3038229 .
 
-geonames:2990129 schema1:containsPlace geonames:3020685 .
+geonames:2990129 schema:containsPlace geonames:3020685 .
 
-geonames:2991213 schema1:containsPlace geonames:6441541 .
+geonames:2991213 schema:containsPlace geonames:6441541 .
 
-geonames:2992165 schema1:containsPlace geonames:6454034 .
+geonames:2992165 schema:containsPlace geonames:6454034 .
 
-geonames:2993000 schema1:containsPlace geonames:6617818 .
+geonames:2993000 schema:containsPlace geonames:6617818 .
 
-geonames:2994111 schema1:containsPlace geonames:2997550 .
+geonames:2994111 schema:containsPlace geonames:2997550 .
 
-geonames:2995468 schema1:containsPlace geonames:6447142 .
+geonames:2995468 schema:containsPlace geonames:6447142 .
 
-geonames:2997523 schema1:containsPlace geonames:3037349 .
+geonames:2997523 schema:containsPlace geonames:3037349 .
 
-geonames:2997995 schema1:containsPlace geonames:6448690 .
+geonames:2997995 schema:containsPlace geonames:6448690 .
 
-geonames:3012804 schema1:containsPlace geonames:2997995 .
+geonames:3012804 schema:containsPlace geonames:2997995 .
 
-geonames:3012874 schema1:containsPlace geonames:2968815 .
+geonames:3012874 schema:containsPlace geonames:2968815 .
 
-geonames:3013500 schema1:containsPlace geonames:2992165,
+geonames:3013500 schema:containsPlace geonames:2992165,
         geonames:2993809,
         geonames:3007669,
         geonames:3032832 .
 
-geonames:3013767 schema1:containsPlace geonames:2972314 .
+geonames:3013767 schema:containsPlace geonames:2972314 .
 
-geonames:3016670 schema1:containsPlace geonames:3007671 .
+geonames:3016670 schema:containsPlace geonames:3007671 .
 
-geonames:3020685 schema1:containsPlace geonames:6614519 .
+geonames:3020685 schema:containsPlace geonames:6614519 .
 
-geonames:3021353 schema1:containsPlace geonames:6614300 .
+geonames:3021353 schema:containsPlace geonames:6614300 .
 
-geonames:3023414 schema1:containsPlace geonames:3021353 .
+geonames:3023414 schema:containsPlace geonames:3021353 .
 
-geonames:3024296 schema1:containsPlace geonames:6455228 .
+geonames:3024296 schema:containsPlace geonames:6455228 .
 
-geonames:3027939 schema1:containsPlace geonames:3012804 .
+geonames:3027939 schema:containsPlace geonames:3012804 .
 
-geonames:3028260 schema1:containsPlace geonames:6444847,
+geonames:3028260 schema:containsPlace geonames:6444847,
         geonames:6444880 .
 
-geonames:3028640 schema1:containsPlace geonames:6426682,
+geonames:3028640 schema:containsPlace geonames:6426682,
         geonames:6426706,
         geonames:6426725,
         geonames:6426739,
@@ -23158,243 +23158,243 @@ geonames:3028640 schema1:containsPlace geonames:6426682,
         geonames:6614538,
         geonames:6615843 .
 
-geonames:3030293 schema1:containsPlace geonames:3023414 .
+geonames:3030293 schema:containsPlace geonames:3023414 .
 
-geonames:3031008 schema1:containsPlace geonames:6615639 .
+geonames:3031008 schema:containsPlace geonames:6615639 .
 
-geonames:3032832 schema1:containsPlace geonames:6432640,
+geonames:3032832 schema:containsPlace geonames:6432640,
         geonames:6432683,
         geonames:6456838 .
 
-geonames:3034720 schema1:containsPlace geonames:2973781,
+geonames:3034720 schema:containsPlace geonames:2973781,
         geonames:3038032 .
 
-geonames:3035691 schema1:containsPlace geonames:2983153 .
+geonames:3035691 schema:containsPlace geonames:2983153 .
 
-geonames:3037136 schema1:containsPlace geonames:2975347 .
+geonames:3037136 schema:containsPlace geonames:2975347 .
 
-geonames:3038229 schema1:containsPlace geonames:6439323 .
+geonames:3038229 schema:containsPlace geonames:6439323 .
 
-geonames:3038260 schema1:containsPlace geonames:6444977,
+geonames:3038260 schema:containsPlace geonames:6444977,
         geonames:6451368 .
 
-geonames:3038353 schema1:containsPlace geonames:6427096,
+geonames:3038353 schema:containsPlace geonames:6427096,
         geonames:6447128,
         geonames:6452134 .
 
-geonames:3038422 schema1:containsPlace geonames:3031008 .
+geonames:3038422 schema:containsPlace geonames:3031008 .
 
-geonames:3054638 schema1:containsPlace geonames:3054643 .
+geonames:3054638 schema:containsPlace geonames:3054643 .
 
-geonames:3067695 schema1:containsPlace geonames:3067696 .
+geonames:3067695 schema:containsPlace geonames:3067696 .
 
-geonames:3128759 schema1:containsPlace geonames:6356055,
+geonames:3128759 schema:containsPlace geonames:6356055,
         geonames:6356211,
         geonames:6356289 .
 
-geonames:3164604 schema1:containsPlace geonames:3164418 .
+geonames:3164604 schema:containsPlace geonames:3164418 .
 
-geonames:3165361 schema1:containsPlace geonames:3182882,
+geonames:3165361 schema:containsPlace geonames:3182882,
         geonames:6458618 .
 
-geonames:3165523 schema1:containsPlace geonames:3165525 .
+geonames:3165523 schema:containsPlace geonames:3165525 .
 
-geonames:3165525 schema1:containsPlace geonames:11352097 .
+geonames:3165525 schema:containsPlace geonames:11352097 .
 
-geonames:3165924 schema1:containsPlace geonames:6538954 .
+geonames:3165924 schema:containsPlace geonames:6538954 .
 
-geonames:3170025 schema1:containsPlace geonames:6540775 .
+geonames:3170025 schema:containsPlace geonames:6540775 .
 
-geonames:3170831 schema1:containsPlace geonames:3164564,
+geonames:3170831 schema:containsPlace geonames:3164564,
         geonames:3165523,
         geonames:6457397 .
 
-geonames:3173434 schema1:containsPlace geonames:6542283 .
+geonames:3173434 schema:containsPlace geonames:6542283 .
 
-geonames:3174618 schema1:containsPlace geonames:3173434,
+geonames:3174618 schema:containsPlace geonames:3173434,
         geonames:3182163 .
 
-geonames:3174725 schema1:containsPlace geonames:3176217 .
+geonames:3174725 schema:containsPlace geonames:3176217 .
 
-geonames:3174952 schema1:containsPlace geonames:6542124 .
+geonames:3174952 schema:containsPlace geonames:6542124 .
 
-geonames:3176217 schema1:containsPlace geonames:6542282 .
+geonames:3176217 schema:containsPlace geonames:6542282 .
 
-geonames:3181526 schema1:containsPlace geonames:6537572,
+geonames:3181526 schema:containsPlace geonames:6537572,
         geonames:6538961,
         geonames:6540025,
         geonames:6540751 .
 
-geonames:3182306 schema1:containsPlace geonames:3170025 .
+geonames:3182306 schema:containsPlace geonames:3170025 .
 
-geonames:3182350 schema1:containsPlace geonames:6538944,
+geonames:3182350 schema:containsPlace geonames:6538944,
         geonames:6541733,
         geonames:6542001 .
 
-geonames:3214104 schema1:containsPlace geonames:3220721,
+geonames:3214104 schema:containsPlace geonames:3220721,
         geonames:3220722 .
 
-geonames:3214105 schema1:containsPlace geonames:3220785 .
+geonames:3214105 schema:containsPlace geonames:3220785 .
 
-geonames:3214107 schema1:containsPlace geonames:6555728 .
+geonames:3214107 schema:containsPlace geonames:6555728 .
 
-geonames:3220721 schema1:containsPlace geonames:6555606 .
+geonames:3220721 schema:containsPlace geonames:6555606 .
 
-geonames:3220722 schema1:containsPlace geonames:6559162 .
+geonames:3220722 schema:containsPlace geonames:6559162 .
 
-geonames:3220785 schema1:containsPlace geonames:6690189 .
+geonames:3220785 schema:containsPlace geonames:6690189 .
 
-geonames:3220796 schema1:containsPlace geonames:6558341 .
+geonames:3220796 schema:containsPlace geonames:6558341 .
 
-geonames:3220837 schema1:containsPlace geonames:6559171 .
+geonames:3220837 schema:containsPlace geonames:6559171 .
 
-geonames:3220905 schema1:containsPlace geonames:6553020 .
+geonames:3220905 schema:containsPlace geonames:6553020 .
 
-geonames:3220968 schema1:containsPlace geonames:6553153 .
+geonames:3220968 schema:containsPlace geonames:6553153 .
 
-geonames:3221011 schema1:containsPlace geonames:6552297 .
+geonames:3221011 schema:containsPlace geonames:6552297 .
 
-geonames:3221013 schema1:containsPlace geonames:6557372,
+geonames:3221013 schema:containsPlace geonames:6557372,
         geonames:6557373 .
 
-geonames:3221075 schema1:containsPlace geonames:6557470 .
+geonames:3221075 schema:containsPlace geonames:6557470 .
 
-geonames:3221094 schema1:containsPlace geonames:6557473 .
+geonames:3221094 schema:containsPlace geonames:6557473 .
 
-geonames:3231901 schema1:containsPlace geonames:6553023 .
+geonames:3231901 schema:containsPlace geonames:6553023 .
 
-geonames:3231903 schema1:containsPlace geonames:6553022 .
+geonames:3231903 schema:containsPlace geonames:6553022 .
 
-geonames:3231905 schema1:containsPlace geonames:6559096 .
+geonames:3231905 schema:containsPlace geonames:6559096 .
 
-geonames:3247437 schema1:containsPlace geonames:6553028 .
+geonames:3247437 schema:containsPlace geonames:6553028 .
 
-geonames:3247448 schema1:containsPlace geonames:6550571,
+geonames:3247448 schema:containsPlace geonames:6550571,
         geonames:6553047 .
 
-geonames:3247450 schema1:containsPlace geonames:6553048 .
+geonames:3247450 schema:containsPlace geonames:6553048 .
 
-geonames:3247911 schema1:containsPlace geonames:6554291 .
+geonames:3247911 schema:containsPlace geonames:6554291 .
 
-geonames:3249081 schema1:containsPlace geonames:6550605 .
+geonames:3249081 schema:containsPlace geonames:6550605 .
 
-geonames:3305808 schema1:containsPlace geonames:12032327,
+geonames:3305808 schema:containsPlace geonames:12032327,
         geonames:12076794,
         geonames:6550739 .
 
-geonames:3333132 schema1:containsPlace geonames:11669856 .
+geonames:3333132 schema:containsPlace geonames:11669856 .
 
-geonames:3333138 schema1:containsPlace geonames:2643743 .
+geonames:3333138 schema:containsPlace geonames:2643743 .
 
-geonames:3333146 schema1:containsPlace geonames:13272538 .
+geonames:3333146 schema:containsPlace geonames:13272538 .
 
-geonames:3333150 schema1:containsPlace geonames:2635608,
+geonames:3333150 schema:containsPlace geonames:2635608,
         geonames:2643743 .
 
-geonames:3333169 schema1:containsPlace geonames:2643123,
+geonames:3333169 schema:containsPlace geonames:2643123,
         geonames:9884104 .
 
-geonames:3333218 schema1:containsPlace geonames:2643743 .
+geonames:3333218 schema:containsPlace geonames:2643743 .
 
-geonames:3333223 schema1:containsPlace geonames:2655984 .
+geonames:3333223 schema:containsPlace geonames:2655984 .
 
-geonames:3333241 schema1:containsPlace geonames:7299806 .
+geonames:3333241 schema:containsPlace geonames:7299806 .
 
-geonames:3333250 schema1:containsPlace geonames:2796698 .
+geonames:3333250 schema:containsPlace geonames:2796698 .
 
-geonames:3337387 schema1:containsPlace geonames:2792411,
+geonames:3337387 schema:containsPlace geonames:2792411,
         geonames:2803095 .
 
-geonames:3337405 schema1:containsPlace geonames:3309774 .
+geonames:3337405 schema:containsPlace geonames:3309774 .
 
-geonames:3337406 schema1:containsPlace geonames:3426216 .
+geonames:3337406 schema:containsPlace geonames:3426216 .
 
-geonames:3337493 schema1:containsPlace geonames:6697536 .
+geonames:3337493 schema:containsPlace geonames:6697536 .
 
-geonames:3345301 schema1:containsPlace geonames:2758329,
+geonames:3345301 schema:containsPlace geonames:2758329,
         geonames:8714374 .
 
-geonames:3413831 schema1:containsPlace geonames:3413829 .
+geonames:3413831 schema:containsPlace geonames:3413829 .
 
-geonames:3426182 schema1:containsPlace geonames:3413831 .
+geonames:3426182 schema:containsPlace geonames:3413831 .
 
-geonames:3426184 schema1:containsPlace geonames:3426209 .
+geonames:3426184 schema:containsPlace geonames:3426209 .
 
-geonames:3426209 schema1:containsPlace geonames:3413201 .
+geonames:3426209 schema:containsPlace geonames:3413201 .
 
-geonames:3426216 schema1:containsPlace geonames:3412645 .
+geonames:3426216 schema:containsPlace geonames:3412645 .
 
-geonames:3514780 schema1:containsPlace geonames:8583809 .
+geonames:3514780 schema:containsPlace geonames:8583809 .
 
-geonames:3522509 schema1:containsPlace geonames:8582538,
+geonames:3522509 schema:containsPlace geonames:8582538,
         geonames:8582549,
         geonames:8582817,
         geonames:8583027 .
 
-geonames:3523272 schema1:containsPlace geonames:8583671 .
+geonames:3523272 schema:containsPlace geonames:8583671 .
 
-geonames:3527646 schema1:containsPlace geonames:3530597,
+geonames:3527646 schema:containsPlace geonames:3530597,
         geonames:8379132,
         geonames:8379372 .
 
-geonames:3531011 schema1:containsPlace geonames:8581732 .
+geonames:3531011 schema:containsPlace geonames:8581732 .
 
-geonames:3908600 schema1:containsPlace geonames:11508096,
+geonames:3908600 schema:containsPlace geonames:11508096,
         geonames:3911559,
         geonames:3923387 .
 
-geonames:3911924 schema1:containsPlace geonames:3911925 .
+geonames:3911924 schema:containsPlace geonames:3911925 .
 
-geonames:3923172 schema1:containsPlace geonames:12512091 .
+geonames:3923172 schema:containsPlace geonames:12512091 .
 
-geonames:4069696 schema1:containsPlace geonames:4049979 .
+geonames:4069696 schema:containsPlace geonames:4049979 .
 
-geonames:4138106 schema1:containsPlace geonames:4140963 .
+geonames:4138106 schema:containsPlace geonames:4140963 .
 
-geonames:4196508 schema1:containsPlace geonames:4180439 .
+geonames:4196508 schema:containsPlace geonames:4180439 .
 
-geonames:4335053 schema1:containsPlace geonames:4335045 .
+geonames:4335053 schema:containsPlace geonames:4335045 .
 
-geonames:4336191 schema1:containsPlace geonames:4335053 .
+geonames:4336191 schema:containsPlace geonames:4335053 .
 
-geonames:4347820 schema1:containsPlace geonames:4347778 .
+geonames:4347820 schema:containsPlace geonames:4347778 .
 
-geonames:4361885 schema1:containsPlace geonames:4347820 .
+geonames:4361885 schema:containsPlace geonames:4347820 .
 
-geonames:472755 schema1:containsPlace geonames:472757 .
+geonames:472755 schema:containsPlace geonames:472757 .
 
-geonames:4931029 schema1:containsPlace geonames:4930956 .
+geonames:4931029 schema:containsPlace geonames:4930956 .
 
-geonames:4952349 schema1:containsPlace geonames:4931029 .
+geonames:4952349 schema:containsPlace geonames:4931029 .
 
-geonames:4990752 schema1:containsPlace geonames:4990729 .
+geonames:4990752 schema:containsPlace geonames:4990729 .
 
-geonames:5001836 schema1:containsPlace geonames:5014227 .
+geonames:5001836 schema:containsPlace geonames:5014227 .
 
-geonames:5014227 schema1:containsPlace geonames:4990752 .
+geonames:5014227 schema:containsPlace geonames:4990752 .
 
-geonames:5128594 schema1:containsPlace geonames:5125771 .
+geonames:5128594 schema:containsPlace geonames:5125771 .
 
-geonames:524304 schema1:containsPlace geonames:546554 .
+geonames:524304 schema:containsPlace geonames:546554 .
 
-geonames:524894 schema1:containsPlace geonames:524901 .
+geonames:524894 schema:containsPlace geonames:524901 .
 
-geonames:5332921 schema1:containsPlace geonames:5393021,
+geonames:5332921 schema:containsPlace geonames:5393021,
         geonames:6692534 .
 
-geonames:536203 schema1:containsPlace geonames:498817 .
+geonames:536203 schema:containsPlace geonames:498817 .
 
-geonames:5393021 schema1:containsPlace geonames:6940309 .
+geonames:5393021 schema:containsPlace geonames:6940309 .
 
-geonames:590854 schema1:containsPlace geonames:7522478 .
+geonames:590854 schema:containsPlace geonames:7522478 .
 
-geonames:592170 schema1:containsPlace geonames:862995 .
+geonames:592170 schema:containsPlace geonames:862995 .
 
-geonames:6093943 schema1:containsPlace geonames:6167865 .
+geonames:6093943 schema:containsPlace geonames:6167865 .
 
-geonames:6254926 schema1:containsPlace geonames:4952349 .
+geonames:6254926 schema:containsPlace geonames:4952349 .
 
-geonames:6269131 schema1:containsPlace geonames:11609038,
+geonames:6269131 schema:containsPlace geonames:11609038,
         geonames:11609041,
         geonames:2633560,
         geonames:2634343,
@@ -23408,22 +23408,22 @@ geonames:6269131 schema1:containsPlace geonames:11609038,
         geonames:2653940,
         geonames:3333169 .
 
-geonames:6356031 schema1:containsPlace geonames:6355010,
+geonames:6356031 schema:containsPlace geonames:6355010,
         geonames:6355015 .
 
-geonames:6356055 schema1:containsPlace geonames:3128760 .
+geonames:6356055 schema:containsPlace geonames:3128760 .
 
-geonames:6356211 schema1:containsPlace geonames:3111199 .
+geonames:6356211 schema:containsPlace geonames:3111199 .
 
-geonames:6356289 schema1:containsPlace geonames:3121557 .
+geonames:6356289 schema:containsPlace geonames:3121557 .
 
-geonames:6359472 schema1:containsPlace geonames:2514256 .
+geonames:6359472 schema:containsPlace geonames:2514256 .
 
-geonames:6361390 schema1:containsPlace geonames:3108288 .
+geonames:6361390 schema:containsPlace geonames:3108288 .
 
-geonames:6418538 schema1:containsPlace geonames:2618424 .
+geonames:6418538 schema:containsPlace geonames:2618424 .
 
-geonames:6424360 schema1:containsPlace geonames:2514239,
+geonames:6424360 schema:containsPlace geonames:2514239,
         geonames:2521384,
         geonames:6356031,
         geonames:6533931,
@@ -23432,126 +23432,126 @@ geonames:6424360 schema1:containsPlace geonames:2514239,
         geonames:6533954,
         geonames:6533961 .
 
-geonames:6426109 schema1:containsPlace geonames:2975349 .
+geonames:6426109 schema:containsPlace geonames:2975349 .
 
-geonames:6426682 schema1:containsPlace geonames:3017492 .
+geonames:6426682 schema:containsPlace geonames:3017492 .
 
-geonames:6426725 schema1:containsPlace geonames:2998266 .
+geonames:6426725 schema:containsPlace geonames:2998266 .
 
-geonames:6426804 schema1:containsPlace geonames:2985656 .
+geonames:6426804 schema:containsPlace geonames:2985656 .
 
-geonames:6426863 schema1:containsPlace geonames:2976524 .
+geonames:6426863 schema:containsPlace geonames:2976524 .
 
-geonames:6426864 schema1:containsPlace geonames:2976396 .
+geonames:6426864 schema:containsPlace geonames:2976396 .
 
-geonames:6426868 schema1:containsPlace geonames:2976330 .
+geonames:6426868 schema:containsPlace geonames:2976330 .
 
-geonames:6426898 schema1:containsPlace geonames:2969022 .
+geonames:6426898 schema:containsPlace geonames:2969022 .
 
-geonames:6426904 schema1:containsPlace geonames:2968909 .
+geonames:6426904 schema:containsPlace geonames:2968909 .
 
-geonames:6426913 schema1:containsPlace geonames:2968731 .
+geonames:6426913 schema:containsPlace geonames:2968731 .
 
-geonames:6427096 schema1:containsPlace geonames:2970092 .
+geonames:6427096 schema:containsPlace geonames:2970092 .
 
-geonames:6432683 schema1:containsPlace geonames:2969718 .
+geonames:6432683 schema:containsPlace geonames:2969718 .
 
-geonames:6439323 schema1:containsPlace geonames:3035404 .
+geonames:6439323 schema:containsPlace geonames:3035404 .
 
-geonames:6441375 schema1:containsPlace geonames:2973783 .
+geonames:6441375 schema:containsPlace geonames:2973783 .
 
-geonames:6441541 schema1:containsPlace geonames:2991214 .
+geonames:6441541 schema:containsPlace geonames:2991214 .
 
-geonames:6444847 schema1:containsPlace geonames:2990228 .
+geonames:6444847 schema:containsPlace geonames:2990228 .
 
-geonames:6444880 schema1:containsPlace geonames:2994902 .
+geonames:6444880 schema:containsPlace geonames:2994902 .
 
-geonames:6447020 schema1:containsPlace geonames:3028641 .
+geonames:6447020 schema:containsPlace geonames:3028641 .
 
-geonames:6447024 schema1:containsPlace geonames:3028404 .
+geonames:6447024 schema:containsPlace geonames:3028404 .
 
-geonames:6447030 schema1:containsPlace geonames:3028179 .
+geonames:6447030 schema:containsPlace geonames:3028179 .
 
-geonames:6447087 schema1:containsPlace geonames:3023872 .
+geonames:6447087 schema:containsPlace geonames:3023872 .
 
-geonames:6447128 schema1:containsPlace geonames:3016667 .
+geonames:6447128 schema:containsPlace geonames:3016667 .
 
-geonames:6447142 schema1:containsPlace geonames:2995469 .
+geonames:6447142 schema:containsPlace geonames:2995469 .
 
-geonames:6448690 schema1:containsPlace geonames:12313244 .
+geonames:6448690 schema:containsPlace geonames:12313244 .
 
-geonames:6451368 schema1:containsPlace geonames:3028342 .
+geonames:6451368 schema:containsPlace geonames:3028342 .
 
-geonames:6452134 schema1:containsPlace geonames:3038354 .
+geonames:6452134 schema:containsPlace geonames:3038354 .
 
-geonames:6453974 schema1:containsPlace geonames:2972315 .
+geonames:6453974 schema:containsPlace geonames:2972315 .
 
-geonames:6454034 schema1:containsPlace geonames:2992166 .
+geonames:6454034 schema:containsPlace geonames:2992166 .
 
-geonames:6455228 schema1:containsPlace geonames:3024297 .
+geonames:6455228 schema:containsPlace geonames:3024297 .
 
-geonames:6455259 schema1:containsPlace geonames:2988507 .
+geonames:6455259 schema:containsPlace geonames:2988507 .
 
-geonames:6455529 schema1:containsPlace geonames:3000364 .
+geonames:6455529 schema:containsPlace geonames:3000364 .
 
-geonames:6456838 schema1:containsPlace geonames:3010564 .
+geonames:6456838 schema:containsPlace geonames:3010564 .
 
-geonames:6457397 schema1:containsPlace geonames:6539582 .
+geonames:6457397 schema:containsPlace geonames:6539582 .
 
-geonames:6458618 schema1:containsPlace geonames:6540124 .
+geonames:6458618 schema:containsPlace geonames:6540124 .
 
-geonames:6458763 schema1:containsPlace geonames:7285161 .
+geonames:6458763 schema:containsPlace geonames:7285161 .
 
-geonames:6458798 schema1:containsPlace geonames:7287650 .
+geonames:6458798 schema:containsPlace geonames:7287650 .
 
-geonames:6458923 schema1:containsPlace geonames:2267057 .
+geonames:6458923 schema:containsPlace geonames:2267057 .
 
-geonames:6533931 schema1:containsPlace geonames:2521534 .
+geonames:6533931 schema:containsPlace geonames:2521534 .
 
-geonames:6533948 schema1:containsPlace geonames:2516452 .
+geonames:6533948 schema:containsPlace geonames:2516452 .
 
-geonames:6533952 schema1:containsPlace geonames:2518723 .
+geonames:6533952 schema:containsPlace geonames:2518723 .
 
-geonames:6533954 schema1:containsPlace geonames:2514216 .
+geonames:6533954 schema:containsPlace geonames:2514216 .
 
-geonames:6533961 schema1:containsPlace geonames:2512989 .
+geonames:6533961 schema:containsPlace geonames:2512989 .
 
-geonames:6538944 schema1:containsPlace geonames:3174641 .
+geonames:6538944 schema:containsPlace geonames:3174641 .
 
-geonames:6538954 schema1:containsPlace geonames:3173841 .
+geonames:6538954 schema:containsPlace geonames:3173841 .
 
-geonames:6539582 schema1:containsPlace geonames:3182043 .
+geonames:6539582 schema:containsPlace geonames:3182043 .
 
-geonames:6540124 schema1:containsPlace geonames:3169921 .
+geonames:6540124 schema:containsPlace geonames:3169921 .
 
-geonames:6540751 schema1:containsPlace geonames:3178630 .
+geonames:6540751 schema:containsPlace geonames:3178630 .
 
-geonames:6540775 schema1:containsPlace geonames:8952857 .
+geonames:6540775 schema:containsPlace geonames:8952857 .
 
-geonames:6541733 schema1:containsPlace geonames:3183330 .
+geonames:6541733 schema:containsPlace geonames:3183330 .
 
-geonames:6542001 schema1:containsPlace geonames:3182351 .
+geonames:6542001 schema:containsPlace geonames:3182351 .
 
-geonames:6542124 schema1:containsPlace geonames:3174953 .
+geonames:6542124 schema:containsPlace geonames:3174953 .
 
-geonames:6542282 schema1:containsPlace geonames:3176219 .
+geonames:6542282 schema:containsPlace geonames:3176219 .
 
-geonames:6542283 schema1:containsPlace geonames:3173435 .
+geonames:6542283 schema:containsPlace geonames:3173435 .
 
-geonames:6544221 schema1:containsPlace geonames:2748591,
+geonames:6544221 schema:containsPlace geonames:2748591,
         geonames:2757349 .
 
-geonames:6544223 schema1:containsPlace geonames:2753681 .
+geonames:6544223 schema:containsPlace geonames:2753681 .
 
-geonames:6544226 schema1:containsPlace geonames:6544711 .
+geonames:6544226 schema:containsPlace geonames:6544711 .
 
-geonames:6544228 schema1:containsPlace geonames:2743911 .
+geonames:6544228 schema:containsPlace geonames:2743911 .
 
-geonames:6544230 schema1:containsPlace geonames:2753874 .
+geonames:6544230 schema:containsPlace geonames:2753874 .
 
-geonames:6544232 schema1:containsPlace geonames:2750821 .
+geonames:6544232 schema:containsPlace geonames:2750821 .
 
-geonames:6544235 schema1:containsPlace geonames:2745048,
+geonames:6544235 schema:containsPlace geonames:2745048,
         geonames:2745333,
         geonames:2746761,
         geonames:2746766,
@@ -23563,15 +23563,15 @@ geonames:6544235 schema1:containsPlace geonames:2745048,
         geonames:2758777,
         geonames:2759398 .
 
-geonames:6544239 schema1:containsPlace geonames:2754752 .
+geonames:6544239 schema:containsPlace geonames:2754752 .
 
-geonames:6544248 schema1:containsPlace geonames:2747775 .
+geonames:6544248 schema:containsPlace geonames:2747775 .
 
-geonames:6544250 schema1:containsPlace geonames:2745493,
+geonames:6544250 schema:containsPlace geonames:2745493,
         geonames:2750815,
         geonames:2759572 .
 
-geonames:6544251 schema1:containsPlace geonames:11496662,
+geonames:6544251 schema:containsPlace geonames:11496662,
         geonames:2743913,
         geonames:2749440,
         geonames:2755023,
@@ -23579,200 +23579,200 @@ geonames:6544251 schema1:containsPlace geonames:11496662,
         geonames:2758186,
         geonames:2758213 .
 
-geonames:6544252 schema1:containsPlace geonames:2745321,
+geonames:6544252 schema:containsPlace geonames:2745321,
         geonames:2746660,
         geonames:2751769 .
 
-geonames:6544260 schema1:containsPlace geonames:2743518,
+geonames:6544260 schema:containsPlace geonames:2743518,
         geonames:2751106,
         geonames:2759548 .
 
-geonames:6544261 schema1:containsPlace geonames:2750630 .
+geonames:6544261 schema:containsPlace geonames:2750630 .
 
-geonames:6544264 schema1:containsPlace geonames:2748481 .
+geonames:6544264 schema:containsPlace geonames:2748481 .
 
-geonames:6544266 schema1:containsPlace geonames:2746601 .
+geonames:6544266 schema:containsPlace geonames:2746601 .
 
-geonames:6544269 schema1:containsPlace geonames:2756777 .
+geonames:6544269 schema:containsPlace geonames:2756777 .
 
-geonames:6544285 schema1:containsPlace geonames:2749317,
+geonames:6544285 schema:containsPlace geonames:2749317,
         geonames:2749985,
         geonames:2751865,
         geonames:2757232 .
 
-geonames:6544286 schema1:containsPlace geonames:2743478 .
+geonames:6544286 schema:containsPlace geonames:2743478 .
 
-geonames:6544287 schema1:containsPlace geonames:2753489 .
+geonames:6544287 schema:containsPlace geonames:2753489 .
 
-geonames:6544289 schema1:containsPlace geonames:2757370 .
+geonames:6544289 schema:containsPlace geonames:2757370 .
 
-geonames:6544293 schema1:containsPlace geonames:2745012 .
+geonames:6544293 schema:containsPlace geonames:2745012 .
 
-geonames:6544297 schema1:containsPlace geonames:2744769,
+geonames:6544297 schema:containsPlace geonames:2744769,
         geonames:2758898,
         geonames:2759271 .
 
-geonames:6544299 schema1:containsPlace geonames:2745874,
+geonames:6544299 schema:containsPlace geonames:2745874,
         geonames:2749550 .
 
-geonames:6547294 schema1:containsPlace geonames:2553604 .
+geonames:6547294 schema:containsPlace geonames:2553604 .
 
-geonames:6547383 schema1:containsPlace geonames:6547539 .
+geonames:6547383 schema:containsPlace geonames:6547539 .
 
-geonames:6547539 schema1:containsPlace geonames:2950159 .
+geonames:6547539 schema:containsPlace geonames:2950159 .
 
-geonames:6548259 schema1:containsPlace geonames:2938124 .
+geonames:6548259 schema:containsPlace geonames:2938124 .
 
-geonames:6550571 schema1:containsPlace geonames:2958141 .
+geonames:6550571 schema:containsPlace geonames:2958141 .
 
-geonames:6550605 schema1:containsPlace geonames:2867711 .
+geonames:6550605 schema:containsPlace geonames:2867711 .
 
-geonames:6550739 schema1:containsPlace geonames:2956005 .
+geonames:6550739 schema:containsPlace geonames:2956005 .
 
-geonames:6551180 schema1:containsPlace geonames:2917788 .
+geonames:6551180 schema:containsPlace geonames:2917788 .
 
-geonames:6551218 schema1:containsPlace geonames:2958781 .
+geonames:6551218 schema:containsPlace geonames:2958781 .
 
-geonames:6552297 schema1:containsPlace geonames:2945024 .
+geonames:6552297 schema:containsPlace geonames:2945024 .
 
-geonames:6553020 schema1:containsPlace geonames:2944388 .
+geonames:6553020 schema:containsPlace geonames:2944388 .
 
-geonames:6553022 schema1:containsPlace geonames:2934246 .
+geonames:6553022 schema:containsPlace geonames:2934246 .
 
-geonames:6553023 schema1:containsPlace geonames:2934691 .
+geonames:6553023 schema:containsPlace geonames:2934691 .
 
-geonames:6553028 schema1:containsPlace geonames:2864692 .
+geonames:6553028 schema:containsPlace geonames:2864692 .
 
-geonames:6553047 schema1:containsPlace geonames:3247449 .
+geonames:6553047 schema:containsPlace geonames:3247449 .
 
-geonames:6553048 schema1:containsPlace geonames:2946447 .
+geonames:6553048 schema:containsPlace geonames:2946447 .
 
-geonames:6553153 schema1:containsPlace geonames:2925533 .
+geonames:6553153 schema:containsPlace geonames:2925533 .
 
-geonames:6554742 schema1:containsPlace geonames:2903874 .
+geonames:6554742 schema:containsPlace geonames:2903874 .
 
-geonames:6555606 schema1:containsPlace geonames:2892794 .
+geonames:6555606 schema:containsPlace geonames:2892794 .
 
-geonames:6555728 schema1:containsPlace geonames:2925177 .
+geonames:6555728 schema:containsPlace geonames:2925177 .
 
-geonames:6557372 schema1:containsPlace geonames:2934728 .
+geonames:6557372 schema:containsPlace geonames:2934728 .
 
-geonames:6557373 schema1:containsPlace geonames:2918632 .
+geonames:6557373 schema:containsPlace geonames:2918632 .
 
-geonames:6557467 schema1:containsPlace geonames:2855525 .
+geonames:6557467 schema:containsPlace geonames:2855525 .
 
-geonames:6557470 schema1:containsPlace geonames:2861934 .
+geonames:6557470 schema:containsPlace geonames:2861934 .
 
-geonames:6557473 schema1:containsPlace geonames:2879697 .
+geonames:6557473 schema:containsPlace geonames:2879697 .
 
-geonames:6558341 schema1:containsPlace geonames:2842569 .
+geonames:6558341 schema:containsPlace geonames:2842569 .
 
-geonames:6559096 schema1:containsPlace geonames:2930509 .
+geonames:6559096 schema:containsPlace geonames:2930509 .
 
-geonames:6559162 schema1:containsPlace geonames:2873891 .
+geonames:6559162 schema:containsPlace geonames:2873891 .
 
-geonames:6559171 schema1:containsPlace geonames:2867714 .
+geonames:6559171 schema:containsPlace geonames:2867714 .
 
-geonames:6614300 schema1:containsPlace geonames:3021356 .
+geonames:6614300 schema:containsPlace geonames:3021356 .
 
-geonames:6614519 schema1:containsPlace geonames:3020686 .
+geonames:6614519 schema:containsPlace geonames:3020686 .
 
-geonames:6614538 schema1:containsPlace geonames:3017842 .
+geonames:6614538 schema:containsPlace geonames:3017842 .
 
-geonames:6615330 schema1:containsPlace geonames:7295838 .
+geonames:6615330 schema:containsPlace geonames:7295838 .
 
-geonames:6615639 schema1:containsPlace geonames:2968601 .
+geonames:6615639 schema:containsPlace geonames:2968601 .
 
-geonames:6615843 schema1:containsPlace geonames:6619386 .
+geonames:6615843 schema:containsPlace geonames:6619386 .
 
-geonames:6617818 schema1:containsPlace geonames:12312667 .
+geonames:6617818 schema:containsPlace geonames:12312667 .
 
-geonames:662391 schema1:containsPlace geonames:670343 .
+geonames:662391 schema:containsPlace geonames:670343 .
 
-geonames:663116 schema1:containsPlace geonames:662391 .
+geonames:663116 schema:containsPlace geonames:662391 .
 
-geonames:664453 schema1:containsPlace geonames:664460 .
+geonames:664453 schema:containsPlace geonames:664460 .
 
-geonames:6690189 schema1:containsPlace geonames:2825297 .
+geonames:6690189 schema:containsPlace geonames:2825297 .
 
-geonames:6693370 schema1:containsPlace geonames:2800865 .
+geonames:6693370 schema:containsPlace geonames:2800865 .
 
-geonames:6695624 schema1:containsPlace geonames:7531926 .
+geonames:6695624 schema:containsPlace geonames:7531926 .
 
-geonames:6697536 schema1:containsPlace geonames:7531754 .
+geonames:6697536 schema:containsPlace geonames:7531754 .
 
-geonames:670339 schema1:containsPlace geonames:670347 .
+geonames:670339 schema:containsPlace geonames:670347 .
 
-geonames:673612 schema1:containsPlace geonames:670339 .
+geonames:673612 schema:containsPlace geonames:670339 .
 
-geonames:676051 schema1:containsPlace geonames:676056 .
+geonames:676051 schema:containsPlace geonames:676056 .
 
-geonames:683504 schema1:containsPlace geonames:8335003 .
+geonames:683504 schema:containsPlace geonames:8335003 .
 
-geonames:683843 schema1:containsPlace geonames:676051,
+geonames:683843 schema:containsPlace geonames:676051,
         geonames:8334689 .
 
-geonames:6930701 schema1:containsPlace geonames:2359027 .
+geonames:6930701 schema:containsPlace geonames:2359027 .
 
-geonames:722064 schema1:containsPlace geonames:721159 .
+geonames:722064 schema:containsPlace geonames:721159 .
 
-geonames:722433 schema1:containsPlace geonames:722437 .
+geonames:722433 schema:containsPlace geonames:722437 .
 
-geonames:7285161 schema1:containsPlace geonames:2661604 .
+geonames:7285161 schema:containsPlace geonames:2661604 .
 
-geonames:7287650 schema1:containsPlace geonames:2657896 .
+geonames:7287650 schema:containsPlace geonames:2657896 .
 
-geonames:7290554 schema1:containsPlace geonames:7295939 .
+geonames:7290554 schema:containsPlace geonames:7295939 .
 
-geonames:7290621 schema1:containsPlace geonames:2640729 .
+geonames:7290621 schema:containsPlace geonames:2640729 .
 
-geonames:7290636 schema1:containsPlace geonames:7292578,
+geonames:7290636 schema:containsPlace geonames:7292578,
         geonames:7297327 .
 
-geonames:7290657 schema1:containsPlace geonames:2633563 .
+geonames:7290657 schema:containsPlace geonames:2633563 .
 
-geonames:7290660 schema1:containsPlace geonames:2653941 .
+geonames:7290660 schema:containsPlace geonames:2653941 .
 
-geonames:7292578 schema1:containsPlace geonames:2645074 .
+geonames:7292578 schema:containsPlace geonames:2645074 .
 
-geonames:7294018 schema1:containsPlace geonames:2646302 .
+geonames:7294018 schema:containsPlace geonames:2646302 .
 
-geonames:7295838 schema1:containsPlace geonames:12261838 .
+geonames:7295838 schema:containsPlace geonames:12261838 .
 
-geonames:7295939 schema1:containsPlace geonames:12264441 .
+geonames:7295939 schema:containsPlace geonames:12264441 .
 
-geonames:7297327 schema1:containsPlace geonames:2654186 .
+geonames:7297327 schema:containsPlace geonames:2654186 .
 
-geonames:7299806 schema1:containsPlace geonames:2653822 .
+geonames:7299806 schema:containsPlace geonames:2653822 .
 
-geonames:7522434 schema1:containsPlace geonames:11777176 .
+geonames:7522434 schema:containsPlace geonames:11777176 .
 
-geonames:7522478 schema1:containsPlace geonames:11052592 .
+geonames:7522478 schema:containsPlace geonames:11052592 .
 
-geonames:7531754 schema1:containsPlace geonames:3093133 .
+geonames:7531754 schema:containsPlace geonames:3093133 .
 
-geonames:7602560 schema1:containsPlace geonames:2852458 .
+geonames:7602560 schema:containsPlace geonames:2852458 .
 
-geonames:7648922 schema1:containsPlace geonames:2298423 .
+geonames:7648922 schema:containsPlace geonames:2298423 .
 
-geonames:7648941 schema1:containsPlace geonames:2301174 .
+geonames:7648941 schema:containsPlace geonames:2301174 .
 
-geonames:7649030 schema1:containsPlace geonames:2294915 .
+geonames:7649030 schema:containsPlace geonames:2294915 .
 
-geonames:7649065 schema1:containsPlace geonames:2295628,
+geonames:7649065 schema:containsPlace geonames:2295628,
         geonames:2304207 .
 
-geonames:7667638 schema1:containsPlace geonames:187740 .
+geonames:7667638 schema:containsPlace geonames:187740 .
 
-geonames:7668902 schema1:containsPlace geonames:184707 .
+geonames:7668902 schema:containsPlace geonames:184707 .
 
-geonames:7729884 a schema1:Place .
+geonames:7729884 a schema:Place .
 
-geonames:785958 schema1:containsPlace geonames:8199669 .
+geonames:785958 schema:containsPlace geonames:8199669 .
 
-geonames:8199669 schema1:containsPlace geonames:792680 .
+geonames:8199669 schema:containsPlace geonames:792680 .
 
-geonames:8260047 schema1:containsPlace geonames:2749192,
+geonames:8260047 schema:containsPlace geonames:2749192,
         geonames:2750081,
         geonames:2750254,
         geonames:2751312,
@@ -23782,7 +23782,7 @@ geonames:8260047 schema1:containsPlace geonames:2749192,
         geonames:2755408,
         geonames:2758333 .
 
-geonames:8260049 schema1:containsPlace geonames:2744153,
+geonames:8260049 schema:containsPlace geonames:2744153,
         geonames:2744179,
         geonames:2744191,
         geonames:2745005,
@@ -23803,45 +23803,45 @@ geonames:8260049 schema1:containsPlace geonames:2744153,
         geonames:2755781,
         geonames:2758682 .
 
-geonames:8260050 schema1:containsPlace geonames:2758765 .
+geonames:8260050 schema:containsPlace geonames:2758765 .
 
-geonames:8299637 schema1:containsPlace geonames:686590 .
+geonames:8299637 schema:containsPlace geonames:686590 .
 
-geonames:8334689 schema1:containsPlace geonames:668442 .
+geonames:8334689 schema:containsPlace geonames:668442 .
 
-geonames:8334721 schema1:containsPlace geonames:671964 .
+geonames:8334721 schema:containsPlace geonames:671964 .
 
-geonames:8335003 schema1:containsPlace geonames:11055044 .
+geonames:8335003 schema:containsPlace geonames:11055044 .
 
-geonames:8379132 schema1:containsPlace geonames:3532497 .
+geonames:8379132 schema:containsPlace geonames:3532497 .
 
-geonames:8379372 schema1:containsPlace geonames:3827409 .
+geonames:8379372 schema:containsPlace geonames:3827409 .
 
-geonames:8505033 schema1:containsPlace geonames:8505031 .
+geonames:8505033 schema:containsPlace geonames:8505031 .
 
-geonames:8549513 schema1:containsPlace geonames:12808706,
+geonames:8549513 schema:containsPlace geonames:12808706,
         geonames:2748994,
         geonames:2751890 .
 
-geonames:8581732 schema1:containsPlace geonames:3816728 .
+geonames:8581732 schema:containsPlace geonames:3816728 .
 
-geonames:8582538 schema1:containsPlace geonames:3522507 .
+geonames:8582538 schema:containsPlace geonames:3522507 .
 
-geonames:8582549 schema1:containsPlace geonames:3801591 .
+geonames:8582549 schema:containsPlace geonames:3801591 .
 
-geonames:8582817 schema1:containsPlace geonames:3517812 .
+geonames:8582817 schema:containsPlace geonames:3517812 .
 
-geonames:8583027 schema1:containsPlace geonames:3515484 .
+geonames:8583027 schema:containsPlace geonames:3515484 .
 
-geonames:858787 schema1:containsPlace geonames:6695624 .
+geonames:858787 schema:containsPlace geonames:6695624 .
 
-geonames:862990 schema1:containsPlace geonames:590031 .
+geonames:862990 schema:containsPlace geonames:590031 .
 
-geonames:862995 schema1:containsPlace geonames:11053706 .
+geonames:862995 schema:containsPlace geonames:11053706 .
 
-geonames:8631514 schema1:containsPlace geonames:2452655 .
+geonames:8631514 schema:containsPlace geonames:2452655 .
 
-geonames:8648415 schema1:containsPlace geonames:6548259,
+geonames:8648415 schema:containsPlace geonames:6548259,
         geonames:6551180 .
 
 unesco:concept10268 skos:broader unesco:concept436 .
@@ -24010,203 +24010,203 @@ unesco:concept9742 skos:broader unesco:concept608 .
 
 unesco:concept9777 skos:broader unesco:concept623 .
 
-geonames:11257194 a schema1:Place .
+geonames:11257194 a schema:Place .
 
-geonames:11508096 a schema1:Place .
+geonames:11508096 a schema:Place .
 
-geonames:11525047 a schema1:Place .
+geonames:11525047 a schema:Place .
 
-geonames:11525077 a schema1:Place .
+geonames:11525077 a schema:Place .
 
-geonames:11525080 a schema1:Place .
+geonames:11525080 a schema:Place .
 
-geonames:11525082 a schema1:Place .
+geonames:11525082 a schema:Place .
 
-geonames:11525092 a schema1:Place .
+geonames:11525092 a schema:Place .
 
-geonames:11525098 a schema1:Place .
+geonames:11525098 a schema:Place .
 
-geonames:11525099 a schema1:Place .
+geonames:11525099 a schema:Place .
 
-geonames:11609038 a schema1:Place .
+geonames:11609038 a schema:Place .
 
-geonames:11609041 a schema1:Place .
+geonames:11609041 a schema:Place .
 
-geonames:11669856 a schema1:Place .
+geonames:11669856 a schema:Place .
 
-geonames:12048330 a schema1:Place .
+geonames:12048330 a schema:Place .
 
-geonames:12076794 a schema1:Place .
+geonames:12076794 a schema:Place .
 
-geonames:12261838 a schema1:Place .
+geonames:12261838 a schema:Place .
 
-geonames:12264441 a schema1:Place .
+geonames:12264441 a schema:Place .
 
-geonames:12313244 a schema1:Place .
+geonames:12313244 a schema:Place .
 
-geonames:12315276 a schema1:Place .
+geonames:12315276 a schema:Place .
 
-geonames:12511203 a schema1:Place .
+geonames:12511203 a schema:Place .
 
-geonames:12512091 a schema1:Place .
+geonames:12512091 a schema:Place .
 
-geonames:1269750 a schema1:Place .
+geonames:1269750 a schema:Place .
 
-geonames:12808706 a schema1:Place .
+geonames:12808706 a schema:Place .
 
-geonames:13272538 a schema1:Place .
+geonames:13272538 a schema:Place .
 
-geonames:13494733 a schema1:Place .
+geonames:13494733 a schema:Place .
 
-geonames:1733039 a schema1:Place .
+geonames:1733039 a schema:Place .
 
-geonames:1735398 a schema1:Place .
+geonames:1735398 a schema:Place .
 
-geonames:1735634 a schema1:Place .
+geonames:1735634 a schema:Place .
 
-geonames:1738050 a schema1:Place .
+geonames:1738050 a schema:Place .
 
-geonames:182763 a schema1:Place .
+geonames:182763 a schema:Place .
 
-geonames:1873107 a schema1:Place ;
-    schema1:containsPlace geonames:1866923,
+geonames:1873107 a schema:Place ;
+    schema:containsPlace geonames:1866923,
         geonames:1876101 .
 
-geonames:191242 a schema1:Place ;
-    schema1:containsPlace geonames:11964397,
+geonames:191242 a schema:Place ;
+    schema:containsPlace geonames:11964397,
         geonames:178214,
         geonames:183015,
         geonames:187506,
         geonames:193906 .
 
-geonames:192710 a schema1:Place .
+geonames:192710 a schema:Place .
 
-geonames:198629 a schema1:Place .
+geonames:198629 a schema:Place .
 
-geonames:203312 a schema1:Place .
+geonames:203312 a schema:Place .
 
-geonames:2228373 a schema1:Place .
+geonames:2228373 a schema:Place .
 
-geonames:2231755 a schema1:Place ;
-    schema1:containsPlace geonames:2228373 .
+geonames:2231755 a schema:Place ;
+    schema:containsPlace geonames:2228373 .
 
-geonames:2234272 a schema1:Place .
+geonames:2234272 a schema:Place .
 
-geonames:2234802 a schema1:Place .
+geonames:2234802 a schema:Place .
 
-geonames:2235957 a schema1:Place .
+geonames:2235957 a schema:Place .
 
-geonames:2245662 a schema1:Place .
+geonames:2245662 a schema:Place .
 
-geonames:2264507 a schema1:Place .
+geonames:2264507 a schema:Place .
 
-geonames:2268404 a schema1:Place .
+geonames:2268404 a schema:Place .
 
-geonames:2270984 a schema1:Place .
+geonames:2270984 a schema:Place .
 
-geonames:2273898 a schema1:Place .
+geonames:2273898 a schema:Place .
 
-geonames:2274890 a schema1:Place ;
-    schema1:containsPlace geonames:2274869,
+geonames:2274890 a schema:Place ;
+    schema:containsPlace geonames:2274869,
         geonames:2274895 .
 
-geonames:2276630 a schema1:Place .
+geonames:2276630 a schema:Place .
 
-geonames:2287781 a schema1:Place .
+geonames:2287781 a schema:Place .
 
-geonames:2294076 a schema1:Place ;
-    schema1:containsPlace geonames:2294915,
+geonames:2294076 a schema:Place ;
+    schema:containsPlace geonames:2294915,
         geonames:2295628,
         geonames:2304207,
         geonames:7649030,
         geonames:7649065 .
 
-geonames:2309792 a schema1:Place .
+geonames:2309792 a schema:Place .
 
-geonames:2356105 a schema1:Place .
+geonames:2356105 a schema:Place .
 
-geonames:2361809 a schema1:Place ;
-    schema1:containsPlace geonames:6930701 .
+geonames:2361809 a schema:Place ;
+    schema:containsPlace geonames:6930701 .
 
-geonames:2420477 a schema1:Place .
+geonames:2420477 a schema:Place .
 
-geonames:2452655 a schema1:Place .
+geonames:2452655 a schema:Place .
 
-geonames:2453347 a schema1:Place ;
-    schema1:containsPlace geonames:2453348,
+geonames:2453347 a schema:Place ;
+    schema:containsPlace geonames:2453348,
         geonames:2458589,
         geonames:2459176 .
 
-geonames:2464461 a schema1:Place ;
-    schema1:containsPlace geonames:2464464,
+geonames:2464461 a schema:Place ;
+    schema:containsPlace geonames:2464464,
         geonames:2464470,
         geonames:2468244 .
 
-geonames:2510850 a schema1:Place .
+geonames:2510850 a schema:Place .
 
-geonames:2512989 a schema1:Place .
+geonames:2512989 a schema:Place .
 
-geonames:2514216 a schema1:Place .
+geonames:2514216 a schema:Place .
 
-geonames:2514239 a schema1:Place .
+geonames:2514239 a schema:Place .
 
-geonames:2514254 a schema1:Place ;
-    schema1:containsPlace geonames:6359472 .
+geonames:2514254 a schema:Place ;
+    schema:containsPlace geonames:6359472 .
 
-geonames:2514256 a schema1:Place .
+geonames:2514256 a schema:Place .
 
-geonames:2516452 a schema1:Place .
+geonames:2516452 a schema:Place .
 
-geonames:2518723 a schema1:Place .
+geonames:2518723 a schema:Place .
 
-geonames:2521384 a schema1:Place .
+geonames:2521384 a schema:Place .
 
-geonames:2521534 a schema1:Place .
+geonames:2521534 a schema:Place .
 
-geonames:2538475 a schema1:Place .
+geonames:2538475 a schema:Place .
 
-geonames:2543003 a schema1:Place .
+geonames:2543003 a schema:Place .
 
-geonames:2553530 a schema1:Place .
+geonames:2553530 a schema:Place .
 
-geonames:2553604 a schema1:Place .
+geonames:2553604 a schema:Place .
 
-geonames:2555640 a schema1:Place .
+geonames:2555640 a schema:Place .
 
-geonames:2556076 a schema1:Place .
+geonames:2556076 a schema:Place .
 
-geonames:2589581 a schema1:Place .
+geonames:2589581 a schema:Place .
 
-geonames:2593109 a schema1:Place ;
-    schema1:containsPlace geonames:2510850,
+geonames:2593109 a schema:Place ;
+    schema:containsPlace geonames:2510850,
         geonames:2514254 .
 
-geonames:2618425 a schema1:Place .
+geonames:2618425 a schema:Place .
 
-geonames:2633563 a schema1:Place .
+geonames:2633563 a schema:Place .
 
-geonames:2634343 a schema1:Place .
+geonames:2634343 a schema:Place .
 
-geonames:2635594 a schema1:Place ;
-    schema1:containsPlace geonames:2643743,
+geonames:2635594 a schema:Place ;
+    schema:containsPlace geonames:2643743,
         geonames:8449743 .
 
-geonames:2638360 a schema1:Place .
+geonames:2638360 a schema:Place .
 
-geonames:2640729 a schema1:Place .
+geonames:2640729 a schema:Place .
 
-geonames:2641227 a schema1:Place .
+geonames:2641227 a schema:Place .
 
-geonames:2641639 a schema1:Place ;
-    schema1:containsPlace geonames:12048330,
+geonames:2641639 a schema:Place ;
+    schema:containsPlace geonames:12048330,
         geonames:2643743 .
 
-geonames:2643123 a schema1:Place .
+geonames:2643123 a schema:Place .
 
-geonames:2647476 a schema1:Place .
+geonames:2647476 a schema:Place .
 
-geonames:2648110 a schema1:Place ;
-    schema1:containsPlace geonames:2635594,
+geonames:2648110 a schema:Place ;
+    schema:containsPlace geonames:2635594,
         geonames:2641639,
         geonames:2643743,
         geonames:3333132,
@@ -24215,962 +24215,962 @@ geonames:2648110 a schema1:Place ;
         geonames:3333150,
         geonames:3333218 .
 
-geonames:2652222 a schema1:Place .
+geonames:2652222 a schema:Place .
 
-geonames:2653822 a schema1:Place .
+geonames:2653822 a schema:Place .
 
-geonames:2653941 a schema1:Place .
+geonames:2653941 a schema:Place .
 
-geonames:2655984 a schema1:Place .
+geonames:2655984 a schema:Place .
 
-geonames:2657896 a schema1:Place .
+geonames:2657896 a schema:Place .
 
-geonames:2658434 a schema1:Place ;
-    schema1:containsPlace geonames:2657895,
+geonames:2658434 a schema:Place ;
+    schema:containsPlace geonames:2657895,
         geonames:2661602 .
 
-geonames:2743478 a schema1:Place .
+geonames:2743478 a schema:Place .
 
-geonames:2743510 a schema1:Place .
+geonames:2743510 a schema:Place .
 
-geonames:2743574 a schema1:Place .
+geonames:2743574 a schema:Place .
 
-geonames:2743646 a schema1:Place .
+geonames:2743646 a schema:Place .
 
-geonames:2743852 a schema1:Place .
+geonames:2743852 a schema:Place .
 
-geonames:2743911 a schema1:Place .
+geonames:2743911 a schema:Place .
 
-geonames:2744101 a schema1:Place ;
-    schema1:containsPlace geonames:2744102,
+geonames:2744101 a schema:Place ;
+    schema:containsPlace geonames:2744102,
         geonames:2758426 .
 
-geonames:2744102 a schema1:Place .
+geonames:2744102 a schema:Place .
 
-geonames:2744156 a schema1:Place .
+geonames:2744156 a schema:Place .
 
-geonames:2744257 a schema1:Place .
+geonames:2744257 a schema:Place .
 
-geonames:2744332 a schema1:Place .
+geonames:2744332 a schema:Place .
 
-geonames:2744483 a schema1:Place .
+geonames:2744483 a schema:Place .
 
-geonames:2744513 a schema1:Place ;
-    schema1:containsPlace geonames:2759129,
+geonames:2744513 a schema:Place ;
+    schema:containsPlace geonames:2759129,
         geonames:2759385 .
 
-geonames:2744647 a schema1:Place .
+geonames:2744647 a schema:Place .
 
-geonames:2744658 a schema1:Place .
+geonames:2744658 a schema:Place .
 
-geonames:2744668 a schema1:Place .
+geonames:2744668 a schema:Place .
 
-geonames:2744743 a schema1:Place .
+geonames:2744743 a schema:Place .
 
-geonames:2744849 a schema1:Place ;
-    schema1:containsPlace geonames:6695503 .
+geonames:2744849 a schema:Place ;
+    schema:containsPlace geonames:6695503 .
 
-geonames:2744903 a schema1:Place .
+geonames:2744903 a schema:Place .
 
-geonames:2744911 a schema1:Place .
+geonames:2744911 a schema:Place .
 
-geonames:2744989 a schema1:Place .
+geonames:2744989 a schema:Place .
 
-geonames:2745012 a schema1:Place .
+geonames:2745012 a schema:Place .
 
-geonames:2745087 a schema1:Place ;
-    schema1:containsPlace geonames:2745088 .
+geonames:2745087 a schema:Place ;
+    schema:containsPlace geonames:2745088 .
 
-geonames:2745097 a schema1:Place .
+geonames:2745097 a schema:Place .
 
-geonames:2745128 a schema1:Place .
+geonames:2745128 a schema:Place .
 
-geonames:2745195 a schema1:Place .
+geonames:2745195 a schema:Place .
 
-geonames:2745207 a schema1:Place .
+geonames:2745207 a schema:Place .
 
-geonames:2745301 a schema1:Place .
+geonames:2745301 a schema:Place .
 
-geonames:2745307 a schema1:Place .
+geonames:2745307 a schema:Place .
 
-geonames:2745321 a schema1:Place ;
-    schema1:containsPlace geonames:2756004 .
+geonames:2745321 a schema:Place ;
+    schema:containsPlace geonames:2756004 .
 
-geonames:2745528 a schema1:Place .
+geonames:2745528 a schema:Place .
 
-geonames:2745634 a schema1:Place .
+geonames:2745634 a schema:Place .
 
-geonames:2745663 a schema1:Place .
+geonames:2745663 a schema:Place .
 
-geonames:2745675 a schema1:Place ;
-    schema1:containsPlace geonames:2753376 .
+geonames:2745675 a schema:Place ;
+    schema:containsPlace geonames:2753376 .
 
-geonames:2745702 a schema1:Place .
+geonames:2745702 a schema:Place .
 
-geonames:2745874 a schema1:Place .
+geonames:2745874 a schema:Place .
 
-geonames:2745940 a schema1:Place .
+geonames:2745940 a schema:Place .
 
-geonames:2746124 a schema1:Place .
+geonames:2746124 a schema:Place .
 
-geonames:2746125 a schema1:Place .
+geonames:2746125 a schema:Place .
 
-geonames:2746127 a schema1:Place .
+geonames:2746127 a schema:Place .
 
-geonames:2746330 a schema1:Place ;
-    schema1:containsPlace geonames:2746331 .
+geonames:2746330 a schema:Place ;
+    schema:containsPlace geonames:2746331 .
 
-geonames:2746352 a schema1:Place .
+geonames:2746352 a schema:Place .
 
-geonames:2746385 a schema1:Place .
+geonames:2746385 a schema:Place .
 
-geonames:2746414 a schema1:Place .
+geonames:2746414 a schema:Place .
 
-geonames:2746436 a schema1:Place .
+geonames:2746436 a schema:Place .
 
-geonames:2746601 a schema1:Place .
+geonames:2746601 a schema:Place .
 
-geonames:2746623 a schema1:Place .
+geonames:2746623 a schema:Place .
 
-geonames:2746660 a schema1:Place .
+geonames:2746660 a schema:Place .
 
-geonames:2746695 a schema1:Place .
+geonames:2746695 a schema:Place .
 
-geonames:2746731 a schema1:Place .
+geonames:2746731 a schema:Place .
 
-geonames:2746825 a schema1:Place .
+geonames:2746825 a schema:Place .
 
-geonames:2746839 a schema1:Place .
+geonames:2746839 a schema:Place .
 
-geonames:2746905 a schema1:Place .
+geonames:2746905 a schema:Place .
 
-geonames:2746983 a schema1:Place .
+geonames:2746983 a schema:Place .
 
-geonames:2747169 a schema1:Place .
+geonames:2747169 a schema:Place .
 
-geonames:2747492 a schema1:Place .
+geonames:2747492 a schema:Place .
 
-geonames:2747702 a schema1:Place .
+geonames:2747702 a schema:Place .
 
-geonames:2747703 a schema1:Place .
+geonames:2747703 a schema:Place .
 
-geonames:2747735 a schema1:Place .
+geonames:2747735 a schema:Place .
 
-geonames:2747824 a schema1:Place .
+geonames:2747824 a schema:Place .
 
-geonames:2747869 a schema1:Place .
+geonames:2747869 a schema:Place .
 
-geonames:2747929 a schema1:Place ;
-    schema1:containsPlace geonames:2750035 .
+geonames:2747929 a schema:Place ;
+    schema:containsPlace geonames:2750035 .
 
-geonames:2747979 a schema1:Place .
+geonames:2747979 a schema:Place .
 
-geonames:2748075 a schema1:Place ;
-    schema1:containsPlace geonames:2746600,
+geonames:2748075 a schema:Place ;
+    schema:containsPlace geonames:2746600,
         geonames:2748076 .
 
-geonames:2748087 a schema1:Place .
+geonames:2748087 a schema:Place .
 
-geonames:2748104 a schema1:Place .
+geonames:2748104 a schema:Place .
 
-geonames:2748108 a schema1:Place .
+geonames:2748108 a schema:Place .
 
-geonames:2748110 a schema1:Place .
+geonames:2748110 a schema:Place .
 
-geonames:2748172 a schema1:Place .
+geonames:2748172 a schema:Place .
 
-geonames:2748179 a schema1:Place .
+geonames:2748179 a schema:Place .
 
-geonames:2748185 a schema1:Place .
+geonames:2748185 a schema:Place .
 
-geonames:2748371 a schema1:Place .
+geonames:2748371 a schema:Place .
 
-geonames:2748468 a schema1:Place .
+geonames:2748468 a schema:Place .
 
-geonames:2748481 a schema1:Place .
+geonames:2748481 a schema:Place .
 
-geonames:2748554 a schema1:Place .
+geonames:2748554 a schema:Place .
 
-geonames:2748647 a schema1:Place .
+geonames:2748647 a schema:Place .
 
-geonames:2748720 a schema1:Place .
+geonames:2748720 a schema:Place .
 
-geonames:2748729 a schema1:Place .
+geonames:2748729 a schema:Place .
 
-geonames:2748813 a schema1:Place .
+geonames:2748813 a schema:Place .
 
-geonames:2748833 a schema1:Place .
+geonames:2748833 a schema:Place .
 
-geonames:2748864 a schema1:Place .
+geonames:2748864 a schema:Place .
 
-geonames:2748910 a schema1:Place .
+geonames:2748910 a schema:Place .
 
-geonames:2748994 a schema1:Place .
+geonames:2748994 a schema:Place .
 
-geonames:2749019 a schema1:Place .
+geonames:2749019 a schema:Place .
 
-geonames:2749037 a schema1:Place .
+geonames:2749037 a schema:Place .
 
-geonames:2749131 a schema1:Place .
+geonames:2749131 a schema:Place .
 
-geonames:2749138 a schema1:Place .
+geonames:2749138 a schema:Place .
 
-geonames:2749192 a schema1:Place .
+geonames:2749192 a schema:Place .
 
-geonames:2749330 a schema1:Place .
+geonames:2749330 a schema:Place .
 
-geonames:2749336 a schema1:Place .
+geonames:2749336 a schema:Place .
 
-geonames:2749440 a schema1:Place .
+geonames:2749440 a schema:Place .
 
-geonames:2749450 a schema1:Place .
+geonames:2749450 a schema:Place .
 
-geonames:2749461 a schema1:Place .
+geonames:2749461 a schema:Place .
 
-geonames:2749723 a schema1:Place .
+geonames:2749723 a schema:Place .
 
-geonames:2749945 a schema1:Place .
+geonames:2749945 a schema:Place .
 
-geonames:2750035 a schema1:Place .
+geonames:2750035 a schema:Place .
 
-geonames:2750039 a schema1:Place ;
-    schema1:containsPlace geonames:2750025 .
+geonames:2750039 a schema:Place ;
+    schema:containsPlace geonames:2750025 .
 
-geonames:2750064 a schema1:Place ;
-    schema1:containsPlace geonames:2750065,
+geonames:2750064 a schema:Place ;
+    schema:containsPlace geonames:2750065,
         geonames:2753987 .
 
-geonames:2750081 a schema1:Place .
+geonames:2750081 a schema:Place .
 
-geonames:2750254 a schema1:Place .
+geonames:2750254 a schema:Place .
 
-geonames:2750404 a schema1:Place .
+geonames:2750404 a schema:Place .
 
-geonames:2750517 a schema1:Place .
+geonames:2750517 a schema:Place .
 
-geonames:2750621 a schema1:Place .
+geonames:2750621 a schema:Place .
 
-geonames:2750653 a schema1:Place .
+geonames:2750653 a schema:Place .
 
-geonames:2750821 a schema1:Place .
+geonames:2750821 a schema:Place .
 
-geonames:2750889 a schema1:Place .
+geonames:2750889 a schema:Place .
 
-geonames:2751076 a schema1:Place .
+geonames:2751076 a schema:Place .
 
-geonames:2751087 a schema1:Place .
+geonames:2751087 a schema:Place .
 
-geonames:2751106 a schema1:Place .
+geonames:2751106 a schema:Place .
 
-geonames:2751312 a schema1:Place .
+geonames:2751312 a schema:Place .
 
-geonames:2751435 a schema1:Place .
+geonames:2751435 a schema:Place .
 
-geonames:2751517 a schema1:Place .
+geonames:2751517 a schema:Place .
 
-geonames:2751572 a schema1:Place .
+geonames:2751572 a schema:Place .
 
-geonames:2751607 a schema1:Place .
+geonames:2751607 a schema:Place .
 
-geonames:2751744 a schema1:Place .
+geonames:2751744 a schema:Place .
 
-geonames:2751873 a schema1:Place .
+geonames:2751873 a schema:Place .
 
-geonames:2752018 a schema1:Place .
+geonames:2752018 a schema:Place .
 
-geonames:2752105 a schema1:Place .
+geonames:2752105 a schema:Place .
 
-geonames:2752262 a schema1:Place .
+geonames:2752262 a schema:Place .
 
-geonames:2752828 a schema1:Place .
+geonames:2752828 a schema:Place .
 
-geonames:2752922 a schema1:Place ;
-    schema1:containsPlace geonames:2752923,
+geonames:2752922 a schema:Place ;
+    schema:containsPlace geonames:2752923,
         geonames:2753615 .
 
-geonames:2753013 a schema1:Place .
+geonames:2753013 a schema:Place .
 
-geonames:2753095 a schema1:Place .
+geonames:2753095 a schema:Place .
 
-geonames:2753141 a schema1:Place .
+geonames:2753141 a schema:Place .
 
-geonames:2753156 a schema1:Place .
+geonames:2753156 a schema:Place .
 
-geonames:2753354 a schema1:Place ;
-    schema1:containsPlace geonames:2753355 .
+geonames:2753354 a schema:Place ;
+    schema:containsPlace geonames:2753355 .
 
-geonames:2753355 a schema1:Place .
+geonames:2753355 a schema:Place .
 
-geonames:2753376 a schema1:Place .
+geonames:2753376 a schema:Place .
 
-geonames:2753377 a schema1:Place .
+geonames:2753377 a schema:Place .
 
-geonames:2753379 a schema1:Place .
+geonames:2753379 a schema:Place .
 
-geonames:2753488 a schema1:Place .
+geonames:2753488 a schema:Place .
 
-geonames:2753489 a schema1:Place .
+geonames:2753489 a schema:Place .
 
-geonames:2753615 a schema1:Place .
+geonames:2753615 a schema:Place .
 
-geonames:2753663 a schema1:Place .
+geonames:2753663 a schema:Place .
 
-geonames:2753666 a schema1:Place .
+geonames:2753666 a schema:Place .
 
-geonames:2753681 a schema1:Place .
+geonames:2753681 a schema:Place .
 
-geonames:2753815 a schema1:Place .
+geonames:2753815 a schema:Place .
 
-geonames:2753871 a schema1:Place .
+geonames:2753871 a schema:Place .
 
-geonames:2753874 a schema1:Place .
+geonames:2753874 a schema:Place .
 
-geonames:2753910 a schema1:Place .
+geonames:2753910 a schema:Place .
 
-geonames:2754004 a schema1:Place .
+geonames:2754004 a schema:Place .
 
-geonames:2754007 a schema1:Place .
+geonames:2754007 a schema:Place .
 
-geonames:2754014 a schema1:Place .
+geonames:2754014 a schema:Place .
 
-geonames:2754121 a schema1:Place .
+geonames:2754121 a schema:Place .
 
-geonames:2754296 a schema1:Place .
+geonames:2754296 a schema:Place .
 
-geonames:2754602 a schema1:Place .
+geonames:2754602 a schema:Place .
 
-geonames:2754752 a schema1:Place .
+geonames:2754752 a schema:Place .
 
-geonames:2754861 a schema1:Place .
+geonames:2754861 a schema:Place .
 
-geonames:2754952 a schema1:Place .
+geonames:2754952 a schema:Place .
 
-geonames:2754981 a schema1:Place .
+geonames:2754981 a schema:Place .
 
-geonames:2755002 a schema1:Place ;
-    schema1:containsPlace geonames:2754692,
+geonames:2755002 a schema:Place ;
+    schema:containsPlace geonames:2754692,
         geonames:2755003 .
 
-geonames:2755023 a schema1:Place .
+geonames:2755023 a schema:Place .
 
-geonames:2755041 a schema1:Place .
+geonames:2755041 a schema:Place .
 
-geonames:2755302 a schema1:Place .
+geonames:2755302 a schema:Place .
 
-geonames:2755358 a schema1:Place .
+geonames:2755358 a schema:Place .
 
-geonames:2755408 a schema1:Place .
+geonames:2755408 a schema:Place .
 
-geonames:2755419 a schema1:Place ;
-    schema1:containsPlace geonames:2755420 .
+geonames:2755419 a schema:Place ;
+    schema:containsPlace geonames:2755420 .
 
-geonames:2755664 a schema1:Place .
+geonames:2755664 a schema:Place .
 
-geonames:2755669 a schema1:Place .
+geonames:2755669 a schema:Place .
 
-geonames:2755774 a schema1:Place .
+geonames:2755774 a schema:Place .
 
-geonames:2755989 a schema1:Place .
+geonames:2755989 a schema:Place .
 
-geonames:2755996 a schema1:Place .
+geonames:2755996 a schema:Place .
 
-geonames:2756004 a schema1:Place .
+geonames:2756004 a schema:Place .
 
-geonames:2756070 a schema1:Place ;
-    schema1:containsPlace geonames:2756071,
+geonames:2756070 a schema:Place ;
+    schema:containsPlace geonames:2756071,
         geonames:2758755 .
 
-geonames:2756203 a schema1:Place .
+geonames:2756203 a schema:Place .
 
-geonames:2756242 a schema1:Place .
+geonames:2756242 a schema:Place .
 
-geonames:2756252 a schema1:Place ;
-    schema1:containsPlace geonames:2744849,
+geonames:2756252 a schema:Place ;
+    schema:containsPlace geonames:2744849,
         geonames:2754296,
         geonames:2756253,
         geonames:2760050 .
 
-geonames:2756444 a schema1:Place .
+geonames:2756444 a schema:Place .
 
-geonames:2756472 a schema1:Place .
+geonames:2756472 a schema:Place .
 
-geonames:2756620 a schema1:Place .
+geonames:2756620 a schema:Place .
 
-geonames:2756741 a schema1:Place .
+geonames:2756741 a schema:Place .
 
-geonames:2756759 a schema1:Place .
+geonames:2756759 a schema:Place .
 
-geonames:2756777 a schema1:Place .
+geonames:2756777 a schema:Place .
 
-geonames:2756875 a schema1:Place .
+geonames:2756875 a schema:Place .
 
-geonames:2757344 a schema1:Place ;
-    schema1:containsPlace geonames:2757345,
+geonames:2757344 a schema:Place ;
+    schema:containsPlace geonames:2757345,
         geonames:2757348 .
 
-geonames:2757347 a schema1:Place .
+geonames:2757347 a schema:Place .
 
-geonames:2757348 a schema1:Place .
+geonames:2757348 a schema:Place .
 
-geonames:2757349 a schema1:Place .
+geonames:2757349 a schema:Place .
 
-geonames:2757370 a schema1:Place .
+geonames:2757370 a schema:Place .
 
-geonames:2757376 a schema1:Place .
+geonames:2757376 a schema:Place .
 
-geonames:2757561 a schema1:Place .
+geonames:2757561 a schema:Place .
 
-geonames:2757715 a schema1:Place .
+geonames:2757715 a schema:Place .
 
-geonames:2757799 a schema1:Place .
+geonames:2757799 a schema:Place .
 
-geonames:2757874 a schema1:Place .
+geonames:2757874 a schema:Place .
 
-geonames:2758012 a schema1:Place .
+geonames:2758012 a schema:Place .
 
-geonames:2758186 a schema1:Place .
+geonames:2758186 a schema:Place .
 
-geonames:2758213 a schema1:Place .
+geonames:2758213 a schema:Place .
 
-geonames:2758326 a schema1:Place .
+geonames:2758326 a schema:Place .
 
-geonames:2758329 a schema1:Place .
+geonames:2758329 a schema:Place .
 
-geonames:2758462 a schema1:Place .
+geonames:2758462 a schema:Place .
 
-geonames:2758564 a schema1:Place .
+geonames:2758564 a schema:Place .
 
-geonames:2758621 a schema1:Place .
+geonames:2758621 a schema:Place .
 
-geonames:2758673 a schema1:Place .
+geonames:2758673 a schema:Place .
 
-geonames:2758755 a schema1:Place .
+geonames:2758755 a schema:Place .
 
-geonames:2758765 a schema1:Place .
+geonames:2758765 a schema:Place .
 
-geonames:2758786 a schema1:Place .
+geonames:2758786 a schema:Place .
 
-geonames:2758802 a schema1:Place ;
-    schema1:containsPlace geonames:2748813,
+geonames:2758802 a schema:Place ;
+    schema:containsPlace geonames:2748813,
         geonames:2758804,
         geonames:2759951 .
 
-geonames:2758898 a schema1:Place .
+geonames:2758898 a schema:Place .
 
-geonames:2758927 a schema1:Place .
+geonames:2758927 a schema:Place .
 
-geonames:2758979 a schema1:Place .
+geonames:2758979 a schema:Place .
 
-geonames:2759129 a schema1:Place .
+geonames:2759129 a schema:Place .
 
-geonames:2759144 a schema1:Place ;
-    schema1:containsPlace geonames:2759145 .
+geonames:2759144 a schema:Place ;
+    schema:containsPlace geonames:2759145 .
 
-geonames:2759259 a schema1:Place .
+geonames:2759259 a schema:Place .
 
-geonames:2759271 a schema1:Place .
+geonames:2759271 a schema:Place .
 
-geonames:2759303 a schema1:Place .
+geonames:2759303 a schema:Place .
 
-geonames:2759309 a schema1:Place .
+geonames:2759309 a schema:Place .
 
-geonames:2759524 a schema1:Place .
+geonames:2759524 a schema:Place .
 
-geonames:2759572 a schema1:Place .
+geonames:2759572 a schema:Place .
 
-geonames:2759684 a schema1:Place .
+geonames:2759684 a schema:Place .
 
-geonames:2759705 a schema1:Place ;
-    schema1:containsPlace geonames:2754004,
+geonames:2759705 a schema:Place ;
+    schema:containsPlace geonames:2754004,
         geonames:2759706,
         geonames:6621506,
         geonames:6951179,
         geonames:6957592,
         geonames:8063319 .
 
-geonames:2759797 a schema1:Place ;
-    schema1:containsPlace geonames:2759798 .
+geonames:2759797 a schema:Place ;
+    schema:containsPlace geonames:2759798 .
 
-geonames:2759802 a schema1:Place .
+geonames:2759802 a schema:Place .
 
-geonames:2759824 a schema1:Place .
+geonames:2759824 a schema:Place .
 
-geonames:2759838 a schema1:Place .
+geonames:2759838 a schema:Place .
 
-geonames:2759874 a schema1:Place ;
-    schema1:containsPlace geonames:2754724,
+geonames:2759874 a schema:Place ;
+    schema:containsPlace geonames:2754724,
         geonames:2758547,
         geonames:2759875 .
 
-geonames:2759951 a schema1:Place .
+geonames:2759951 a schema:Place .
 
-geonames:2760050 a schema1:Place .
+geonames:2760050 a schema:Place .
 
-geonames:2760073 a schema1:Place .
+geonames:2760073 a schema:Place .
 
-geonames:2761369 a schema1:Place .
+geonames:2761369 a schema:Place .
 
-geonames:2783310 a schema1:Place .
+geonames:2783310 a schema:Place .
 
-geonames:2783632 a schema1:Place .
+geonames:2783632 a schema:Place .
 
-geonames:2789733 a schema1:Place ;
-    schema1:containsPlace geonames:2797655 .
+geonames:2789733 a schema:Place ;
+    schema:containsPlace geonames:2797655 .
 
-geonames:2791535 a schema1:Place .
+geonames:2791535 a schema:Place .
 
-geonames:2792348 a schema1:Place .
+geonames:2792348 a schema:Place .
 
-geonames:2792411 a schema1:Place ;
-    schema1:containsPlace geonames:2784820 .
+geonames:2792411 a schema:Place ;
+    schema:containsPlace geonames:2784820 .
 
-geonames:2794055 a schema1:Place .
+geonames:2794055 a schema:Place .
 
-geonames:2797656 a schema1:Place .
+geonames:2797656 a schema:Place .
 
-geonames:2803095 a schema1:Place .
+geonames:2803095 a schema:Place .
 
-geonames:2810538 a schema1:Place .
+geonames:2810538 a schema:Place .
 
-geonames:2813472 a schema1:Place .
+geonames:2813472 a schema:Place .
 
-geonames:2822542 a schema1:Place .
+geonames:2822542 a schema:Place .
 
-geonames:2823568 a schema1:Place .
+geonames:2823568 a schema:Place .
 
-geonames:2842566 a schema1:Place ;
-    schema1:containsPlace geonames:3305808 .
+geonames:2842566 a schema:Place ;
+    schema:containsPlace geonames:3305808 .
 
-geonames:2842569 a schema1:Place .
+geonames:2842569 a schema:Place .
 
-geonames:2842635 a schema1:Place .
+geonames:2842635 a schema:Place .
 
-geonames:2847618 a schema1:Place ;
-    schema1:containsPlace geonames:2821160,
+geonames:2847618 a schema:Place ;
+    schema:containsPlace geonames:2821160,
         geonames:3247911 .
 
-geonames:2847676 a schema1:Place .
+geonames:2847676 a schema:Place .
 
-geonames:2852456 a schema1:Place .
+geonames:2852456 a schema:Place .
 
-geonames:2855525 a schema1:Place .
+geonames:2855525 a schema:Place .
 
-geonames:2856304 a schema1:Place .
+geonames:2856304 a schema:Place .
 
-geonames:2861934 a schema1:Place .
+geonames:2861934 a schema:Place .
 
-geonames:2864692 a schema1:Place .
+geonames:2864692 a schema:Place .
 
-geonames:2867714 a schema1:Place .
+geonames:2867714 a schema:Place .
 
-geonames:2873891 a schema1:Place .
+geonames:2873891 a schema:Place .
 
-geonames:2879697 a schema1:Place .
+geonames:2879697 a schema:Place .
 
-geonames:2892794 a schema1:Place .
+geonames:2892794 a schema:Place .
 
-geonames:2905330 a schema1:Place ;
-    schema1:containsPlace geonames:2938912 .
+geonames:2905330 a schema:Place ;
+    schema:containsPlace geonames:2938912 .
 
-geonames:2905929 a schema1:Place .
+geonames:2905929 a schema:Place .
 
-geonames:2908638 a schema1:Place .
+geonames:2908638 a schema:Place .
 
-geonames:2917788 a schema1:Place .
+geonames:2917788 a schema:Place .
 
-geonames:2924573 a schema1:Place .
+geonames:2924573 a schema:Place .
 
-geonames:2925177 a schema1:Place .
+geonames:2925177 a schema:Place .
 
-geonames:2930509 a schema1:Place .
+geonames:2930509 a schema:Place .
 
-geonames:2934246 a schema1:Place .
+geonames:2934246 a schema:Place .
 
-geonames:2938124 a schema1:Place .
+geonames:2938124 a schema:Place .
 
-geonames:2944388 a schema1:Place .
+geonames:2944388 a schema:Place .
 
-geonames:2945024 a schema1:Place .
+geonames:2945024 a schema:Place .
 
-geonames:294640 a schema1:Place .
+geonames:294640 a schema:Place .
 
-geonames:2946447 a schema1:Place .
+geonames:2946447 a schema:Place .
 
-geonames:2954695 a schema1:Place .
+geonames:2954695 a schema:Place .
 
-geonames:2956005 a schema1:Place .
+geonames:2956005 a schema:Place .
 
-geonames:2958141 a schema1:Place .
+geonames:2958141 a schema:Place .
 
-geonames:2958781 a schema1:Place .
+geonames:2958781 a schema:Place .
 
-geonames:2960313 a schema1:Place ;
-    schema1:containsPlace geonames:2960315 .
+geonames:2960313 a schema:Place ;
+    schema:containsPlace geonames:2960315 .
 
-geonames:2960316 a schema1:Place .
+geonames:2960316 a schema:Place .
 
-geonames:2968601 a schema1:Place .
+geonames:2968601 a schema:Place .
 
-geonames:2969718 a schema1:Place .
+geonames:2969718 a schema:Place .
 
-geonames:2970092 a schema1:Place .
+geonames:2970092 a schema:Place .
 
-geonames:2973362 a schema1:Place ;
-    schema1:containsPlace geonames:3028260,
+geonames:2973362 a schema:Place ;
+    schema:containsPlace geonames:3028260,
         geonames:3038260 .
 
-geonames:2973699 a schema1:Place .
+geonames:2973699 a schema:Place .
 
-geonames:2973783 a schema1:Place .
+geonames:2973783 a schema:Place .
 
-geonames:2975349 a schema1:Place .
+geonames:2975349 a schema:Place .
 
-geonames:2991214 a schema1:Place .
+geonames:2991214 a schema:Place .
 
-geonames:2992166 a schema1:Place .
+geonames:2992166 a schema:Place .
 
-geonames:2993809 a schema1:Place .
+geonames:2993809 a schema:Place .
 
-geonames:2993955 a schema1:Place .
+geonames:2993955 a schema:Place .
 
-geonames:2995469 a schema1:Place .
+geonames:2995469 a schema:Place .
 
-geonames:2997550 a schema1:Place .
+geonames:2997550 a schema:Place .
 
-geonames:3000364 a schema1:Place .
+geonames:3000364 a schema:Place .
 
-geonames:3007669 a schema1:Place .
+geonames:3007669 a schema:Place .
 
-geonames:3007671 a schema1:Place .
+geonames:3007671 a schema:Place .
 
-geonames:3010564 a schema1:Place .
+geonames:3010564 a schema:Place .
 
-geonames:3013501 a schema1:Place .
+geonames:3013501 a schema:Place .
 
-geonames:3016667 a schema1:Place .
+geonames:3016667 a schema:Place .
 
-geonames:3020686 a schema1:Place .
+geonames:3020686 a schema:Place .
 
-geonames:3021356 a schema1:Place .
+geonames:3021356 a schema:Place .
 
-geonames:3023872 a schema1:Place .
+geonames:3023872 a schema:Place .
 
-geonames:3024297 a schema1:Place .
+geonames:3024297 a schema:Place .
 
-geonames:3028342 a schema1:Place .
+geonames:3028342 a schema:Place .
 
-geonames:3028404 a schema1:Place .
+geonames:3028404 a schema:Place .
 
-geonames:3031359 a schema1:Place ;
-    schema1:containsPlace geonames:2995468,
+geonames:3031359 a schema:Place ;
+    schema:containsPlace geonames:2995468,
         geonames:3038353 .
 
-geonames:3035404 a schema1:Place .
+geonames:3035404 a schema:Place .
 
-geonames:3037349 a schema1:Place .
+geonames:3037349 a schema:Place .
 
-geonames:3038032 a schema1:Place .
+geonames:3038032 a schema:Place .
 
-geonames:3055744 a schema1:Place .
+geonames:3055744 a schema:Place .
 
-geonames:3057568 a schema1:Place .
+geonames:3057568 a schema:Place .
 
-geonames:3077311 a schema1:Place ;
-    schema1:containsPlace geonames:3067695 .
+geonames:3077311 a schema:Place ;
+    schema:containsPlace geonames:3067695 .
 
-geonames:3093133 a schema1:Place .
+geonames:3093133 a schema:Place .
 
-geonames:3108287 a schema1:Place ;
-    schema1:containsPlace geonames:6361390 .
+geonames:3108287 a schema:Place ;
+    schema:containsPlace geonames:6361390 .
 
-geonames:3108288 a schema1:Place .
+geonames:3108288 a schema:Place .
 
-geonames:3111199 a schema1:Place .
+geonames:3111199 a schema:Place .
 
-geonames:3121557 a schema1:Place .
+geonames:3121557 a schema:Place .
 
-geonames:3164418 a schema1:Place .
+geonames:3164418 a schema:Place .
 
-geonames:3164564 a schema1:Place .
+geonames:3164564 a schema:Place .
 
-geonames:3165524 a schema1:Place .
+geonames:3165524 a schema:Place .
 
-geonames:3169778 a schema1:Place ;
-    schema1:containsPlace geonames:13494733,
+geonames:3169778 a schema:Place ;
+    schema:containsPlace geonames:13494733,
         geonames:3165924,
         geonames:3174952,
         geonames:3181526,
         geonames:3182350 .
 
-geonames:3169921 a schema1:Place .
+geonames:3169921 a schema:Place .
 
-geonames:3173435 a schema1:Place .
+geonames:3173435 a schema:Place .
 
-geonames:3173841 a schema1:Place .
+geonames:3173841 a schema:Place .
 
-geonames:3174641 a schema1:Place .
+geonames:3174641 a schema:Place .
 
-geonames:3174953 a schema1:Place .
+geonames:3174953 a schema:Place .
 
-geonames:3176219 a schema1:Place .
+geonames:3176219 a schema:Place .
 
-geonames:3178630 a schema1:Place .
+geonames:3178630 a schema:Place .
 
-geonames:3182043 a schema1:Place .
+geonames:3182043 a schema:Place .
 
-geonames:3182163 a schema1:Place .
+geonames:3182163 a schema:Place .
 
-geonames:3182351 a schema1:Place .
+geonames:3182351 a schema:Place .
 
-geonames:3182882 a schema1:Place .
+geonames:3182882 a schema:Place .
 
-geonames:3183330 a schema1:Place .
+geonames:3183330 a schema:Place .
 
-geonames:3207074 a schema1:Place .
+geonames:3207074 a schema:Place .
 
-geonames:3221073 a schema1:Place ;
-    schema1:containsPlace geonames:6557467 .
+geonames:3221073 a schema:Place ;
+    schema:containsPlace geonames:6557467 .
 
-geonames:3247449 a schema1:Place .
+geonames:3247449 a schema:Place .
 
-geonames:3309774 a schema1:Place .
+geonames:3309774 a schema:Place .
 
-geonames:3412645 a schema1:Place .
+geonames:3412645 a schema:Place .
 
-geonames:3413201 a schema1:Place .
+geonames:3413201 a schema:Place .
 
-geonames:3413829 a schema1:Place .
+geonames:3413829 a schema:Place .
 
-geonames:3469034 a schema1:Place ;
-    schema1:containsPlace geonames:3665361 .
+geonames:3469034 a schema:Place ;
+    schema:containsPlace geonames:3665361 .
 
-geonames:3513090 a schema1:Place .
+geonames:3513090 a schema:Place .
 
-geonames:3515484 a schema1:Place .
+geonames:3515484 a schema:Place .
 
-geonames:3517812 a schema1:Place .
+geonames:3517812 a schema:Place .
 
-geonames:3532497 a schema1:Place .
+geonames:3532497 a schema:Place .
 
-geonames:3577279 a schema1:Place .
+geonames:3577279 a schema:Place .
 
-geonames:3625428 a schema1:Place .
+geonames:3625428 a schema:Place .
 
-geonames:3665361 a schema1:Place .
+geonames:3665361 a schema:Place .
 
-geonames:3801591 a schema1:Place .
+geonames:3801591 a schema:Place .
 
-geonames:3816728 a schema1:Place .
+geonames:3816728 a schema:Place .
 
-geonames:3911559 a schema1:Place .
+geonames:3911559 a schema:Place .
 
-geonames:3911925 a schema1:Place .
+geonames:3911925 a schema:Place .
 
-geonames:3923057 a schema1:Place ;
-    schema1:containsPlace geonames:3908600,
+geonames:3923057 a schema:Place ;
+    schema:containsPlace geonames:3908600,
         geonames:3911924,
         geonames:3923172 .
 
-geonames:3923387 a schema1:Place .
+geonames:3923387 a schema:Place .
 
-geonames:4014336 a schema1:Place .
+geonames:4014336 a schema:Place .
 
-geonames:4140963 a schema1:Place .
+geonames:4140963 a schema:Place .
 
-geonames:4155751 a schema1:Place .
+geonames:4155751 a schema:Place .
 
-geonames:4331987 a schema1:Place ;
-    schema1:containsPlace geonames:4335045,
+geonames:4331987 a schema:Place ;
+    schema:containsPlace geonames:4335045,
         geonames:4336191 .
 
-geonames:4347778 a schema1:Place .
+geonames:4347778 a schema:Place .
 
-geonames:4436296 a schema1:Place .
+geonames:4436296 a schema:Place .
 
-geonames:4482348 a schema1:Place .
+geonames:4482348 a schema:Place .
 
-geonames:453733 a schema1:Place ;
-    schema1:containsPlace geonames:588334,
+geonames:453733 a schema:Place ;
+    schema:containsPlace geonames:588334,
         geonames:590854,
         geonames:592075,
         geonames:592170 .
 
-geonames:4662168 a schema1:Place .
+geonames:4662168 a schema:Place .
 
-geonames:472757 a schema1:Place .
+geonames:472757 a schema:Place .
 
-geonames:4736286 a schema1:Place .
+geonames:4736286 a schema:Place .
 
-geonames:4829764 a schema1:Place ;
-    schema1:containsPlace geonames:12217079,
+geonames:4829764 a schema:Place ;
+    schema:containsPlace geonames:12217079,
         geonames:4049979,
         geonames:4069696 .
 
-geonames:4896861 a schema1:Place .
+geonames:4896861 a schema:Place .
 
-geonames:4930956 a schema1:Place .
+geonames:4930956 a schema:Place .
 
-geonames:498817 a schema1:Place .
+geonames:498817 a schema:Place .
 
-geonames:5101760 a schema1:Place .
+geonames:5101760 a schema:Place .
 
-geonames:5125771 a schema1:Place .
+geonames:5125771 a schema:Place .
 
-geonames:5128581 a schema1:Place .
+geonames:5128581 a schema:Place .
 
-geonames:5128638 a schema1:Place ;
-    schema1:containsPlace geonames:5128581,
+geonames:5128638 a schema:Place ;
+    schema:containsPlace geonames:5128581,
         geonames:5128594 .
 
-geonames:524901 a schema1:Place .
+geonames:524901 a schema:Place .
 
-geonames:546554 a schema1:Place .
+geonames:546554 a schema:Place .
 
-geonames:5667009 a schema1:Place .
+geonames:5667009 a schema:Place .
 
-geonames:588334 a schema1:Place ;
-    schema1:containsPlace geonames:7522434 .
+geonames:588334 a schema:Place ;
+    schema:containsPlace geonames:7522434 .
 
-geonames:590031 a schema1:Place .
+geonames:590031 a schema:Place .
 
-geonames:590062 a schema1:Place .
+geonames:590062 a schema:Place .
 
-geonames:592075 a schema1:Place ;
-    schema1:containsPlace geonames:862990 .
+geonames:592075 a schema:Place ;
+    schema:containsPlace geonames:862990 .
 
-geonames:6167865 a schema1:Place .
+geonames:6167865 a schema:Place .
 
-geonames:6255150 a schema1:Place ;
-    schema1:containsPlace geonames:3382998,
+geonames:6255150 a schema:Place ;
+    schema:containsPlace geonames:3382998,
         geonames:3469034,
         geonames:3625428,
         geonames:3923057 .
 
-geonames:6355010 a schema1:Place .
+geonames:6355010 a schema:Place .
 
-geonames:6355015 a schema1:Place .
+geonames:6355015 a schema:Place .
 
-geonames:6426706 a schema1:Place .
+geonames:6426706 a schema:Place .
 
-geonames:6426739 a schema1:Place ;
-    schema1:containsPlace geonames:2995318 .
+geonames:6426739 a schema:Place ;
+    schema:containsPlace geonames:2995318 .
 
-geonames:6432640 a schema1:Place ;
-    schema1:containsPlace geonames:12315276 .
+geonames:6432640 a schema:Place ;
+    schema:containsPlace geonames:12315276 .
 
-geonames:6444977 a schema1:Place .
+geonames:6444977 a schema:Place .
 
-geonames:6447008 a schema1:Place .
+geonames:6447008 a schema:Place .
 
-geonames:6537572 a schema1:Place .
+geonames:6537572 a schema:Place .
 
-geonames:6538961 a schema1:Place .
+geonames:6538961 a schema:Place .
 
-geonames:6540025 a schema1:Place .
+geonames:6540025 a schema:Place .
 
-geonames:6544262 a schema1:Place .
+geonames:6544262 a schema:Place .
 
-geonames:6544296 a schema1:Place ;
-    schema1:containsPlace geonames:2747979,
+geonames:6544296 a schema:Place ;
+    schema:containsPlace geonames:2747979,
         geonames:2756242,
         geonames:2759838 .
 
-geonames:6544711 a schema1:Place .
+geonames:6544711 a schema:Place .
 
-geonames:6545173 a schema1:Place .
+geonames:6545173 a schema:Place .
 
-geonames:6545247 a schema1:Place .
+geonames:6545247 a schema:Place .
 
-geonames:6545249 a schema1:Place .
+geonames:6545249 a schema:Place .
 
-geonames:6545310 a schema1:Place .
+geonames:6545310 a schema:Place .
 
-geonames:6546108 a schema1:Place .
+geonames:6546108 a schema:Place .
 
-geonames:6554725 a schema1:Place ;
-    schema1:containsPlace geonames:2939214 .
+geonames:6554725 a schema:Place ;
+    schema:containsPlace geonames:2939214 .
 
-geonames:6557903 a schema1:Place ;
-    schema1:containsPlace geonames:2905929 .
+geonames:6557903 a schema:Place ;
+    schema:containsPlace geonames:2905929 .
 
-geonames:6621506 a schema1:Place .
+geonames:6621506 a schema:Place .
 
-geonames:664460 a schema1:Place .
+geonames:664460 a schema:Place .
 
-geonames:668442 a schema1:Place .
+geonames:668442 a schema:Place .
 
-geonames:6690989 a schema1:Place .
+geonames:6690989 a schema:Place .
 
-geonames:6692534 a schema1:Place .
+geonames:6692534 a schema:Place .
 
-geonames:6695503 a schema1:Place .
+geonames:6695503 a schema:Place .
 
-geonames:670343 a schema1:Place .
+geonames:670343 a schema:Place .
 
-geonames:676056 a schema1:Place .
+geonames:676056 a schema:Place .
 
-geonames:681291 a schema1:Place ;
-    schema1:containsPlace geonames:664453 .
+geonames:681291 a schema:Place ;
+    schema:containsPlace geonames:664453 .
 
-geonames:683506 a schema1:Place .
+geonames:683506 a schema:Place .
 
-geonames:6843496 a schema1:Place .
+geonames:6843496 a schema:Place .
 
-geonames:686581 a schema1:Place ;
-    schema1:containsPlace geonames:8299637 .
+geonames:686581 a schema:Place ;
+    schema:containsPlace geonames:8299637 .
 
-geonames:686590 a schema1:Place .
+geonames:686590 a schema:Place .
 
-geonames:690791 a schema1:Place .
+geonames:690791 a schema:Place .
 
-geonames:6940309 a schema1:Place .
+geonames:6940309 a schema:Place .
 
-geonames:6951179 a schema1:Place .
+geonames:6951179 a schema:Place .
 
-geonames:6954190 a schema1:Place .
+geonames:6954190 a schema:Place .
 
-geonames:6957592 a schema1:Place .
+geonames:6957592 a schema:Place .
 
-geonames:721159 a schema1:Place .
+geonames:721159 a schema:Place .
 
-geonames:722437 a schema1:Place .
+geonames:722437 a schema:Place .
 
-geonames:7302129 a schema1:Place .
+geonames:7302129 a schema:Place .
 
-geonames:7531926 a schema1:Place ;
-    schema1:containsPlace geonames:756135 .
+geonames:7531926 a schema:Place ;
+    schema:containsPlace geonames:756135 .
 
-geonames:7626836 a schema1:Place ;
-    schema1:containsPlace geonames:3513090,
+geonames:7626836 a schema:Place ;
+    schema:containsPlace geonames:3513090,
         geonames:3513790 .
 
-geonames:7648380 a schema1:Place .
+geonames:7648380 a schema:Place .
 
-geonames:7648381 a schema1:Place .
+geonames:7648381 a schema:Place .
 
-geonames:7669241 a schema1:Place .
+geonames:7669241 a schema:Place .
 
-geonames:784272 a schema1:Place .
+geonames:784272 a schema:Place .
 
-geonames:7873874 a schema1:Place .
+geonames:7873874 a schema:Place .
 
-geonames:8063319 a schema1:Place .
+geonames:8063319 a schema:Place .
 
-geonames:831053 a schema1:Place .
+geonames:831053 a schema:Place .
 
-geonames:8449743 a schema1:Place .
+geonames:8449743 a schema:Place .
 
-geonames:8505032 a schema1:Place .
+geonames:8505032 a schema:Place .
 
-geonames:8583671 a schema1:Place .
+geonames:8583671 a schema:Place .
 
-geonames:8583809 a schema1:Place .
+geonames:8583809 a schema:Place .
 
-geonames:8667760 a schema1:Place .
+geonames:8667760 a schema:Place .
 
-geonames:8952857 a schema1:Place .
+geonames:8952857 a schema:Place .
 
-geonames:9884104 a schema1:Place .
+geonames:9884104 a schema:Place .
 
 unesco:concept10018 a skos:Concept ;
     skos:broader unesco:concept197 .
@@ -25966,163 +25966,163 @@ unesco:mt6.35 a skos:Concept .
 
 unesco:mt6.70 a skos:Concept .
 
-geonames:11524800 a schema1:Place .
+geonames:11524800 a schema:Place .
 
-geonames:11525079 a schema1:Place .
+geonames:11525079 a schema:Place .
 
-geonames:11525083 a schema1:Place .
+geonames:11525083 a schema:Place .
 
-geonames:11809779 a schema1:Place .
+geonames:11809779 a schema:Place .
 
-geonames:11964397 a schema1:Place .
+geonames:11964397 a schema:Place .
 
-geonames:12022127 a schema1:Place ;
-    schema1:containsPlace geonames:2746162,
+geonames:12022127 a schema:Place ;
+    schema:containsPlace geonames:2746162,
         geonames:2751143,
         geonames:2754150,
         geonames:2758052,
         geonames:2759288,
         geonames:2759643 .
 
-geonames:12022128 a schema1:Place ;
-    schema1:containsPlace geonames:2744156 .
+geonames:12022128 a schema:Place ;
+    schema:containsPlace geonames:2744156 .
 
-geonames:12217079 a schema1:Place .
+geonames:12217079 a schema:Place .
 
-geonames:12312667 a schema1:Place .
+geonames:12312667 a schema:Place .
 
-geonames:1643084 a schema1:Place .
+geonames:1643084 a schema:Place .
 
-geonames:1733038 a schema1:Place ;
-    schema1:containsPlace geonames:1734504,
+geonames:1733038 a schema:Place ;
+    schema:containsPlace geonames:1734504,
         geonames:1737979,
         geonames:1738079,
         geonames:1966740 .
 
-geonames:1733045 a schema1:Place ;
-    schema1:containsPlace geonames:1733038,
+geonames:1733045 a schema:Place ;
+    schema:containsPlace geonames:1733038,
         geonames:1733039 .
 
-geonames:178214 a schema1:Place .
+geonames:178214 a schema:Place .
 
-geonames:1814991 a schema1:Place .
+geonames:1814991 a schema:Place .
 
-geonames:183015 a schema1:Place .
+geonames:183015 a schema:Place .
 
-geonames:1835848 a schema1:Place .
+geonames:1835848 a schema:Place .
 
-geonames:1838524 a schema1:Place .
+geonames:1838524 a schema:Place .
 
-geonames:1843564 a schema1:Place .
+geonames:1843564 a schema:Place .
 
-geonames:184707 a schema1:Place .
+geonames:184707 a schema:Place .
 
-geonames:184745 a schema1:Place .
+geonames:184745 a schema:Place .
 
-geonames:1866923 a schema1:Place .
+geonames:1866923 a schema:Place .
 
-geonames:187506 a schema1:Place .
+geonames:187506 a schema:Place .
 
-geonames:193906 a schema1:Place .
+geonames:193906 a schema:Place .
 
-geonames:2233387 a schema1:Place ;
-    schema1:containsPlace geonames:2223603,
+geonames:2233387 a schema:Place ;
+    schema:containsPlace geonames:2223603,
         geonames:2231755 .
 
-geonames:2272034 a schema1:Place .
+geonames:2272034 a schema:Place .
 
-geonames:2273468 a schema1:Place .
+geonames:2273468 a schema:Place .
 
-geonames:2274372 a schema1:Place .
+geonames:2274372 a schema:Place .
 
-geonames:2274869 a schema1:Place .
+geonames:2274869 a schema:Place .
 
-geonames:2276086 a schema1:Place .
+geonames:2276086 a schema:Place .
 
-geonames:2277346 a schema1:Place .
+geonames:2277346 a schema:Place .
 
-geonames:2278326 a schema1:Place .
+geonames:2278326 a schema:Place .
 
-geonames:2298423 a schema1:Place .
+geonames:2298423 a schema:Place .
 
-geonames:2301174 a schema1:Place .
+geonames:2301174 a schema:Place .
 
-geonames:2449060 a schema1:Place .
+geonames:2449060 a schema:Place .
 
-geonames:2459176 a schema1:Place .
+geonames:2459176 a schema:Place .
 
-geonames:2464470 a schema1:Place .
+geonames:2464470 a schema:Place .
 
-geonames:2468244 a schema1:Place .
+geonames:2468244 a schema:Place .
 
-geonames:2542007 a schema1:Place ;
-    schema1:containsPlace geonames:11281877,
+geonames:2542007 a schema:Place ;
+    schema:containsPlace geonames:11281877,
         geonames:11281879 .
 
-geonames:2623032 a schema1:Place ;
-    schema1:containsPlace geonames:6418538 .
+geonames:2623032 a schema:Place ;
+    schema:containsPlace geonames:6418538 .
 
-geonames:2635608 a schema1:Place .
+geonames:2635608 a schema:Place .
 
-geonames:2636561 a schema1:Place ;
-    schema1:containsPlace geonames:2645074,
+geonames:2636561 a schema:Place ;
+    schema:containsPlace geonames:2645074,
         geonames:2646302,
         geonames:2649217,
         geonames:2654186,
         geonames:7290636 .
 
-geonames:2637221 a schema1:Place .
+geonames:2637221 a schema:Place .
 
-geonames:2637438 a schema1:Place .
+geonames:2637438 a schema:Place .
 
-geonames:2637825 a schema1:Place .
+geonames:2637825 a schema:Place .
 
-geonames:2645074 a schema1:Place .
+geonames:2645074 a schema:Place .
 
-geonames:2646302 a schema1:Place .
+geonames:2646302 a schema:Place .
 
-geonames:2654186 a schema1:Place .
+geonames:2654186 a schema:Place .
 
-geonames:2661604 a schema1:Place .
+geonames:2661604 a schema:Place .
 
-geonames:2722708 a schema1:Place .
+geonames:2722708 a schema:Place .
 
-geonames:2743476 a schema1:Place ;
-    schema1:containsPlace geonames:2743477 .
+geonames:2743476 a schema:Place ;
+    schema:containsPlace geonames:2743477 .
 
-geonames:2743518 a schema1:Place .
+geonames:2743518 a schema:Place .
 
-geonames:2743855 a schema1:Place ;
-    schema1:containsPlace geonames:2743856 .
+geonames:2743855 a schema:Place ;
+    schema:containsPlace geonames:2743856 .
 
-geonames:2744000 a schema1:Place .
+geonames:2744000 a schema:Place .
 
-geonames:2744042 a schema1:Place .
+geonames:2744042 a schema:Place .
 
-geonames:2744113 a schema1:Place .
+geonames:2744113 a schema:Place .
 
-geonames:2744179 a schema1:Place .
+geonames:2744179 a schema:Place .
 
-geonames:2744422 a schema1:Place .
+geonames:2744422 a schema:Place .
 
-geonames:2744633 a schema1:Place .
+geonames:2744633 a schema:Place .
 
-geonames:2744769 a schema1:Place .
+geonames:2744769 a schema:Place .
 
-geonames:2744904 a schema1:Place .
+geonames:2744904 a schema:Place .
 
-geonames:2744976 a schema1:Place .
+geonames:2744976 a schema:Place .
 
-geonames:2745005 a schema1:Place .
+geonames:2745005 a schema:Place .
 
-geonames:2745048 a schema1:Place .
+geonames:2745048 a schema:Place .
 
-geonames:2745077 a schema1:Place .
+geonames:2745077 a schema:Place .
 
-geonames:2745386 a schema1:Place .
+geonames:2745386 a schema:Place .
 
-geonames:2745538 a schema1:Place ;
-    schema1:containsPlace geonames:2745580,
+geonames:2745538 a schema:Place ;
+    schema:containsPlace geonames:2745580,
         geonames:2746322,
         geonames:2751048,
         geonames:2751808,
@@ -26130,342 +26130,342 @@ geonames:2745538 a schema1:Place ;
         geonames:2756890,
         geonames:2759849 .
 
-geonames:2745580 a schema1:Place .
+geonames:2745580 a schema:Place .
 
-geonames:2745704 a schema1:Place ;
-    schema1:containsPlace geonames:2745706 .
+geonames:2745704 a schema:Place ;
+    schema:containsPlace geonames:2745706 .
 
-geonames:2745706 a schema1:Place .
+geonames:2745706 a schema:Place .
 
-geonames:2745783 a schema1:Place .
+geonames:2745783 a schema:Place .
 
-geonames:2745972 a schema1:Place .
+geonames:2745972 a schema:Place .
 
-geonames:2746162 a schema1:Place .
+geonames:2746162 a schema:Place .
 
-geonames:2746222 a schema1:Place .
+geonames:2746222 a schema:Place .
 
-geonames:2746300 a schema1:Place ;
-    schema1:containsPlace geonames:2746301 .
+geonames:2746300 a schema:Place ;
+    schema:containsPlace geonames:2746301 .
 
-geonames:2746322 a schema1:Place .
+geonames:2746322 a schema:Place .
 
-geonames:2746331 a schema1:Place .
+geonames:2746331 a schema:Place .
 
-geonames:2746631 a schema1:Place .
+geonames:2746631 a schema:Place .
 
-geonames:2746761 a schema1:Place .
+geonames:2746761 a schema:Place .
 
-geonames:2746766 a schema1:Place .
+geonames:2746766 a schema:Place .
 
-geonames:2746826 a schema1:Place .
+geonames:2746826 a schema:Place .
 
-geonames:2746931 a schema1:Place .
+geonames:2746931 a schema:Place .
 
-geonames:2747033 a schema1:Place ;
-    schema1:containsPlace geonames:2747034 .
+geonames:2747033 a schema:Place ;
+    schema:containsPlace geonames:2747034 .
 
-geonames:2747054 a schema1:Place .
+geonames:2747054 a schema:Place .
 
-geonames:2747129 a schema1:Place .
+geonames:2747129 a schema:Place .
 
-geonames:2747132 a schema1:Place .
+geonames:2747132 a schema:Place .
 
-geonames:2747168 a schema1:Place ;
-    schema1:containsPlace geonames:2747169 .
+geonames:2747168 a schema:Place ;
+    schema:containsPlace geonames:2747169 .
 
-geonames:2747241 a schema1:Place .
+geonames:2747241 a schema:Place .
 
-geonames:2747442 a schema1:Place .
+geonames:2747442 a schema:Place .
 
-geonames:2747596 a schema1:Place ;
-    schema1:containsPlace geonames:2746125 .
+geonames:2747596 a schema:Place ;
+    schema:containsPlace geonames:2746125 .
 
-geonames:2748039 a schema1:Place .
+geonames:2748039 a schema:Place .
 
-geonames:2748448 a schema1:Place .
+geonames:2748448 a schema:Place .
 
-geonames:2748498 a schema1:Place .
+geonames:2748498 a schema:Place .
 
-geonames:2748777 a schema1:Place .
+geonames:2748777 a schema:Place .
 
-geonames:2748814 a schema1:Place .
+geonames:2748814 a schema:Place .
 
-geonames:2748835 a schema1:Place .
+geonames:2748835 a schema:Place .
 
-geonames:2749317 a schema1:Place .
+geonames:2749317 a schema:Place .
 
-geonames:2749550 a schema1:Place .
+geonames:2749550 a schema:Place .
 
-geonames:2749573 a schema1:Place .
+geonames:2749573 a schema:Place .
 
-geonames:2749653 a schema1:Place .
+geonames:2749653 a schema:Place .
 
-geonames:2749682 a schema1:Place ;
-    schema1:containsPlace geonames:2749683,
+geonames:2749682 a schema:Place ;
+    schema:containsPlace geonames:2749683,
         geonames:2757269 .
 
-geonames:2749985 a schema1:Place .
+geonames:2749985 a schema:Place .
 
-geonames:2750121 a schema1:Place .
+geonames:2750121 a schema:Place .
 
-geonames:2750607 a schema1:Place .
+geonames:2750607 a schema:Place .
 
-geonames:2750625 a schema1:Place ;
-    schema1:containsPlace geonames:2758786 .
+geonames:2750625 a schema:Place ;
+    schema:containsPlace geonames:2758786 .
 
-geonames:2750630 a schema1:Place .
+geonames:2750630 a schema:Place .
 
-geonames:2750647 a schema1:Place .
+geonames:2750647 a schema:Place .
 
-geonames:2751048 a schema1:Place .
+geonames:2751048 a schema:Place .
 
-geonames:2751143 a schema1:Place .
+geonames:2751143 a schema:Place .
 
-geonames:2751191 a schema1:Place .
+geonames:2751191 a schema:Place .
 
-geonames:2751282 a schema1:Place ;
-    schema1:containsPlace geonames:2751283 .
+geonames:2751282 a schema:Place ;
+    schema:containsPlace geonames:2751283 .
 
-geonames:2751285 a schema1:Place .
+geonames:2751285 a schema:Place .
 
-geonames:2751431 a schema1:Place .
+geonames:2751431 a schema:Place .
 
-geonames:2751537 a schema1:Place .
+geonames:2751537 a schema:Place .
 
-geonames:2751771 a schema1:Place .
+geonames:2751771 a schema:Place .
 
-geonames:2751807 a schema1:Place .
+geonames:2751807 a schema:Place .
 
-geonames:2751808 a schema1:Place .
+geonames:2751808 a schema:Place .
 
-geonames:2751865 a schema1:Place .
+geonames:2751865 a schema:Place .
 
-geonames:2752162 a schema1:Place .
+geonames:2752162 a schema:Place .
 
-geonames:2752236 a schema1:Place .
+geonames:2752236 a schema:Place .
 
-geonames:2752314 a schema1:Place .
+geonames:2752314 a schema:Place .
 
-geonames:2752733 a schema1:Place .
+geonames:2752733 a schema:Place .
 
-geonames:2752923 a schema1:Place .
+geonames:2752923 a schema:Place .
 
-geonames:2753201 a schema1:Place .
+geonames:2753201 a schema:Place .
 
-geonames:2753361 a schema1:Place .
+geonames:2753361 a schema:Place .
 
-geonames:2753638 a schema1:Place .
+geonames:2753638 a schema:Place .
 
-geonames:2753705 a schema1:Place .
+geonames:2753705 a schema:Place .
 
-geonames:2753844 a schema1:Place .
+geonames:2753844 a schema:Place .
 
-geonames:2754150 a schema1:Place .
+geonames:2754150 a schema:Place .
 
-geonames:2754272 a schema1:Place .
+geonames:2754272 a schema:Place .
 
-geonames:2754692 a schema1:Place ;
-    schema1:containsPlace geonames:2747702 .
+geonames:2754692 a schema:Place ;
+    schema:containsPlace geonames:2747702 .
 
-geonames:2754841 a schema1:Place .
+geonames:2754841 a schema:Place .
 
-geonames:2754858 a schema1:Place ;
-    schema1:containsPlace geonames:2754861 .
+geonames:2754858 a schema:Place ;
+    schema:containsPlace geonames:2754861 .
 
-geonames:2755034 a schema1:Place .
+geonames:2755034 a schema:Place .
 
-geonames:2755434 a schema1:Place .
+geonames:2755434 a schema:Place .
 
-geonames:2755517 a schema1:Place .
+geonames:2755517 a schema:Place .
 
-geonames:2755787 a schema1:Place .
+geonames:2755787 a schema:Place .
 
-geonames:2756039 a schema1:Place .
+geonames:2756039 a schema:Place .
 
-geonames:2756397 a schema1:Place .
+geonames:2756397 a schema:Place .
 
-geonames:2756399 a schema1:Place .
+geonames:2756399 a schema:Place .
 
-geonames:2756400 a schema1:Place .
+geonames:2756400 a schema:Place .
 
-geonames:2756644 a schema1:Place .
+geonames:2756644 a schema:Place .
 
-geonames:2757014 a schema1:Place .
+geonames:2757014 a schema:Place .
 
-geonames:2757340 a schema1:Place .
+geonames:2757340 a schema:Place .
 
-geonames:2757667 a schema1:Place .
+geonames:2757667 a schema:Place .
 
-geonames:2757782 a schema1:Place ;
-    schema1:containsPlace geonames:2755302,
+geonames:2757782 a schema:Place ;
+    schema:containsPlace geonames:2755302,
         geonames:2757783,
         geonames:2758927 .
 
-geonames:2757871 a schema1:Place .
+geonames:2757871 a schema:Place .
 
-geonames:2758052 a schema1:Place .
+geonames:2758052 a schema:Place .
 
-geonames:2758095 a schema1:Place ;
-    schema1:containsPlace geonames:2759006 .
+geonames:2758095 a schema:Place ;
+    schema:containsPlace geonames:2759006 .
 
-geonames:2758426 a schema1:Place .
+geonames:2758426 a schema:Place .
 
-geonames:2758547 a schema1:Place .
+geonames:2758547 a schema:Place .
 
-geonames:2758588 a schema1:Place ;
-    schema1:containsPlace geonames:2747355,
+geonames:2758588 a schema:Place ;
+    schema:containsPlace geonames:2747355,
         geonames:2748803,
         geonames:2758587 .
 
-geonames:2758777 a schema1:Place .
+geonames:2758777 a schema:Place .
 
-geonames:2758804 a schema1:Place .
+geonames:2758804 a schema:Place .
 
-geonames:2759006 a schema1:Place .
+geonames:2759006 a schema:Place .
 
-geonames:2759288 a schema1:Place .
+geonames:2759288 a schema:Place .
 
-geonames:2759385 a schema1:Place .
+geonames:2759385 a schema:Place .
 
-geonames:2759398 a schema1:Place .
+geonames:2759398 a schema:Place .
 
-geonames:2759406 a schema1:Place ;
-    schema1:containsPlace geonames:2759407 .
+geonames:2759406 a schema:Place ;
+    schema:containsPlace geonames:2759407 .
 
-geonames:2759407 a schema1:Place .
+geonames:2759407 a schema:Place .
 
-geonames:2759543 a schema1:Place ;
-    schema1:containsPlace geonames:2752018,
+geonames:2759543 a schema:Place ;
+    schema:containsPlace geonames:2752018,
         geonames:2759544 .
 
-geonames:2759548 a schema1:Place .
+geonames:2759548 a schema:Place .
 
-geonames:2759643 a schema1:Place .
+geonames:2759643 a schema:Place .
 
-geonames:2759849 a schema1:Place .
+geonames:2759849 a schema:Place .
 
-geonames:2759875 a schema1:Place .
+geonames:2759875 a schema:Place .
 
-geonames:2759879 a schema1:Place .
+geonames:2759879 a schema:Place .
 
-geonames:2759915 a schema1:Place .
+geonames:2759915 a schema:Place .
 
-geonames:2783770 a schema1:Place ;
-    schema1:containsPlace geonames:2794054 .
+geonames:2783770 a schema:Place ;
+    schema:containsPlace geonames:2794054 .
 
-geonames:2794575 a schema1:Place .
+geonames:2794575 a schema:Place .
 
-geonames:2825297 a schema1:Place .
+geonames:2825297 a schema:Place .
 
-geonames:2852217 a schema1:Place .
+geonames:2852217 a schema:Place .
 
-geonames:2861876 a schema1:Place ;
-    schema1:containsPlace geonames:2843198,
+geonames:2861876 a schema:Place ;
+    schema:containsPlace geonames:2843198,
         geonames:2886241,
         geonames:2934245 .
 
-geonames:2867711 a schema1:Place .
+geonames:2867711 a schema:Place .
 
-geonames:2918632 a schema1:Place .
+geonames:2918632 a schema:Place .
 
-geonames:2919331 a schema1:Place .
+geonames:2919331 a schema:Place .
 
-geonames:2934691 a schema1:Place .
+geonames:2934691 a schema:Place .
 
-geonames:2953481 a schema1:Place ;
-    schema1:containsPlace geonames:2925180,
+geonames:2953481 a schema:Place ;
+    schema:containsPlace geonames:2925180,
         geonames:3214104,
         geonames:3214105 .
 
-geonames:2968731 a schema1:Place .
+geonames:2968731 a schema:Place .
 
-geonames:2968909 a schema1:Place .
+geonames:2968909 a schema:Place .
 
-geonames:2969022 a schema1:Place .
+geonames:2969022 a schema:Place .
 
-geonames:2973363 a schema1:Place .
+geonames:2973363 a schema:Place .
 
-geonames:2976330 a schema1:Place .
+geonames:2976330 a schema:Place .
 
-geonames:2976396 a schema1:Place .
+geonames:2976396 a schema:Place .
 
-geonames:2985244 a schema1:Place ;
-    schema1:containsPlace geonames:3031359 .
+geonames:2985244 a schema:Place ;
+    schema:containsPlace geonames:3031359 .
 
-geonames:298795 a schema1:Place .
+geonames:298795 a schema:Place .
 
-geonames:2990117 a schema1:Place .
+geonames:2990117 a schema:Place .
 
-geonames:2995318 a schema1:Place .
+geonames:2995318 a schema:Place .
 
-geonames:2998266 a schema1:Place .
+geonames:2998266 a schema:Place .
 
-geonames:3013663 a schema1:Place ;
-    schema1:containsPlace geonames:2973699,
+geonames:3013663 a schema:Place ;
+    schema:containsPlace geonames:2973699,
         geonames:2991213,
         geonames:3024296 .
 
-geonames:3017492 a schema1:Place .
+geonames:3017492 a schema:Place .
 
-geonames:3028179 a schema1:Place .
+geonames:3028179 a schema:Place .
 
-geonames:3038354 a schema1:Place .
+geonames:3038354 a schema:Place .
 
-geonames:3067696 a schema1:Place .
+geonames:3067696 a schema:Place .
 
-geonames:3382998 a schema1:Place .
+geonames:3382998 a schema:Place .
 
-geonames:3513790 a schema1:Place .
+geonames:3513790 a schema:Place .
 
-geonames:3827409 a schema1:Place .
+geonames:3827409 a schema:Place .
 
-geonames:400743 a schema1:Place .
+geonames:400743 a schema:Place .
 
-geonames:4197000 a schema1:Place ;
-    schema1:containsPlace geonames:4180439,
+geonames:4197000 a schema:Place ;
+    schema:containsPlace geonames:4180439,
         geonames:4196508 .
 
-geonames:4990729 a schema1:Place .
+geonames:4990729 a schema:Place .
 
-geonames:588335 a schema1:Place .
+geonames:588335 a schema:Place .
 
-geonames:588409 a schema1:Place .
+geonames:588409 a schema:Place .
 
-geonames:6251999 a schema1:Place ;
-    schema1:containsPlace geonames:6093943 .
+geonames:6251999 a schema:Place ;
+    schema:containsPlace geonames:6093943 .
 
-geonames:6254928 a schema1:Place .
+geonames:6254928 a schema:Place .
 
-geonames:6426885 a schema1:Place .
+geonames:6426885 a schema:Place .
 
-geonames:6619386 a schema1:Place .
+geonames:6619386 a schema:Place .
 
-geonames:664661 a schema1:Place .
+geonames:664661 a schema:Place .
 
-geonames:6692168 a schema1:Place .
+geonames:6692168 a schema:Place .
 
-geonames:670347 a schema1:Place .
+geonames:670347 a schema:Place .
 
-geonames:671964 a schema1:Place .
+geonames:671964 a schema:Place .
 
-geonames:676309 a schema1:Place ;
-    schema1:containsPlace geonames:8334721 .
+geonames:676309 a schema:Place ;
+    schema:containsPlace geonames:8334721 .
 
-geonames:6950732 a schema1:Place .
+geonames:6950732 a schema:Place .
 
-geonames:7303019 a schema1:Place .
+geonames:7303019 a schema:Place .
 
-geonames:7648383 a schema1:Place .
+geonames:7648383 a schema:Place .
 
-geonames:7869931 a schema1:Place .
+geonames:7869931 a schema:Place .
 
-geonames:798544 a schema1:Place ;
-    schema1:containsPlace geonames:3337493,
+geonames:798544 a schema:Place ;
+    schema:containsPlace geonames:3337493,
         geonames:858787 .
 
-geonames:798549 a schema1:Place ;
-    schema1:containsPlace geonames:663116,
+geonames:798549 a schema:Place ;
+    schema:containsPlace geonames:663116,
         geonames:664661,
         geonames:673612,
         geonames:676309,
@@ -26474,12 +26474,12 @@ geonames:798549 a schema1:Place ;
         geonames:683843,
         geonames:686581 .
 
-geonames:8354411 a schema1:Place ;
-    schema1:containsPlace geonames:8354411 .
+geonames:8354411 a schema:Place ;
+    schema:containsPlace geonames:8354411 .
 
-geonames:8505031 a schema1:Place .
+geonames:8505031 a schema:Place .
 
-geonames:9891200 a schema1:Place .
+geonames:9891200 a schema:Place .
 
 unesco:concept1151 a skos:Concept ;
     skos:broader unesco:concept463 .
@@ -26556,15 +26556,15 @@ unesco:concept935 a skos:Concept .
 unesco:concept9490 a skos:Concept ;
     skos:broader unesco:concept671 .
 
-geonames:11525041 a schema1:Place ;
-    schema1:containsPlace geonames:11525082,
+geonames:11525041 a schema:Place ;
+    schema:containsPlace geonames:11525082,
         geonames:11525083,
         geonames:11525099 .
 
-geonames:1737486 a schema1:Place .
+geonames:1737486 a schema:Place .
 
-geonames:1835841 a schema1:Place ;
-    schema1:containsPlace geonames:1835841,
+geonames:1835841 a schema:Place ;
+    schema:containsPlace geonames:1835841,
         geonames:1835847,
         geonames:1835848,
         geonames:1838519,
@@ -26572,30 +26572,30 @@ geonames:1835841 a schema1:Place ;
         geonames:1843561,
         geonames:1843564 .
 
-geonames:1861060 a schema1:Place .
+geonames:1861060 a schema:Place .
 
-geonames:187740 a schema1:Place .
+geonames:187740 a schema:Place .
 
-geonames:191299 a schema1:Place .
+geonames:191299 a schema:Place .
 
-geonames:191964 a schema1:Place .
+geonames:191964 a schema:Place .
 
-geonames:194521 a schema1:Place .
+geonames:194521 a schema:Place .
 
-geonames:2267057 a schema1:Place .
+geonames:2267057 a schema:Place .
 
-geonames:2274895 a schema1:Place .
+geonames:2274895 a schema:Place .
 
-geonames:2276506 a schema1:Place .
+geonames:2276506 a schema:Place .
 
-geonames:2277241 a schema1:Place .
+geonames:2277241 a schema:Place .
 
-geonames:2294915 a schema1:Place .
+geonames:2294915 a schema:Place .
 
-geonames:2295628 a schema1:Place .
+geonames:2295628 a schema:Place .
 
-geonames:2300660 a schema1:Place ;
-    schema1:containsPlace geonames:12105075,
+geonames:2300660 a schema:Place ;
+    schema:containsPlace geonames:12105075,
         geonames:2294076,
         geonames:2294915,
         geonames:2295628,
@@ -26605,246 +26605,246 @@ geonames:2300660 a schema1:Place ;
         geonames:2301174,
         geonames:2304207 .
 
-geonames:2304207 a schema1:Place .
+geonames:2304207 a schema:Place .
 
-geonames:2449067 a schema1:Place .
+geonames:2449067 a schema:Place .
 
-geonames:2629691 a schema1:Place ;
-    schema1:containsPlace geonames:3337405,
+geonames:2629691 a schema:Place ;
+    schema:containsPlace geonames:3337405,
         geonames:3337406,
         geonames:3426182,
         geonames:3426184 .
 
-geonames:2661886 a schema1:Place ;
-    schema1:containsPlace geonames:2722708 .
+geonames:2661886 a schema:Place ;
+    schema:containsPlace geonames:2722708 .
 
-geonames:2743628 a schema1:Place .
+geonames:2743628 a schema:Place .
 
-geonames:2743913 a schema1:Place .
+geonames:2743913 a schema:Place .
 
-geonames:2744153 a schema1:Place .
+geonames:2744153 a schema:Place .
 
-geonames:2744191 a schema1:Place .
+geonames:2744191 a schema:Place .
 
-geonames:2745332 a schema1:Place .
+geonames:2745332 a schema:Place .
 
-geonames:2745392 a schema1:Place .
+geonames:2745392 a schema:Place .
 
-geonames:2745467 a schema1:Place ;
-    schema1:containsPlace geonames:2753844 .
+geonames:2745467 a schema:Place ;
+    schema:containsPlace geonames:2753844 .
 
-geonames:2745493 a schema1:Place .
+geonames:2745493 a schema:Place .
 
-geonames:2745579 a schema1:Place .
+geonames:2745579 a schema:Place .
 
-geonames:2745960 a schema1:Place .
+geonames:2745960 a schema:Place .
 
-geonames:2746215 a schema1:Place .
+geonames:2746215 a schema:Place .
 
-geonames:2746624 a schema1:Place .
+geonames:2746624 a schema:Place .
 
-geonames:2746816 a schema1:Place .
+geonames:2746816 a schema:Place .
 
-geonames:2746877 a schema1:Place .
+geonames:2746877 a schema:Place .
 
-geonames:2746932 a schema1:Place .
+geonames:2746932 a schema:Place .
 
-geonames:2747231 a schema1:Place .
+geonames:2747231 a schema:Place .
 
-geonames:2747355 a schema1:Place .
+geonames:2747355 a schema:Place .
 
-geonames:2747475 a schema1:Place .
+geonames:2747475 a schema:Place .
 
-geonames:2747593 a schema1:Place .
+geonames:2747593 a schema:Place .
 
-geonames:2748413 a schema1:Place .
+geonames:2748413 a schema:Place .
 
-geonames:2748591 a schema1:Place .
+geonames:2748591 a schema:Place .
 
-geonames:2749234 a schema1:Place .
+geonames:2749234 a schema:Place .
 
-geonames:2749683 a schema1:Place .
+geonames:2749683 a schema:Place .
 
-geonames:2750025 a schema1:Place .
+geonames:2750025 a schema:Place .
 
-geonames:2750065 a schema1:Place .
+geonames:2750065 a schema:Place .
 
-geonames:2750473 a schema1:Place .
+geonames:2750473 a schema:Place .
 
-geonames:2750569 a schema1:Place .
+geonames:2750569 a schema:Place .
 
-geonames:2750753 a schema1:Place .
+geonames:2750753 a schema:Place .
 
-geonames:2750815 a schema1:Place .
+geonames:2750815 a schema:Place .
 
-geonames:2750896 a schema1:Place .
+geonames:2750896 a schema:Place .
 
-geonames:2750947 a schema1:Place .
+geonames:2750947 a schema:Place .
 
-geonames:2751254 a schema1:Place .
+geonames:2751254 a schema:Place .
 
-geonames:2751280 a schema1:Place .
+geonames:2751280 a schema:Place .
 
-geonames:2751290 a schema1:Place .
+geonames:2751290 a schema:Place .
 
-geonames:2751314 a schema1:Place .
+geonames:2751314 a schema:Place .
 
-geonames:2751358 a schema1:Place .
+geonames:2751358 a schema:Place .
 
-geonames:2751364 a schema1:Place .
+geonames:2751364 a schema:Place .
 
-geonames:2751385 a schema1:Place .
+geonames:2751385 a schema:Place .
 
-geonames:2751729 a schema1:Place .
+geonames:2751729 a schema:Place .
 
-geonames:2751769 a schema1:Place .
+geonames:2751769 a schema:Place .
 
-geonames:2751888 a schema1:Place .
+geonames:2751888 a schema:Place .
 
-geonames:2751890 a schema1:Place .
+geonames:2751890 a schema:Place .
 
-geonames:2752798 a schema1:Place .
+geonames:2752798 a schema:Place .
 
-geonames:2753174 a schema1:Place .
+geonames:2753174 a schema:Place .
 
-geonames:2753302 a schema1:Place .
+geonames:2753302 a schema:Place .
 
-geonames:2753390 a schema1:Place .
+geonames:2753390 a schema:Place .
 
-geonames:2753556 a schema1:Place ;
-    schema1:containsPlace geonames:2747703,
+geonames:2753556 a schema:Place ;
+    schema:containsPlace geonames:2747703,
         geonames:2753557 .
 
-geonames:2753719 a schema1:Place .
+geonames:2753719 a schema:Place .
 
-geonames:2754059 a schema1:Place .
+geonames:2754059 a schema:Place .
 
-geonames:2754130 a schema1:Place .
+geonames:2754130 a schema:Place .
 
-geonames:2754381 a schema1:Place .
+geonames:2754381 a schema:Place .
 
-geonames:2754457 a schema1:Place .
+geonames:2754457 a schema:Place .
 
-geonames:2754669 a schema1:Place .
+geonames:2754669 a schema:Place .
 
-geonames:2754724 a schema1:Place .
+geonames:2754724 a schema:Place .
 
-geonames:2755786 a schema1:Place .
+geonames:2755786 a schema:Place .
 
-geonames:2756235 a schema1:Place .
+geonames:2756235 a schema:Place .
 
-geonames:2756674 a schema1:Place .
+geonames:2756674 a schema:Place .
 
-geonames:2756890 a schema1:Place .
+geonames:2756890 a schema:Place .
 
-geonames:2757867 a schema1:Place .
+geonames:2757867 a schema:Place .
 
-geonames:2757899 a schema1:Place ;
-    schema1:containsPlace geonames:2757899 .
+geonames:2757899 a schema:Place ;
+    schema:containsPlace geonames:2757899 .
 
-geonames:2757937 a schema1:Place .
+geonames:2757937 a schema:Place .
 
-geonames:2758064 a schema1:Place .
+geonames:2758064 a schema:Place .
 
-geonames:2758103 a schema1:Place ;
-    schema1:containsPlace geonames:2758104 .
+geonames:2758103 a schema:Place ;
+    schema:containsPlace geonames:2758104 .
 
-geonames:2758104 a schema1:Place .
+geonames:2758104 a schema:Place .
 
-geonames:2758105 a schema1:Place ;
-    schema1:containsPlace geonames:6950732 .
+geonames:2758105 a schema:Place ;
+    schema:containsPlace geonames:6950732 .
 
-geonames:2758460 a schema1:Place .
+geonames:2758460 a schema:Place .
 
-geonames:2758587 a schema1:Place .
+geonames:2758587 a schema:Place .
 
-geonames:2758946 a schema1:Place .
+geonames:2758946 a schema:Place .
 
-geonames:2758998 a schema1:Place .
+geonames:2758998 a schema:Place .
 
-geonames:2759029 a schema1:Place .
+geonames:2759029 a schema:Place .
 
-geonames:2759197 a schema1:Place .
+geonames:2759197 a schema:Place .
 
-geonames:2759472 a schema1:Place .
+geonames:2759472 a schema:Place .
 
-geonames:2759798 a schema1:Place .
+geonames:2759798 a schema:Place .
 
-geonames:2759828 a schema1:Place .
+geonames:2759828 a schema:Place .
 
-geonames:2760027 a schema1:Place .
+geonames:2760027 a schema:Place .
 
-geonames:2760134 a schema1:Place .
+geonames:2760134 a schema:Place .
 
-geonames:2803138 a schema1:Place .
+geonames:2803138 a schema:Place .
 
-geonames:2852458 a schema1:Place .
+geonames:2852458 a schema:Place .
 
-geonames:2903874 a schema1:Place ;
-    schema1:containsPlace geonames:2903874 .
+geonames:2903874 a schema:Place ;
+    schema:containsPlace geonames:2903874 .
 
-geonames:2939214 a schema1:Place ;
-    schema1:containsPlace geonames:2939214 .
+geonames:2939214 a schema:Place ;
+    schema:containsPlace geonames:2939214 .
 
-geonames:2951839 a schema1:Place ;
-    schema1:containsPlace geonames:2861322,
+geonames:2951839 a schema:Place ;
+    schema:containsPlace geonames:2861322,
         geonames:2870736 .
 
-geonames:2972315 a schema1:Place .
+geonames:2972315 a schema:Place .
 
-geonames:2976524 a schema1:Place .
+geonames:2976524 a schema:Place .
 
-geonames:3017842 a schema1:Place .
+geonames:3017842 a schema:Place .
 
-geonames:3038033 a schema1:Place .
+geonames:3038033 a schema:Place .
 
-geonames:3054643 a schema1:Place .
+geonames:3054643 a schema:Place .
 
-geonames:3128760 a schema1:Place .
+geonames:3128760 a schema:Place .
 
-geonames:3336901 a schema1:Place ;
-    schema1:containsPlace geonames:3108287,
+geonames:3336901 a schema:Place ;
+    schema:containsPlace geonames:3108287,
         geonames:3128759 .
 
-geonames:3337388 a schema1:Place ;
-    schema1:containsPlace geonames:2783770,
+geonames:3337388 a schema:Place ;
+    schema:containsPlace geonames:2783770,
         geonames:2789733,
         geonames:2792347,
         geonames:2794575,
         geonames:2803136,
         geonames:3333250 .
 
-geonames:3522507 a schema1:Place .
+geonames:3522507 a schema:Place .
 
-geonames:3996063 a schema1:Place ;
-    schema1:containsPlace geonames:3514780,
+geonames:3996063 a schema:Place ;
+    schema:containsPlace geonames:3514780,
         geonames:3522509,
         geonames:3523272,
         geonames:3527646,
         geonames:3531011,
         geonames:4014336 .
 
-geonames:4049979 a schema1:Place .
+geonames:4049979 a schema:Place .
 
-geonames:4180439 a schema1:Place .
+geonames:4180439 a schema:Place .
 
-geonames:4335045 a schema1:Place .
+geonames:4335045 a schema:Place .
 
-geonames:6554291 a schema1:Place ;
-    schema1:containsPlace geonames:2821164,
+geonames:6554291 a schema:Place ;
+    schema:containsPlace geonames:2821164,
         geonames:6554291 .
 
-geonames:6941548 a schema1:Place .
+geonames:6941548 a schema:Place .
 
-geonames:6956040 a schema1:Place .
+geonames:6956040 a schema:Place .
 
-geonames:7302151 a schema1:Place .
+geonames:7302151 a schema:Place .
 
-geonames:7302152 a schema1:Place .
+geonames:7302152 a schema:Place .
 
-geonames:756135 a schema1:Place .
+geonames:756135 a schema:Place .
 
-geonames:9408659 a schema1:Place .
+geonames:9408659 a schema:Place .
 
 unesco:concept10297 a skos:Concept ;
     skos:broader unesco:concept4479 .
@@ -27073,11 +27073,11 @@ unesco:concept9679 a skos:Concept ;
 unesco:concept985 a skos:Concept ;
     skos:broader unesco:concept192 .
 
-geonames:11496662 a schema1:Place ;
-    schema1:containsPlace geonames:11496662 .
+geonames:11496662 a schema:Place ;
+    schema:containsPlace geonames:11496662 .
 
-geonames:2275384 a schema1:Place ;
-    schema1:containsPlace geonames:11809779,
+geonames:2275384 a schema:Place ;
+    schema:containsPlace geonames:11809779,
         geonames:2273468,
         geonames:2273898,
         geonames:2274372,
@@ -27099,95 +27099,95 @@ geonames:2275384 a schema1:Place ;
         geonames:2588491,
         geonames:9891200 .
 
-geonames:2328926 a schema1:Place .
+geonames:2328926 a schema:Place .
 
-geonames:2743608 a schema1:Place .
+geonames:2743608 a schema:Place .
 
-geonames:2743805 a schema1:Place ;
-    schema1:containsPlace geonames:2743805 .
+geonames:2743805 a schema:Place ;
+    schema:containsPlace geonames:2743805 .
 
-geonames:2746600 a schema1:Place .
+geonames:2746600 a schema:Place .
 
-geonames:2748000 a schema1:Place .
+geonames:2748000 a schema:Place .
 
-geonames:2748184 a schema1:Place ;
-    schema1:containsPlace geonames:2748185,
+geonames:2748184 a schema:Place ;
+    schema:containsPlace geonames:2748185,
         geonames:2760049 .
 
-geonames:2749644 a schema1:Place .
+geonames:2749644 a schema:Place .
 
-geonames:2751639 a schema1:Place .
+geonames:2751639 a schema:Place .
 
-geonames:2751738 a schema1:Place .
+geonames:2751738 a schema:Place .
 
-geonames:2752014 a schema1:Place .
+geonames:2752014 a schema:Place .
 
-geonames:2752367 a schema1:Place .
+geonames:2752367 a schema:Place .
 
-geonames:2753686 a schema1:Place ;
-    schema1:containsPlace geonames:2747475 .
+geonames:2753686 a schema:Place ;
+    schema:containsPlace geonames:2747475 .
 
-geonames:2753801 a schema1:Place .
+geonames:2753801 a schema:Place .
 
-geonames:2753987 a schema1:Place .
+geonames:2753987 a schema:Place .
 
-geonames:2754064 a schema1:Place .
+geonames:2754064 a schema:Place .
 
-geonames:2754652 a schema1:Place .
+geonames:2754652 a schema:Place .
 
-geonames:2755457 a schema1:Place .
+geonames:2755457 a schema:Place .
 
-geonames:2755476 a schema1:Place .
+geonames:2755476 a schema:Place .
 
-geonames:2755781 a schema1:Place .
+geonames:2755781 a schema:Place .
 
-geonames:2756136 a schema1:Place .
+geonames:2756136 a schema:Place .
 
-geonames:2756393 a schema1:Place ;
-    schema1:containsPlace geonames:2756393,
+geonames:2756393 a schema:Place ;
+    schema:containsPlace geonames:2756393,
         geonames:2756394,
         geonames:2756399 .
 
-geonames:2757015 a schema1:Place .
+geonames:2757015 a schema:Place .
 
-geonames:2757232 a schema1:Place ;
-    schema1:containsPlace geonames:2757232 .
+geonames:2757232 a schema:Place ;
+    schema:containsPlace geonames:2757232 .
 
-geonames:2757269 a schema1:Place .
+geonames:2757269 a schema:Place .
 
-geonames:2757295 a schema1:Place .
+geonames:2757295 a schema:Place .
 
-geonames:2757790 a schema1:Place .
+geonames:2757790 a schema:Place .
 
-geonames:2758333 a schema1:Place ;
-    schema1:containsPlace geonames:2758333 .
+geonames:2758333 a schema:Place ;
+    schema:containsPlace geonames:2758333 .
 
-geonames:2759544 a schema1:Place .
+geonames:2759544 a schema:Place .
 
-geonames:2759887 a schema1:Place .
+geonames:2759887 a schema:Place .
 
-geonames:2759899 a schema1:Place .
+geonames:2759899 a schema:Place .
 
-geonames:2760049 a schema1:Place .
+geonames:2760049 a schema:Place .
 
-geonames:2800866 a schema1:Place .
+geonames:2800866 a schema:Place .
 
-geonames:2925533 a schema1:Place .
+geonames:2925533 a schema:Place .
 
-geonames:2934728 a schema1:Place ;
-    schema1:containsPlace geonames:2934728 .
+geonames:2934728 a schema:Place ;
+    schema:containsPlace geonames:2934728 .
 
-geonames:2950159 a schema1:Place ;
-    schema1:containsPlace geonames:2810538,
+geonames:2950159 a schema:Place ;
+    schema:containsPlace geonames:2810538,
         geonames:2813472,
         geonames:2852217,
         geonames:2924573,
         geonames:6545310 .
 
-geonames:2994902 a schema1:Place .
+geonames:2994902 a schema:Place .
 
-geonames:3036264 a schema1:Place ;
-    schema1:containsPlace geonames:2968731,
+geonames:3036264 a schema:Place ;
+    schema:containsPlace geonames:2968731,
         geonames:2968909,
         geonames:2969022,
         geonames:2976330,
@@ -27203,8 +27203,8 @@ geonames:3036264 a schema1:Place ;
         geonames:6426885,
         geonames:6619386 .
 
-geonames:6255146 a schema1:Place ;
-    schema1:containsPlace geonames:187740,
+geonames:6255146 a schema:Place ;
+    schema:containsPlace geonames:187740,
         geonames:191299,
         geonames:191964,
         geonames:192950,
@@ -27225,15 +27225,15 @@ geonames:6255146 a schema1:Place ;
         geonames:2589581,
         geonames:400743 .
 
-geonames:6544259 a schema1:Place ;
-    schema1:containsPlace geonames:2759879 .
+geonames:6544259 a schema:Place ;
+    schema:containsPlace geonames:2759879 .
 
-geonames:7302154 a schema1:Place .
+geonames:7302154 a schema:Place .
 
-geonames:7535498 a schema1:Place .
+geonames:7535498 a schema:Place .
 
-geonames:792680 a schema1:Place ;
-    schema1:containsPlace geonames:792680 .
+geonames:792680 a schema:Place ;
+    schema:containsPlace geonames:792680 .
 
 unesco:concept1699 a skos:Concept ;
     skos:broader unesco:concept1746 .
@@ -27265,8 +27265,8 @@ unesco:concept669 a skos:Concept .
 
 unesco:concept670 a skos:Concept .
 
-geonames:2264397 a schema1:Place ;
-    schema1:containsPlace geonames:2264397,
+geonames:2264397 a schema:Place ;
+    schema:containsPlace geonames:2264397,
         geonames:2264507,
         geonames:2267056,
         geonames:2267057,
@@ -27274,27 +27274,27 @@ geonames:2264397 a schema1:Place ;
         geonames:2270984,
         geonames:2272034 .
 
-geonames:2451778 a schema1:Place .
+geonames:2451778 a schema:Place .
 
-geonames:2460596 a schema1:Place .
+geonames:2460596 a schema:Place .
 
-geonames:2510769 a schema1:Place ;
-    schema1:containsPlace geonames:2521383,
+geonames:2510769 a schema:Place ;
+    schema:containsPlace geonames:2521383,
         geonames:2593109,
         geonames:3336901 .
 
-geonames:2745333 a schema1:Place ;
-    schema1:containsPlace geonames:2745333 .
+geonames:2745333 a schema:Place ;
+    schema:containsPlace geonames:2745333 .
 
-geonames:2746351 a schema1:Place ;
-    schema1:containsPlace geonames:2746351 .
+geonames:2746351 a schema:Place ;
+    schema:containsPlace geonames:2746351 .
 
-geonames:2747029 a schema1:Place .
+geonames:2747029 a schema:Place .
 
-geonames:2747034 a schema1:Place .
+geonames:2747034 a schema:Place .
 
-geonames:2747890 a schema1:Place ;
-    schema1:containsPlace geonames:11524800,
+geonames:2747890 a schema:Place ;
+    schema:containsPlace geonames:11524800,
         geonames:2747891,
         geonames:2748647,
         geonames:2751280,
@@ -27304,70 +27304,70 @@ geonames:2747890 a schema1:Place ;
         geonames:6954190,
         geonames:7873874 .
 
-geonames:2748803 a schema1:Place ;
-    schema1:containsPlace geonames:2748803 .
+geonames:2748803 a schema:Place ;
+    schema:containsPlace geonames:2748803 .
 
-geonames:2750324 a schema1:Place ;
-    schema1:containsPlace geonames:2748110,
+geonames:2750324 a schema:Place ;
+    schema:containsPlace geonames:2748110,
         geonames:2749131,
         geonames:2750325 .
 
-geonames:2751688 a schema1:Place ;
-    schema1:containsPlace geonames:2751687 .
+geonames:2751688 a schema:Place ;
+    schema:containsPlace geonames:2751687 .
 
-geonames:2753919 a schema1:Place .
+geonames:2753919 a schema:Place .
 
-geonames:2754394 a schema1:Place .
+geonames:2754394 a schema:Place .
 
-geonames:2754428 a schema1:Place ;
-    schema1:containsPlace geonames:2754428 .
+geonames:2754428 a schema:Place ;
+    schema:containsPlace geonames:2754428 .
 
-geonames:2754712 a schema1:Place .
+geonames:2754712 a schema:Place .
 
-geonames:2757240 a schema1:Place .
+geonames:2757240 a schema:Place .
 
-geonames:2759040 a schema1:Place ;
-    schema1:containsPlace geonames:2759040 .
+geonames:2759040 a schema:Place ;
+    schema:containsPlace geonames:2759040 .
 
-geonames:2759145 a schema1:Place .
+geonames:2759145 a schema:Place .
 
-geonames:2759913 a schema1:Place ;
-    schema1:containsPlace geonames:2759913 .
+geonames:2759913 a schema:Place ;
+    schema:containsPlace geonames:2759913 .
 
-geonames:2821164 a schema1:Place ;
-    schema1:containsPlace geonames:2821164 .
+geonames:2821164 a schema:Place ;
+    schema:containsPlace geonames:2821164 .
 
-geonames:2843198 a schema1:Place .
+geonames:2843198 a schema:Place .
 
-geonames:2985656 a schema1:Place ;
-    schema1:containsPlace geonames:2985656 .
+geonames:2985656 a schema:Place ;
+    schema:containsPlace geonames:2985656 .
 
-geonames:3319179 a schema1:Place ;
-    schema1:containsPlace geonames:2749336,
+geonames:3319179 a schema:Place ;
+    schema:containsPlace geonames:2749336,
         geonames:2749851,
         geonames:2751737,
         geonames:6544259,
         geonames:7869931 .
 
-geonames:3530597 a schema1:Place ;
-    schema1:containsPlace geonames:3530597 .
+geonames:3530597 a schema:Place ;
+    schema:containsPlace geonames:3530597 .
 
-geonames:6290252 a schema1:Place ;
-    schema1:containsPlace geonames:6290252,
+geonames:6290252 a schema:Place ;
+    schema:containsPlace geonames:6290252,
         geonames:784272,
         geonames:785958,
         geonames:792680 .
 
-geonames:6698635 a schema1:Place .
+geonames:6698635 a schema:Place .
 
-geonames:719819 a schema1:Place ;
-    schema1:containsPlace geonames:3054638,
+geonames:719819 a schema:Place ;
+    schema:containsPlace geonames:3054638,
         geonames:3055744,
         geonames:722064,
         geonames:722433 .
 
-geonames:8714374 a schema1:Place ;
-    schema1:containsPlace geonames:8714374 .
+geonames:8714374 a schema:Place ;
+    schema:containsPlace geonames:8714374 .
 
 unesco:concept11251 a skos:Concept ;
     skos:broader unesco:concept638 .
@@ -27450,8 +27450,8 @@ unesco:concept8769 a skos:Concept ;
 unesco:concept8849 a skos:Concept ;
     skos:broader unesco:concept583 .
 
-geonames:192950 a schema1:Place ;
-    schema1:containsPlace geonames:11964397,
+geonames:192950 a schema:Place ;
+    schema:containsPlace geonames:11964397,
         geonames:178214,
         geonames:178837,
         geonames:182763,
@@ -27474,42 +27474,42 @@ geonames:192950 a schema1:Place ;
         geonames:7667638,
         geonames:7668902 .
 
-geonames:2453348 a schema1:Place .
+geonames:2453348 a schema:Place .
 
-geonames:2745431 a schema1:Place .
+geonames:2745431 a schema:Place .
 
-geonames:2745641 a schema1:Place .
+geonames:2745641 a schema:Place .
 
-geonames:2751496 a schema1:Place .
+geonames:2751496 a schema:Place .
 
-geonames:2751687 a schema1:Place .
+geonames:2751687 a schema:Place .
 
-geonames:2754814 a schema1:Place .
+geonames:2754814 a schema:Place .
 
-geonames:2756394 a schema1:Place .
+geonames:2756394 a schema:Place .
 
-geonames:2757783 a schema1:Place .
+geonames:2757783 a schema:Place .
 
-geonames:2758682 a schema1:Place .
+geonames:2758682 a schema:Place .
 
-geonames:2759793 a schema1:Place ;
-    schema1:containsPlace geonames:11525047,
+geonames:2759793 a schema:Place ;
+    schema:containsPlace geonames:11525047,
         geonames:2744904,
         geonames:2747132,
         geonames:2756888,
         geonames:2759794 .
 
-geonames:2802361 a schema1:Place ;
-    schema1:containsPlace geonames:2800867,
+geonames:2802361 a schema:Place ;
+    schema:containsPlace geonames:2800867,
         geonames:3337387,
         geonames:3337388 .
 
-geonames:2990228 a schema1:Place ;
-    schema1:containsPlace geonames:2990228 .
+geonames:2990228 a schema:Place ;
+    schema:containsPlace geonames:2990228 .
 
-geonames:3028641 a schema1:Place .
+geonames:3028641 a schema:Place .
 
-geonames:6621526 a schema1:Place .
+geonames:6621526 a schema:Place .
 
 unesco:concept10507 a skos:Concept ;
     skos:broader unesco:concept3317 .
@@ -27526,16 +27526,16 @@ unesco:concept6828 a skos:Concept ;
 unesco:concept8217 a skos:Concept ;
     skos:broader unesco:concept427 .
 
-geonames:10173839 a schema1:Place .
+geonames:10173839 a schema:Place .
 
-geonames:2743976 a schema1:Place ;
-    schema1:containsPlace geonames:2743977,
+geonames:2743976 a schema:Place ;
+    schema:containsPlace geonames:2743977,
         geonames:2745332,
         geonames:2753488,
         geonames:2757240 .
 
-geonames:2747372 a schema1:Place ;
-    schema1:containsPlace geonames:11525039,
+geonames:2747372 a schema:Place ;
+    schema:containsPlace geonames:11525039,
         geonames:11525040,
         geonames:11525041,
         geonames:11525044,
@@ -27548,14 +27548,14 @@ geonames:2747372 a schema1:Place ;
         geonames:2757014,
         geonames:6941548 .
 
-geonames:2748076 a schema1:Place ;
-    schema1:containsPlace geonames:2748554 .
+geonames:2748076 a schema:Place ;
+    schema:containsPlace geonames:2748554 .
 
-geonames:2754447 a schema1:Place ;
-    schema1:containsPlace geonames:2746695 .
+geonames:2754447 a schema:Place ;
+    schema:containsPlace geonames:2746695 .
 
-geonames:2756426 a schema1:Place ;
-    schema1:containsPlace geonames:2756426 .
+geonames:2756426 a schema:Place ;
+    schema:containsPlace geonames:2756426 .
 
 unesco:concept10308 a skos:Concept ;
     skos:broader unesco:concept13608 .
@@ -27620,8 +27620,8 @@ unesco:concept9673 a skos:Concept ;
 
 unesco:mt7.35 a skos:Concept .
 
-geonames:2453866 a schema1:Place ;
-    schema1:containsPlace geonames:2449066,
+geonames:2453866 a schema:Place ;
+    schema:containsPlace geonames:2449066,
         geonames:2449067,
         geonames:2451477,
         geonames:2451778,
@@ -27632,17 +27632,17 @@ geonames:2453866 a schema1:Place ;
         geonames:2460594,
         geonames:2460596 .
 
-geonames:2458589 a schema1:Place ;
-    schema1:containsPlace geonames:2458589 .
+geonames:2458589 a schema:Place ;
+    schema:containsPlace geonames:2458589 .
 
-geonames:2635167 a schema1:Place ;
-    schema1:containsPlace geonames:2634895,
+geonames:2635167 a schema:Place ;
+    schema:containsPlace geonames:2634895,
         geonames:2638360,
         geonames:2641364,
         geonames:6269131 .
 
-geonames:2744011 a schema1:Place ;
-    schema1:containsPlace geonames:2743805,
+geonames:2744011 a schema:Place ;
+    schema:containsPlace geonames:2743805,
         geonames:2744000,
         geonames:2745077,
         geonames:2745391,
@@ -27662,28 +27662,28 @@ geonames:2744011 a schema1:Place ;
         geonames:2758588,
         geonames:6544251 .
 
-geonames:2744248 a schema1:Place .
+geonames:2744248 a schema:Place .
 
-geonames:2747063 a schema1:Place .
+geonames:2747063 a schema:Place .
 
-geonames:2753676 a schema1:Place .
+geonames:2753676 a schema:Place .
 
-geonames:2755622 a schema1:Place ;
-    schema1:containsPlace geonames:2755622 .
+geonames:2755622 a schema:Place ;
+    schema:containsPlace geonames:2755622 .
 
 unesco:concept269 a skos:Concept .
 
 unesco:concept396 a skos:Concept ;
     skos:broader unesco:concept397 .
 
-geonames:2743856 a schema1:Place .
+geonames:2743856 a schema:Place .
 
-geonames:2745088 a schema1:Place .
+geonames:2745088 a schema:Place .
 
-geonames:2753557 a schema1:Place .
+geonames:2753557 a schema:Place .
 
-geonames:2754999 a schema1:Place ;
-    schema1:containsPlace geonames:10173839,
+geonames:2754999 a schema:Place ;
+    schema:containsPlace geonames:10173839,
         geonames:2743574,
         geonames:2745528,
         geonames:2746983,
@@ -27696,20 +27696,20 @@ geonames:2754999 a schema1:Place ;
         geonames:2760073,
         geonames:6296680 .
 
-geonames:2756071 a schema1:Place .
+geonames:2756071 a schema:Place .
 
-geonames:2759633 a schema1:Place ;
-    schema1:containsPlace geonames:2759633 .
+geonames:2759633 a schema:Place ;
+    schema:containsPlace geonames:2759633 .
 
-geonames:2759820 a schema1:Place ;
-    schema1:containsPlace geonames:2747029,
+geonames:2759820 a schema:Place ;
+    schema:containsPlace geonames:2747029,
         geonames:2747475,
         geonames:2751639,
         geonames:2753686,
         geonames:2759821 .
 
-geonames:3175395 a schema1:Place ;
-    schema1:containsPlace geonames:12511203,
+geonames:3175395 a schema:Place ;
+    schema:containsPlace geonames:12511203,
         geonames:3164604,
         geonames:3165361,
         geonames:3169778,
@@ -27745,31 +27745,31 @@ unesco:concept8391 a skos:Concept ;
 unesco:concept8813 a skos:Concept ;
     skos:broader unesco:concept582 .
 
-geonames:2751316 a schema1:Place ;
-    schema1:containsPlace geonames:2751314,
+geonames:2751316 a schema:Place ;
+    schema:containsPlace geonames:2751314,
         geonames:2751316 .
 
-geonames:2751792 a schema1:Place .
+geonames:2751792 a schema:Place .
 
-geonames:2755420 a schema1:Place .
+geonames:2755420 a schema:Place .
 
-geonames:2756686 a schema1:Place ;
-    schema1:containsPlace geonames:2756686 .
+geonames:2756686 a schema:Place ;
+    schema:containsPlace geonames:2756686 .
 
-geonames:2759706 a schema1:Place ;
-    schema1:containsPlace geonames:6621526 .
+geonames:2759706 a schema:Place ;
+    schema:containsPlace geonames:6621526 .
 
 unesco:concept17000 a skos:Concept ;
     skos:broader unesco:concept3777 .
 
-geonames:2747351 a schema1:Place .
+geonames:2747351 a schema:Place .
 
-geonames:2747775 a schema1:Place ;
-    schema1:containsPlace geonames:2747775 .
+geonames:2747775 a schema:Place ;
+    schema:containsPlace geonames:2747775 .
 
-geonames:2751773 a schema1:Place .
+geonames:2751773 a schema:Place .
 
-geonames:2757345 a schema1:Place .
+geonames:2757345 a schema:Place .
 
 unesco:concept11417 a skos:Concept ;
     skos:broader unesco:concept6991 .
@@ -27784,12 +27784,12 @@ unesco:concept3620 a skos:Concept ;
 
 unesco:concept367 a skos:Concept .
 
-geonames:2743477 a schema1:Place ;
-    schema1:containsPlace geonames:2753871 .
+geonames:2743477 a schema:Place ;
+    schema:containsPlace geonames:2753871 .
 
-geonames:2756987 a schema1:Place .
+geonames:2756987 a schema:Place .
 
-geonames:2988507 a schema1:Place .
+geonames:2988507 a schema:Place .
 
 unesco:concept1564 a skos:Concept ;
     skos:broader unesco:concept8050 .
@@ -27799,10 +27799,10 @@ unesco:concept524 a skos:Concept .
 unesco:concept7889 a skos:Concept ;
     skos:broader unesco:concept440 .
 
-geonames:2759661 a schema1:Place .
+geonames:2759661 a schema:Place .
 
-geonames:3017382 a schema1:Place ;
-    schema1:containsPlace geonames:11071620,
+geonames:3017382 a schema:Place ;
+    schema:containsPlace geonames:11071620,
         geonames:11071621,
         geonames:11071622,
         geonames:11071623,
@@ -27836,18 +27836,18 @@ unesco:concept4252 a skos:Concept ;
 unesco:concept6377 a skos:Concept ;
     skos:broader unesco:concept10308 .
 
-geonames:2745774 a schema1:Place ;
-    schema1:containsPlace geonames:2745774 .
+geonames:2745774 a schema:Place ;
+    schema:containsPlace geonames:2745774 .
 
-geonames:2748815 a schema1:Place .
+geonames:2748815 a schema:Place .
 
-geonames:2753082 a schema1:Place .
+geonames:2753082 a schema:Place .
 
-geonames:2756429 a schema1:Place ;
-    schema1:containsPlace geonames:2756429 .
+geonames:2756429 a schema:Place ;
+    schema:containsPlace geonames:2756429 .
 
-geonames:6252001 a schema1:Place ;
-    schema1:containsPlace geonames:12217079,
+geonames:6252001 a schema:Place ;
+    schema:containsPlace geonames:12217079,
         geonames:4049979,
         geonames:4138106,
         geonames:4155751,
@@ -27870,16 +27870,16 @@ geonames:6252001 a schema1:Place ;
         geonames:6254926,
         geonames:6254928 .
 
-geonames:7279858 a schema1:Place .
+geonames:7279858 a schema:Place .
 
-geonames:2745666 a schema1:Place .
+geonames:2745666 a schema:Place .
 
-geonames:2746058 a schema1:Place .
+geonames:2746058 a schema:Place .
 
-geonames:2751283 a schema1:Place .
+geonames:2751283 a schema:Place .
 
-geonames:2755249 a schema1:Place ;
-    schema1:containsPlace geonames:12022126,
+geonames:2755249 a schema:Place ;
+    schema:containsPlace geonames:12022126,
         geonames:12253550,
         geonames:2744668,
         geonames:2745782,
@@ -27887,8 +27887,8 @@ geonames:2755249 a schema1:Place ;
         geonames:2755250,
         geonames:7535498 .
 
-geonames:2756669 a schema1:Place ;
-    schema1:containsPlace geonames:2756669 .
+geonames:2756669 a schema:Place ;
+    schema:containsPlace geonames:2756669 .
 
 unesco:concept12328 a skos:Concept ;
     skos:broader unesco:concept6015 .
@@ -27902,11 +27902,11 @@ unesco:concept660 a skos:Concept .
 
 unesco:mt6.65 a skos:Concept .
 
-geonames:2743977 a schema1:Place ;
-    schema1:containsPlace geonames:2743977 .
+geonames:2743977 a schema:Place ;
+    schema:containsPlace geonames:2743977 .
 
-geonames:2748838 a schema1:Place ;
-    schema1:containsPlace geonames:2743476,
+geonames:2748838 a schema:Place ;
+    schema:containsPlace geonames:2743476,
         geonames:2743477,
         geonames:2743518,
         geonames:2745048,
@@ -27949,12 +27949,12 @@ geonames:2748838 a schema1:Place ;
         geonames:6544285,
         geonames:6544289 .
 
-geonames:2755003 a schema1:Place .
+geonames:2755003 a schema:Place .
 
-geonames:2746301 a schema1:Place .
+geonames:2746301 a schema:Place .
 
-geonames:2921044 a schema1:Place ;
-    schema1:containsPlace geonames:2822542,
+geonames:2921044 a schema:Place ;
+    schema:containsPlace geonames:2822542,
         geonames:2842565,
         geonames:2842566,
         geonames:2842635,
@@ -27985,8 +27985,8 @@ unesco:concept13188 a skos:Concept ;
 unesco:concept7908 a skos:Concept ;
     skos:broader unesco:concept14053 .
 
-geonames:2643743 a schema1:Place ;
-    schema1:containsPlace geonames:2637221,
+geonames:2643743 a schema:Place ;
+    schema:containsPlace geonames:2637221,
         geonames:2637825,
         geonames:2647476,
         geonames:2652222,
@@ -27996,8 +27996,8 @@ geonames:2643743 a schema1:Place ;
         geonames:6690989,
         geonames:7302129 .
 
-geonames:2749879 a schema1:Place ;
-    schema1:containsPlace geonames:11189015,
+geonames:2749879 a schema:Place ;
+    schema:containsPlace geonames:11189015,
         geonames:2744040,
         geonames:2744113,
         geonames:2744658,
@@ -28032,8 +28032,8 @@ geonames:2749879 a schema1:Place ;
 
 unesco:concept441 a skos:Concept .
 
-geonames:2743698 a schema1:Place ;
-    schema1:containsPlace geonames:10287316,
+geonames:2743698 a schema:Place ;
+    schema:containsPlace geonames:10287316,
         geonames:10287324,
         geonames:12022130,
         geonames:13192441,
@@ -28098,8 +28098,8 @@ geonames:2743698 a schema1:Place ;
         geonames:8260050,
         geonames:8549513 .
 
-geonames:2755251 a schema1:Place ;
-    schema1:containsPlace geonames:2755251 .
+geonames:2755251 a schema:Place ;
+    schema:containsPlace geonames:2755251 .
 
 unesco:concept1545 a skos:Concept ;
     skos:broader unesco:concept13608 .
@@ -28108,14 +28108,14 @@ unesco:concept386 a skos:Concept .
 
 unesco:concept444 a skos:Concept .
 
-geonames:2750325 a schema1:Place ;
-    schema1:containsPlace geonames:2745195,
+geonames:2750325 a schema:Place ;
+    schema:containsPlace geonames:2745195,
         geonames:2750325,
         geonames:2752105,
         geonames:2753174 .
 
-geonames:2756631 a schema1:Place ;
-    schema1:containsPlace geonames:2750946,
+geonames:2756631 a schema:Place ;
+    schema:containsPlace geonames:2750946,
         geonames:2750947,
         geonames:2752798,
         geonames:2753718,
@@ -28136,15 +28136,15 @@ geonames:2756631 a schema1:Place ;
 unesco:concept6401 a skos:Concept ;
     skos:broader unesco:concept440 .
 
-geonames:6296680 a schema1:Place .
+geonames:6296680 a schema:Place .
 
 unesco:concept440 a skos:Concept .
 
-geonames:2750053 a schema1:Place ;
-    schema1:containsPlace geonames:2750053 .
+geonames:2750053 a schema:Place ;
+    schema:containsPlace geonames:2750053 .
 
-geonames:2751596 a schema1:Place ;
-    schema1:containsPlace geonames:2744910,
+geonames:2751596 a schema:Place ;
+    schema:containsPlace geonames:2744910,
         geonames:2745633,
         geonames:2745640,
         geonames:2747999,
@@ -28162,8 +28162,8 @@ geonames:2751596 a schema1:Place ;
 
 unesco:concept447 a skos:Concept .
 
-geonames:2755634 a schema1:Place ;
-    schema1:containsPlace geonames:12022127,
+geonames:2755634 a schema:Place ;
+    schema:containsPlace geonames:12022127,
         geonames:2743607,
         geonames:2744101,
         geonames:2744331,
@@ -28194,14 +28194,14 @@ geonames:2755634 a schema1:Place ;
         geonames:6544269,
         geonames:6544286 .
 
-geonames:2758401 a schema1:Place ;
-    schema1:containsPlace geonames:2759259 .
+geonames:2758401 a schema:Place ;
+    schema:containsPlace geonames:2759259 .
 
 unesco:concept2148 a skos:Concept ;
     skos:broader unesco:concept448 .
 
-geonames:2745911 a schema1:Place ;
-    schema1:containsPlace geonames:2745431,
+geonames:2745911 a schema:Place ;
+    schema:containsPlace geonames:2745431,
         geonames:2745702,
         geonames:2745911,
         geonames:2745912,
@@ -28214,13 +28214,13 @@ geonames:2745911 a schema1:Place ;
         geonames:2757295,
         geonames:6698635 .
 
-geonames:2756253 a schema1:Place ;
-    schema1:containsPlace geonames:2746215,
+geonames:2756253 a schema:Place ;
+    schema:containsPlace geonames:2746215,
         geonames:2746624,
         geonames:2756253 .
 
-geonames:2755812 a schema1:Place ;
-    schema1:containsPlace geonames:10287303,
+geonames:2755812 a schema:Place ;
+    schema:containsPlace geonames:10287303,
         geonames:12022131,
         geonames:2744153,
         geonames:2744179,
@@ -28262,8 +28262,8 @@ geonames:2755812 a schema1:Place ;
 unesco:concept5884 a skos:Concept ;
     skos:broader unesco:concept13122 .
 
-geonames:6255148 a schema1:Place ;
-    schema1:containsPlace geonames:2017370,
+geonames:6255148 a schema:Place ;
+    schema:containsPlace geonames:2017370,
         geonames:2264397,
         geonames:2510769,
         geonames:2623032,
@@ -28294,8 +28294,8 @@ geonames:6255148 a schema1:Place ;
         geonames:831053,
         geonames:8505033 .
 
-geonames:2759821 a schema1:Place ;
-    schema1:containsPlace geonames:2747029,
+geonames:2759821 a schema:Place ;
+    schema:containsPlace geonames:2747029,
         geonames:2751639,
         geonames:2759821 .
 
@@ -28304,8 +28304,8 @@ unesco:concept11996 a skos:Concept ;
 
 unesco:concept427 a skos:Concept .
 
-geonames:2745909 a schema1:Place ;
-    schema1:containsPlace geonames:2743976,
+geonames:2745909 a schema:Place ;
+    schema:containsPlace geonames:2743976,
         geonames:2743977,
         geonames:2744247,
         geonames:2744482,
@@ -28361,8 +28361,8 @@ geonames:2745909 a schema1:Place ;
         geonames:6956040,
         geonames:8260047 .
 
-geonames:2749990 a schema1:Place ;
-    schema1:containsPlace geonames:11669500,
+geonames:2749990 a schema:Place ;
+    schema:containsPlace geonames:11669500,
         geonames:12022128,
         geonames:12494993,
         geonames:2743618,
@@ -28411,18 +28411,18 @@ geonames:2749990 a schema1:Place ;
 unesco:concept15971 a skos:Concept ;
     skos:broader unesco:concept2148 .
 
-geonames:2747373 a schema1:Place .
+geonames:2747373 a schema:Place .
 
-geonames:2747891 a schema1:Place ;
-    schema1:containsPlace geonames:2747891,
+geonames:2747891 a schema:Place ;
+    schema:containsPlace geonames:2747891,
         geonames:2752314,
         geonames:2757347 .
 
-geonames:7279861 a schema1:Place ;
-    schema1:containsPlace geonames:7279861 .
+geonames:7279861 a schema:Place ;
+    schema:containsPlace geonames:7279861 .
 
-geonames:2759794 a schema1:Place ;
-    schema1:containsPlace geonames:10173839,
+geonames:2759794 a schema:Place ;
+    schema:containsPlace geonames:10173839,
         geonames:2747129,
         geonames:2753201,
         geonames:2758564,
@@ -28432,8 +28432,8 @@ geonames:2759794 a schema1:Place ;
         geonames:7648381,
         geonames:7648383 .
 
-geonames:2750405 a schema1:Place ;
-    schema1:containsPlace geonames:10173839,
+geonames:2750405 a schema:Place ;
+    schema:containsPlace geonames:10173839,
         geonames:11525041,
         geonames:12022127,
         geonames:12022128,
@@ -28663,8 +28663,8 @@ geonames:2750405 a schema1:Place ;
         geonames:7648383,
         geonames:8714374 .
 
-geonames:2745912 a schema1:Place ;
-    schema1:containsPlace geonames:2743628,
+geonames:2745912 a schema:Place ;
+    schema:containsPlace geonames:2743628,
         geonames:2745912,
         geonames:2746124,
         geonames:2746222,
