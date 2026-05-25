@@ -57,6 +57,11 @@ dcterms:title rdfs:domain :SGPLThesis ;
 ###  http://purl.org/dc/terms/creator
 dcterms:creator rdfs:domain :SGPLThesis ;
                 rdfs:range xsd:string .
+				
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#thesisID
+:thesisID rdf:type owl:DatatypeProperty ;
+             rdfs:domain :SGPLThesis ;
+             rdfs:range xsd:integer .
 
 ###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SpatialText
 :SpatialText rdf:type owl:DatatypeProperty ;
@@ -64,7 +69,8 @@ dcterms:creator rdfs:domain :SGPLThesis ;
              rdfs:range xsd:string .
 
 ###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#textContext
-:textContext rdf:type owl:DatatypeProperty .
+:textContext rdf:type owl:DatatypeProperty ;
+             rdfs:range xsd:string .
 
 ###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SubjectText
 :SubjectText rdf:type owl:DatatypeProperty ;
@@ -88,13 +94,13 @@ dcterms:creator rdfs:domain :SGPLThesis ;
 :SpatialReference rdf:type owl:Class .
 
 
-###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SpatialReferenceFocus
-:SpatialReferenceFocus rdf:type owl:Class ;
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SpatialExtentReference
+:SpatialExtentReference rdf:type owl:Class ;
                       rdfs:subClassOf :SpatialReference .
 
 
-###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SpatialReferenceMention
-:SpatialReferenceMention rdf:type owl:Class ;
+###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SpatialMentionReference
+:SpatialMentionReference rdf:type owl:Class ;
                         rdfs:subClassOf :SpatialReference .
 
 ###  https://carmelsuchard.github.io/SGPL_Thesis_Archive/SGPLThesis_ontology#SubjectReference
