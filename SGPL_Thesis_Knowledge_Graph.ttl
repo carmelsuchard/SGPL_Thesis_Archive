@@ -6,23 +6,6 @@
 @prefix unesco: <http://vocabularies.unesco.org/thesaurus/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-geonames:6255147 schema:containsPlace geonames:1269750,
-        geonames:1643084,
-        geonames:1733045,
-        geonames:1814991,
-        geonames:1835841,
-        geonames:1861060,
-        geonames:1873107,
-        geonames:294640,
-        geonames:298795 .
-
-geonames:6255149 schema:containsPlace geonames:3577279,
-        geonames:3996063,
-        geonames:6251999,
-        geonames:6252001,
-        geonames:7626836,
-        geonames:8505032 .
-
 sgpl:Thesis100 a sgpl:SGPLThesis ;
     dcterms:creator "H. Prins" ;
     dcterms:issued 1981 ;
@@ -28676,3 +28659,20 @@ geonames:2745912 a schema:Place ;
         geonames:2753676,
         geonames:2757015,
         geonames:6698635 .
+
+geonames:6255147 schema:containsPlace geonames:1269750,
+        geonames:1643084,
+        geonames:1733045,
+        geonames:1814991,
+        geonames:1835841,
+        geonames:1861060,
+        geonames:1873107,
+        geonames:294640,
+        geonames:298795 .
+
+geonames:6255149 schema:containsPlace geonames:3577279,
+        geonames:3996063,
+        geonames:6251999,
+        geonames:6252001,
+        geonames:7626836,
+        geonames:8505032 .
